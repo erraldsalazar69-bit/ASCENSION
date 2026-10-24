@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-24T20:34:57.255084+00:00",
+  "updated": "2026-10-24T22:35:35.321605+00:00",
   "topics": {
     "WORLD": [
       {
@@ -9,10 +9,16 @@
         "date": "Sat, 24 Oct 2026 14:38:21 GMT"
       },
       {
-        "title": "Flagstaff Celebrates 25th Anniversary as the World’s First International Dark Sky City - El Paso Times",
-        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPRkhZU1RmSmxJNkNyUW5PN2pZSW9RbDludVN0OWhnTmk1b1NBQ05fbkIxR2hTWm1TYVpsejBTX0I3ZURuYkRjNEU0X2VFRWJkSGloSzRJQ2ozdjFOQ3FYUXVBWXJYSFVkRDJtS2FTNHdqQ1hVdnVqUXQ1NzIzX0VpUHl5OW1uUG8zMDhQVmd6a1pBUkk3RGczTHdEVF8yTUp6RTdJbi00YnpfTmV6bnBfb0FoLThNcG1OdDg2SVM5SjBVQ1ZNeVNMSERUSnpzUVNaVzhpWXYya0o?oc=5",
-        "source": "El Paso Times",
-        "date": "Sat, 24 Oct 2026 18:40:05 GMT"
+        "title": "Flagstaff Celebrates 25th Anniversary as the World’s First International Dark Sky City - Democrat and Chronicle",
+        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPNXBoY1pLZFA0UzNCdVRIcVpOQWRpelVnUXkyclctRlRkUjhGNzA5V011MmpRTEhBYnVxZE53MzQwZVFFQlE0Wlk0a3liNV82NThuYmNEbkFrSUFsWkZPay1FNGdURTk5a1VBaHV2VFZMMzdObW5VTHpIelQ4eXpEeE1JSWZPQnZKcjdZZUFHV0RsQTcxOEdWOUEwNl9sNm1ZcUpKYUVra3JPYk9CV0pBcUlieGJKa2FNbFotYXJsTUlobHF3d2dZUnJjcXZBYWNtQlZVcFl4NHBNMm9WbXNVVGlOTVo?oc=5",
+        "source": "Democrat and Chronicle",
+        "date": "Sat, 24 Oct 2026 19:47:01 GMT"
+      },
+      {
+        "title": "Why Are Countries Building New Global Networks? - Fair Observer",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQSnAyclpuODM5RWZiTklpNVlfRkxZVFZQX3NKWEtPR1B3cDRhQWFBU2JnajVWWFBZQXlXakxDZXpMX0hvSjdGSG83ZHllU3ZjcVNORmhvekgxYjhlaEg0Q1BzSWd2ZEtJYnJEUXlHcjFPTXdjWW9uTm04N0pSSjVuelNZc0xUT09KbUczSE9GRUJVYU9BTnJFUU9VNXVsUVk?oc=5",
+        "source": "Fair Observer",
+        "date": "Sat, 24 Oct 2026 10:47:00 GMT"
       },
       {
         "title": "Keeping the world safe when no one is in charge - Al Jazeera",
@@ -27,12 +33,6 @@
         "date": "Sat, 24 Oct 2026 04:55:27 GMT"
       },
       {
-        "title": "UN marks 81 years of global cooperation - UN News",
-        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBoWkxtRS0tRjl6YlRXUzVCaGxGZ21zMC1lNHZLUUEzeTdZTGlDaXpsN1VURmQtU3lKMm1ZbC1HamVZcjZzeFcwUVhvTWNCaE44NmZuVXJEOA?oc=5",
-        "source": "UN News",
-        "date": "Sat, 24 Oct 2026 02:00:00 GMT"
-      },
-      {
         "title": "Multilateralism priorities highlighted at Xiong'an global governance forum - China Daily",
         "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5oWUVaM2dEX3BSN3loSEMtVVI0SHdIMVpXUExYbFl0cE1yWEM3aHZtYml3RUotd1JCeTlXOFVJN2IzTlppczB2ZTMtUm9NZHk5ZjRkbHgxSWotRzMtMFJHX2N2emtKLXJHdjc4NnJlMVlsM284U0Nad0drZXdWUQ?oc=5",
         "source": "China Daily",
@@ -45,6 +45,12 @@
         "date": "Sat, 24 Oct 2026 08:22:51 GMT"
       },
       {
+        "title": "UN marks 81 years of global cooperation - UN News",
+        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBoWkxtRS0tRjl6YlRXUzVCaGxGZ21zMC1lNHZLUUEzeTdZTGlDaXpsN1VURmQtU3lKMm1ZbC1HamVZcjZzeFcwUVhvTWNCaE44NmZuVXJEOA?oc=5",
+        "source": "UN News",
+        "date": "Sat, 24 Oct 2026 02:00:00 GMT"
+      },
+      {
         "title": "Oct. 30: International Dockworkers and Port Workers ‘Day of Action’ - Workers World",
         "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5qaHJsYXFlS0w1UEpCZlBHc3pIeDc1bXJEX18tN1RzRlNJdHFGQ0NuYUZVUGRpRUY3a0dfZEVib2phSzNtLVlZQms3TDhxZ25uZk9Za9IBVEFVX3lxTE5qaHJsYXFlS0w1UEpCZlBHc3pIeDc1bXJEX18tN1RzRlNJdHFGQ0NuYUZVUGRpRUY3a0dfZEVib2phSzNtLVlZQms3TDhxZ25uZk9Zaw?oc=5",
         "source": "Workers World",
@@ -55,12 +61,6 @@
         "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBGRDE2Uy1UYmRfVVdPVWt3bko3VkR4bVhaU1JTcThNX3AyQnhtenlzRzlva28yZmQyeGFMQW4tMnZUOUdtUG50RWRudmo2ZU1HbW52dFRHcHZJRlhnalo4bUZyOG9DdkRLY0J0SkNiQzlSWVFQ?oc=5",
         "source": "中华人民共和国外交部",
         "date": "Fri, 23 Oct 2026 14:41:00 GMT"
-      },
-      {
-        "title": "Hashimoto claims fourth straight World all-around title in Rotterdam - International Gymnast Magazine Online",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSUxORVBTX1lmSkFiZ1NueWd3LU9vUDNPVTJyMzlQT1pFNzNEMEFHbUZZMzhCU0xWak4ySzAyM3FEZ1ZvbXNBTFExcWJXaHVkMVdISGdpZmN3YnJUdTJYOGxHcWp6VzNOaFQxX3poRHA3QU1EMF83Q3ZyTk1GZGJSRWlJNGt2Y1oxa1RWUHJCLWZCWko2a2ZIdEFPOEt6QlBxa29PMw?oc=5",
-        "source": "International Gymnast Magazine Online",
-        "date": "Thu, 22 Oct 2026 20:38:15 GMT"
       },
       {
         "title": "In Photos: International Club Around the World festival - NMSU Round Up",
@@ -83,16 +83,16 @@
         "date": "Sat, 24 Oct 2026 08:48:41 GMT"
       },
       {
+        "title": "My IT Support Launches Cybersecurity Readiness Assessment - Kitsap Sun",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPdTdnaFo0Y1Z0T1BrUHhkNUlKUXZUeTV2bjVwZUcxWWVhX3l0UWlISlJYVDhGZEZ6V05HMFNpSXM4X0JiSm9EcGtMYlprR3ZiaFRMNGRUOVh6M3g5YnN4V3dwdkVSQkJub0ZQZTc2UWFLQUZvbG45RExlTmFBM2RROHQ2ajgtTUhpbkkwb3puNHJrZ1Zyd2IwTERQY1pGaEt3a05reFUxcEdqY3A0NC1rTw?oc=5",
+        "source": "Kitsap Sun",
+        "date": "Sat, 24 Oct 2026 18:39:41 GMT"
+      },
+      {
         "title": "Empowering Small Businesses During Cybersecurity Awareness Month - Cybersecurity Insiders",
         "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOMnlibEdlQS00Ym8wQnlSMzNIS1A3dUdDUU5WZ2tMMlhBZlBPdEtLYm93ZEdtY2hGSmRmbUpkcnlENHRaUjVNLWZTUnYwekZWczd6LXZub1cxWm1xbVNSRWZSUFVOWFVKQkFrSDdQaFFVNEpYNXctOEx0ZDlHWEt1T2Nlc2x2NGtYNFVwdWpNbnlZTWtwc1ZHS2FLaEhFaHFZT282d2U3bw?oc=5",
         "source": "Cybersecurity Insiders",
         "date": "Sat, 24 Oct 2026 18:36:27 GMT"
-      },
-      {
-        "title": "Fortinet Sued Over Cybersecurity Technology In EDTX - Law360",
-        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBuSWUxN3JnU2FtTmdMZGt0QU55dU1jWDVLS3FGdzJIbk5MVlJwNUZBZGt6a0J5bXhreTdmNUd1MnBja1ZVUDlkMlB6b09nS3JVM0pzUENR0gFWQVVfeXFMUG5JZTE3cmdTYW1OZ0xka3RBTnl1TWNYNUtLcUZ3MkhuTkxWUnA1RkFka3prQnlteGt5N2Y1R3UycGNrVlVQOWQyUHpvT2dLclUzSnNQQ1E?oc=5",
-        "source": "Law360",
-        "date": "Sat, 24 Oct 2026 01:30:00 GMT"
       },
       {
         "title": "‘Black October’: cybersecurity experts sound the alarm over new era of AI-enabled hacking - The Guardian",
@@ -101,22 +101,16 @@
         "date": "Fri, 23 Oct 2026 18:59:00 GMT"
       },
       {
+        "title": "Fortinet Sued Over Cybersecurity Technology In EDTX - Law360",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBuSWUxN3JnU2FtTmdMZGt0QU55dU1jWDVLS3FGdzJIbk5MVlJwNUZBZGt6a0J5bXhreTdmNUd1MnBja1ZVUDlkMlB6b09nS3JVM0pzUENR0gFWQVVfeXFMUG5JZTE3cmdTYW1OZ0xka3RBTnl1TWNYNUtLcUZ3MkhuTkxWUnA1RkFka3prQnlteGt5N2Y1R3UycGNrVlVQOWQyUHpvT2dLclUzSnNQQ1E?oc=5",
+        "source": "Law360",
+        "date": "Sat, 24 Oct 2026 01:30:00 GMT"
+      },
+      {
         "title": "Barcelona Cybersecurity Congress gathers the European ecosystem to face cyberattacks - The New Barcelona Post",
         "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQODZKYXYxanBtMWhZbm1BRjI3dXpVRFRoQlZIWHZRanlHQzVDeFRYclI1MVN3ZFhmcGd2NTBrQXFuUWJYRGEzaVJQaDNYUG9udFVNX0stc0dwbU1rR3V4VEFKaWtCa09OLXRhWXFUUnljVkFnNjQtVFlDMnlUc1NhN1B5bXZNTG5LSUp1REpDSlJfXzd3V2tlMEV3?oc=5",
         "source": "The New Barcelona Post",
         "date": "Sat, 24 Oct 2026 09:01:53 GMT"
-      },
-      {
-        "title": "AI & Tech Brief: Black October - The Washington Post",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOS0VLVWtYZkktZUlDLWc0eWptNkpnUXBiTVpKY2FwUk4wY0h3eC1oeU04OUpQLUxENlRBSlpsV0ZMdFZSeWFHSHRqY0JBeXRtR0tJbmh1S3h4Ri1Md3VSb0RlZk9wcXJfNjZWMy11R0JucU5IdklUWjlDbU9CY1hjYjZlRWxUc2tmbWtpMXE5blFKejA4Y3ZSS25LTXc2emlHNmc?oc=5",
-        "source": "The Washington Post",
-        "date": "Sat, 24 Oct 2026 02:41:50 GMT"
-      },
-      {
-        "title": "Tech Firms Behind 79% of Third-Party Breach Victims [2026] - shattered.io",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNei1PMHJMY2RYcDd6djR4Vi1BMjBia2hjRjdNR2pZNUhmemFibEI3Ymk5dXZWM05kV2l5WHQ1N0duTlBhWGQ0TlBqTkxlVzJ5T2FlYWl4NzU0bDNUbWlCTzhpMU90aFVXYzNFbU9TeGcxQ1FDcndwMTUzLVpiZjBtMzR4ZXV6dmQ5?oc=5",
-        "source": "shattered.io",
-        "date": "Sat, 24 Oct 2026 08:50:05 GMT"
       },
       {
         "title": "NineTenths joins ISASecure to support industrial cybersecurity across energy, water and manufacturing - Industrial Cyber",
@@ -125,16 +119,22 @@
         "date": "Fri, 23 Oct 2026 12:16:08 GMT"
       },
       {
+        "title": "AI & Tech Brief: Black October - The Washington Post",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOS0VLVWtYZkktZUlDLWc0eWptNkpnUXBiTVpKY2FwUk4wY0h3eC1oeU04OUpQLUxENlRBSlpsV0ZMdFZSeWFHSHRqY0JBeXRtR0tJbmh1S3h4Ri1Md3VSb0RlZk9wcXJfNjZWMy11R0JucU5IdklUWjlDbU9CY1hjYjZlRWxUc2tmbWtpMXE5blFKejA4Y3ZSS25LTXc2emlHNmc?oc=5",
+        "source": "The Washington Post",
+        "date": "Sat, 24 Oct 2026 02:41:50 GMT"
+      },
+      {
         "title": "Hacking attempts rise after flaws found in program affecting 70% of websites - NPR",
         "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9Nd2RQRXlEb3BjTGVVMWRtd2VFbTZoY3ROangweDNndmR5SGJHd05aX1FkNlNvdklFNlhWbEFJcW5PdjQ3TW5KRGd6Qm1ydUlFdUpxckxFX2hZTHhmZGs3M1V3RDhPSzdTd3Bacg?oc=5",
         "source": "NPR",
         "date": "Fri, 23 Oct 2026 09:37:38 GMT"
       },
       {
-        "title": "Managed IT Services Pasadena Updates Pricing to Include Cybersecurity in Every Plan After PHP2Shell - Carroll County Mirror-Democrat",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPOTBab21ZdlpvODhiQmFSclhGaWdDcFhVX2VMLXFQZ3hFUUwzVmo5SWNudC1xa3JMdlh3eEJZdDFia09ZNW02T3FZeUFCVXcya1dLR0gtTDFQNnVjY0phN3dfZEJ0MDVPemVOeXhELWRRYkRkb0tpQlQ3UkYxOS1mMFJpMEpPQkZHWXdEZ29xWURydWdMYlBZZnNZbXlTTUxNSlAxZTcxOXIxbTZISmFWR3FnQ0RFR0U?oc=5",
-        "source": "Carroll County Mirror-Democrat",
-        "date": "Sat, 24 Oct 2026 16:35:31 GMT"
+        "title": "Tech Firms Behind 79% of Third-Party Breach Victims [2026] - shattered.io",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNei1PMHJMY2RYcDd6djR4Vi1BMjBia2hjRjdNR2pZNUhmemFibEI3Ymk5dXZWM05kV2l5WHQ1N0duTlBhWGQ0TlBqTkxlVzJ5T2FlYWl4NzU0bDNUbWlCTzhpMU90aFVXYzNFbU9TeGcxQ1FDcndwMTUzLVpiZjBtMzR4ZXV6dmQ5?oc=5",
+        "source": "shattered.io",
+        "date": "Sat, 24 Oct 2026 08:50:05 GMT"
       },
       {
         "title": "PHP: What is it and why did it spark a global cyber security scramble? - BBC",
@@ -143,10 +143,10 @@
         "date": "Fri, 23 Oct 2026 12:24:17 GMT"
       },
       {
-        "title": "The AI-Discovered Bug That Could Have Become a Cybersecurity Disaster - Time Magazine",
-        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1BUi1obEdtLVZVNzZkYUxGbUJTVVI2OHcycHREQ2tSUHhoazItWFY3WlJoOTVPdVU0YXZmMldBdjVLMGZZbDdUUnBfMlJQOVNQSC1QZGpjN19iVTc5eE9WVDM0bHhBS3NjWmN1RDBRZw?oc=5",
-        "source": "Time Magazine",
-        "date": "Fri, 23 Oct 2026 21:11:07 GMT"
+        "title": "Managed IT Services Pasadena Updates Pricing to Include Cybersecurity in Every Plan After PHP2Shell - Carroll County Mirror-Democrat",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPOTBab21ZdlpvODhiQmFSclhGaWdDcFhVX2VMLXFQZ3hFUUwzVmo5SWNudC1xa3JMdlh3eEJZdDFia09ZNW02T3FZeUFCVXcya1dLR0gtTDFQNnVjY0phN3dfZEJ0MDVPemVOeXhELWRRYkRkb0tpQlQ3UkYxOS1mMFJpMEpPQkZHWXdEZ29xWURydWdMYlBZZnNZbXlTTUxNSlAxZTcxOXIxbTZISmFWR3FnQ0RFR0U?oc=5",
+        "source": "Carroll County Mirror-Democrat",
+        "date": "Sat, 24 Oct 2026 16:35:31 GMT"
       }
     ],
     "SCIENCE": [
@@ -163,16 +163,16 @@
         "date": "Sat, 24 Oct 2026 10:55:28 GMT"
       },
       {
+        "title": "Bolivia Documents the Amazon River Dolphin for First Time - WCS Newsroom",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQazNXQmZOWGRaaURNRlkyT3djQllLeVFvZXZDOWtiR0NJOVo2SE5yY2FzQWRGaW94RDcwYlNVbXhpbUF3QjRSbWlBZXRta3JISlVtT2g1OVVXSExzSlB4allJSExhX3dCbHVtRng5WnNlRUdfdWlGR21jRGxWb3FZai0tTS0yN3BROGd3NUhlS2tPeWwzMnlTYUVfTENhVHE4cnhqdzdLUGtOY0I5cHBqakY3Vm1ORWptZnFmYmJtM0lYNU1mSzJPUU1vMElHZkp2NXh1dUp3RkQ?oc=5",
+        "source": "WCS Newsroom",
+        "date": "Sat, 24 Oct 2026 20:00:06 GMT"
+      },
+      {
         "title": "Roanoke College dedicates new $60 million McConnon Discovery Center - WSLS",
         "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNdmFTREF5aUxSajRlbnBnR2RTbzVkN0JmdTZvazIwZjV4dFpzWkZMY0hnX0FteHhoQ3Z3RUY1eksxOGRkalNqb3Rha0ltZjFTV09HUGNlRk5DbzlRSDgwWF93RUxycUlsOVctbEkzNURSNUxSa3doTWJwY0NONGlWSjlNUTdYMzF3dnNUWTV4VENPR1I5ZnBEVWlLWGd5LVpBU3B0S1NDTmF2R25ITkRN?oc=5",
         "source": "WSLS",
         "date": "Sat, 24 Oct 2026 17:06:28 GMT"
-      },
-      {
-        "title": "Bolivia Documents the Amazon River Dolphin for First Time - WCS Newsroom",
-        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQazNXQmZOWGRaaURNRlkyT3djQllLeVFvZXZDOWtiR0NJOVo2SE5yY2FzQWRGaW94RDcwYlNVbXhpbUF3QjRSbWlBZXRta3JISlVtT2g1OVVXSExzSlB4allJSExhX3dCbHVtRng5WnNlRUdfdWlGR21jRGxWb3FZai0tTS0yN3BROGd3NUhlS2tPeWwzMnlTYUVfTENhVHE4cnhqdzdLUGtOY0I5cHBqakY3Vm1ORWptZnFmYmJtM0lYNU1mSzJPUU1vMElHZkp2NXh1dUp3RkQ?oc=5",
-        "source": "WCS Newsroom",
-        "date": "Sat, 24 Oct 2026 15:52:05 GMT"
       },
       {
         "title": "Kindergarteners' spider discovery leads to rare identification by MSU entomologist - Michigan State University",
@@ -187,6 +187,12 @@
         "date": "Fri, 23 Oct 2026 17:30:42 GMT"
       },
       {
+        "title": "The heart of discovery - Roanoke College",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1hOG1RejlwR3FvUFRjbzNqUEpaUnNNZGJUMEFQYWZWTHVoRmVRVHBZMU1hQlZ2ZjBkR3ZxTjF2aG9hTDJuSlB3amMtR2FzZjhEY19rODRjWUdRTHZJb2Y0ejdvVDU?oc=5",
+        "source": "Roanoke College",
+        "date": "Fri, 23 Oct 2026 15:50:06 GMT"
+      },
+      {
         "title": "Scientists discover a hidden messaging system deep inside the brain - Science Daily",
         "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5FZ2ZyWE5PT3Yxb3d2OGd0SGRiOHFuZ3lXaEluYUlfdzM2U2xraUM0eTc0c3pyWGsyVjA4aWk1cUN4QndOZENpcWQySTdkVURJNmg0UG1GeDRIb21zemFURGM3M3kxcThxbVBtaXNicw?oc=5",
         "source": "Science Daily",
@@ -197,12 +203,6 @@
         "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOWndnX3pmeUZES2tIcmNjMDJuU045SElSZWg2UEpDem5PaXo3N1o1ajcwVWNmeGJ6dkhmM0x1TG9DOU9xUkhibjlidl9qOTdETVRoZTYxZ2Npbk41TWlfcUxoNTNINUVaV2d5SVhoNXktSHZuNDBmSndrdUtiRVU2Y2thaS1wZmlZYkFESVFEZTR3WjlrYUQ0d3pJU2JERWhVeFdpbDE1Mkp6UQ?oc=5",
         "source": "University of Colorado Boulder",
         "date": "Sat, 24 Oct 2026 00:21:52 GMT"
-      },
-      {
-        "title": "Building the quantum future - EurekAlert!",
-        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBVUmZROGxaN0lWUFpMZVRnQmFrb0gtOEZjczZpX0trdXVhVXMyWlJ2cnRCcEVqdGltZi1WSnNqaVJxOXo3TEVBWlRDQW9QUG9ObzgtQjNWZHBPb01Q?oc=5",
-        "source": "EurekAlert!",
-        "date": "Thu, 22 Oct 2026 22:25:42 GMT"
       },
       {
         "title": "Argonne’s OutLoud Public Lecture Series explores how super intelligence is accelerating research and discovery - Newswise",
@@ -231,6 +231,12 @@
         "date": "Sat, 24 Oct 2026 15:33:08 GMT"
       },
       {
+        "title": "NASA’s Swift space telescope ends mission - SpaceNews",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9zYzRtVG1faTdDazhFWGpGSlNCRmxSUHU1TEN0ZUlwaDZKMVYxN1hpSDdILVQwcVB0WXd4RllDLXJrUXltZGZvSGdOX1JUME1mWHN2bkFTa2xid1BaeDduOHMzQlUyQnVKdlViUjdxZ2k?oc=5",
+        "source": "SpaceNews",
+        "date": "Sat, 24 Oct 2026 21:02:03 GMT"
+      },
+      {
         "title": "NGC 1827 - The Planetary Society",
         "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1xZUNvRjhhUzhfWXYwR2gwckpWOWFvMVU3UDdhVU9oSWlDQ0Y0SUhCbkpjZmZ1LUVPVlhlT2R2Z3UtSllJb25acXhqaWZJZlNqbU90aDNKSV9fZW8?oc=5",
         "source": "The Planetary Society",
@@ -243,28 +249,10 @@
         "date": "Fri, 23 Oct 2026 22:33:00 GMT"
       },
       {
-        "title": "MEGATRON simulations connect the first stars with the universe’s smallest galaxies - The Brighter Side of News",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPUHpzUmN5aEZNZElmZG1ZQXk4anZaVks5TTFTQVlWVFdYSGxWLWFhQ3UtYUdhYk9hUGpGUUlXRl85NzBEdmpGazZRNnJGM3VlN0lVZC03TjFrV1dRRGdiWlJhUnpNd1pkX0UtYWkzdnQ2WUJnUm5QcW9QRzZDNEl4d0ZFbkliWDItcGNBbFFkWVdEdkMtc3VvNUxNX2RYX2xWem9ma1JLeGpaVld4YUFubU1rS2xrdm5sYlg0Vg?oc=5",
-        "source": "The Brighter Side of News",
-        "date": "Sat, 24 Oct 2026 20:06:09 GMT"
-      },
-      {
         "title": "Space journey: UM Planetarium launches fundraiser to replace broken projector - Bozeman Daily Chronicle",
         "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNNHZEdHF5bUdJS0hlUzQtZjJHdWRnZFc0VWtxUVJaU1VuN2xETFVHcmlTTGNmYUVkWnpKSElnZEdKNDFBeHgwSllsd2ExLXNyUy05TzRSMlpiTjVaSDBVa0JvcFlKcGpaRjlmZlRwSHhoQnVkcVJPeGRQTWsxQWV5VVVjUEVzU1ZwUXVDQXpqUUlyUHljR3VIcjFpV1dTa2ZERE1CUzdIQnZCNHM1U3pzUWJKc3NQTHJQaEVDOUdQVC1BUWJvVGctY0xYQkxtZ2NBVzZxRnA0OHI5N2VpN2p4aTRmOUp6ZzhCN1V2RXNDd3BfNDlHcGJaR2pnVHJ0QU9CVTBTMS1aZlY?oc=5",
         "source": "Bozeman Daily Chronicle",
         "date": "Fri, 23 Oct 2026 17:45:00 GMT"
-      },
-      {
-        "title": "How to see the full 'Hunter's Moon' rise next to Saturn this weekend - Live Science",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPMWxlT0JtVTlSbjVGNkpRRWFURmY0V3FoZmxOdVQ3SnRfOXJUZlZxZHZVclhLdjNoc0pCRXFRQ2k1V2pId0lISXNFRms5eDVSQkVVYmFNTFVHMDdFTFk4cEZKVlA0R0p6UDl3STRSR3phbWp2aG45V2dUYUtCVFNwbTRtbE0yVnFfbTZqN1p1Z1l4dWtaLW1rMFBPazZnNml2WVlTQjVacF9XSzVBWnc?oc=5",
-        "source": "Live Science",
-        "date": "Sat, 24 Oct 2026 11:00:00 GMT"
-      },
-      {
-        "title": "Optimization of Petal-Shaped Occulters for Exo-Earth Observation - Astrobiology Web",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOSF82SWc2N0IwTng2VDlyZFdLZVdCSUZscmw1dDRhVXRwN0U0SFN2WTdFNUkyMVhwSWhwYzZjTWxJN3FmRFFXUXdVZGNLSHhWOUkzZXVBX0dqeGRNdC1Na3VUbzF2cG43SE45SE9tTjNocXZzZ05oZEhZYktad2pLR1RLRF9EMlppeTJsSW53Q2VWZlhURU1LWHM3ZEE5MEJneTBj?oc=5",
-        "source": "Astrobiology Web",
-        "date": "Fri, 23 Oct 2026 15:37:02 GMT"
       },
       {
         "title": "Astronomers Detect the Oldest Known Fast Radio Burst, Spewed From an Ancient Galaxy Just Three Billion Years After the Big Bang - Smithsonian Magazine",
@@ -273,16 +261,10 @@
         "date": "Fri, 23 Oct 2026 17:17:35 GMT"
       },
       {
-        "title": "Night Sky Tonight: What to See This Week - Star Walk",
-        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1yU0cxdEpqSmFpSElLek41Q2tILVZVaTBJUHJ1ZGNXSVJlYnk3VmZJbHhja29hN2ZsYlJHSWtzbzE3VFpjY3MtRWt5QkpZNTh1Y1FIeVNEME9sU1h5?oc=5",
-        "source": "Star Walk",
-        "date": "Sat, 24 Oct 2026 08:39:50 GMT"
-      },
-      {
-        "title": "Is There Really No Such Thing As The “Dark Side Of The Moon”? Define Dark - IFLScience",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQVUpOdEktMmFUZm9kMHNKcG9MLWRNTThIdjNlVXRqVEJEZmJ4THF0YUtPcTJPRGdVNEFQY3dMRWYyV1RKd2FSRktQWHlhX1QwT3poYzhQX0RtZ2RiWC0wTDdRU0kyQ1p4RkR3ZnRrQUFreVg2S0tmWWF4UFVGQ2ZGeHhyWDc3N2Z5QUVsMm9wTW13bzNsTmpuYnpkOVlrX2lXdndHeVhR?oc=5",
-        "source": "IFLScience",
-        "date": "Sat, 24 Oct 2026 04:00:40 GMT"
+        "title": "Optimization of Petal-Shaped Occulters for Exo-Earth Observation - Astrobiology Web",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOSF82SWc2N0IwTng2VDlyZFdLZVdCSUZscmw1dDRhVXRwN0U0SFN2WTdFNUkyMVhwSWhwYzZjTWxJN3FmRFFXUXdVZGNLSHhWOUkzZXVBX0dqeGRNdC1Na3VUbzF2cG43SE45SE9tTjNocXZzZ05oZEhZYktad2pLR1RLRF9EMlppeTJsSW53Q2VWZlhURU1LWHM3ZEE5MEJneTBj?oc=5",
+        "source": "Astrobiology Web",
+        "date": "Fri, 23 Oct 2026 15:37:02 GMT"
       },
       {
         "title": "Shining New Light on the ‘Last Major Phase Transition in the Universe’ | Newswise - Newswise",
@@ -291,10 +273,28 @@
         "date": "Fri, 23 Oct 2026 03:40:00 GMT"
       },
       {
+        "title": "Night Sky Tonight: What to See This Week - Star Walk",
+        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1yU0cxdEpqSmFpSElLek41Q2tILVZVaTBJUHJ1ZGNXSVJlYnk3VmZJbHhja29hN2ZsYlJHSWtzbzE3VFpjY3MtRWt5QkpZNTh1Y1FIeVNEME9sU1h5?oc=5",
+        "source": "Star Walk",
+        "date": "Sat, 24 Oct 2026 08:39:50 GMT"
+      },
+      {
         "title": "NASA's Psyche races toward metal asteroid with ion thrust - Labroots",
         "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQXzcxWkczaWhNNEtqME5sS3hQaGlKUmVCOGNsVklLU0Qzd0dHcFYyd0xJVzNFd21Gb2FWTkdsY3YxRU5jMkZuZHdRWlRQUURDVHpyVHdaSmYweHNDUWVMVFRXUzd3NTVSdmNJLXNSaXdSVUJGMzd3VmxkREVTTTVUYWU0TEhCWTV0MjNnbjFrQ1NqYTUybkHSAZsBQVVfeXFMT2g0UVBVcDAtVmpBaUZ5TnhGWG5zd0EzOGlpdUtyYWhsVmdTUFUtaTB2RnRlQ3NYU0xNenBxanl0cV93dGRDNjAyQkFVMDBGNjN3QUtuUTdZTmtoTVFoN2FaSXFRTXR3dnQxUUtPY21tOXhBSXdOa0oxdXhpUURkbVBnTzREbDNlV1dXdmpuNGp0QjdBYXdhd0hpM2M?oc=5",
         "source": "Labroots",
         "date": "Fri, 23 Oct 2026 21:40:00 GMT"
+      },
+      {
+        "title": "In 1982, NASA engineer George Alcorn invented an imaging spectrometer designed to analyze high-energy sour - The Economic Times",
+        "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOWlFZdnVhM1VLR0xndHMtRTJyWEtyZWhTOXdkaFRGeUFFX2Fxd0pWTmFxRXZsTHAzaTNlZlBpMjNPRWlfTHo2cU5WekYwUjJsWV9JYTBHRGdDdnBXSTFPcVFyMUI0cmt6RTlCeGk2TGpQdy1FR1ZsVi02VzFmVmdzdks3VXpyRlQ2WU5va0xMRTZNNlloOFRyMkNnRlhyNXp4N0tiMjVSQTFWMEFXT1VvXzgzOVctTm41TVNadkxHRzZSSkJ5Z0Zuak1Za0FhWm9yemtUeWtHaVpsaTg4ZUhFbHRuSS03NWpJbUxEM1lIVWNubi12R0xoUzNzZ3A1N1BDUWZkQ3A0b0NtelhjT0tUS2x30gGXAkFVX3lxTE5BWHdqQ0VXUWNmM1pRZmV6ZGJDRkVpRm5KeC1kSXpFcTB2NHFBS0tRZ0l1NDNSa3NCd1FEcTNEYmFaNmtwZXkwb3U3RHFHbFptRWZ1MUd4di1WclhBTW95UzA3TTNMcE02NXdwLXRsVi1jYjZ4bmZ5V2RxN1luZ2xiVzg1NkRNTzY0b3drZnBXUVk5aEhCZHluZ1dBSi1IeExYS0FzS0tIci1ZaGZUNU41dTBrcWpyNHhndldyRGJnMmp4b290ODRtN3AwMnBYTjh1M3kxV3FlLWJuYzdJVVczWFVtWE8yNXRKamwyVG5xZlEybFh3TkNCcGVMOFloa3A0b2FwUEU1NE5GaXRhWXViYk1LOXNvdw?oc=5",
+        "source": "The Economic Times",
+        "date": "Sat, 24 Oct 2026 10:00:00 GMT"
+      },
+      {
+        "title": "'50,000 LIGHT-YEARS WIDE' 🌌 NASA shared an image of the Sombrero Galaxy captured by the Hubble Space Telescope. \"Its unique appearance could be the result of a long-ago merger with other galaxies,\" the space agency wrote. (Courtesy: NASA/Instagr - Facebook",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPMlUzZGY5SDBBZWJPcGJ5bHZjQlVfMzhpY2FkeFQteEhSTE95OTFkRDJEQUhiS0ZCNkVtWkM5YUI1akdlN0VDSDJsUXJ6Sm1leldDYUZDd0tuN21jVENJU0xQc3RLb0N6V1Z5WnhyaTFjQmZRQTR3TEFQc3J0VFNZZGZlejJYNXFKYUVwS3BsQS1nR1R5RzJqRWtOcXJyZF83d2ktcUt5aTUyZUpkUGdta1h5OWpmUGUzZUZaNVZocUVaV2p1YW9ZRUI5VzBBNFJLZGJmZ2piZw?oc=5",
+        "source": "Facebook",
+        "date": "Sat, 24 Oct 2026 01:45:03 GMT"
       }
     ],
     "ECONOMY": [
@@ -347,28 +347,28 @@
         "date": "Sat, 24 Oct 2026 04:01:12 GMT"
       },
       {
-        "title": "Stocks slide as oil prices rise again ahead of midterms - The Hill",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxObjJNV2FPb085Y1pqMGxRSGdJdFY3QkdZR0dUVFZFZE04TjlZU29zRFI2RUlvakI4N0pMTnF3TXBIVzh4RF9JeUFHVUFOdjFlcExxVldJR3BDVjZfc1FtcG01enVyaE5GVE9Qdkt1eXpnS3FueW1YeHprTDZCcUk0X3UxNWw3Ym1PMWJXUkltTElUZ3R0cWN6RXVjZmxXQ1NPZ3k5UU5BNzU2WDAwSi1maHFiRdIBuAFBVV95cUxPNEMtYldOV2xDdXQ1UzQtTnlfWGtuMEpPUHhiSXQ3OGFNN3dpNlRtQWRtdXV6aTNHVF91N0pQQmRrbW5QMVdyNEJWbzBETklqWmVNZWJPT0JYMmhidkFnUThPd3k2NjUtVy1GZzFXN2J1Z0Z0QlRPYzMyUVl4WGd3ZGZPcTAteXFoZTdybnVCUllpcmF2LVB6ZERjbWwyWUlkckZEQ21TNkNpMl9VeUp2T0JYZE5DMWM4?oc=5",
-        "source": "The Hill",
-        "date": "Fri, 23 Oct 2026 22:21:00 GMT"
-      },
-      {
         "title": "AI adoption among US small businesses reaches 86 pc, but full integration remains low: Goldman Sachs - The Tribune",
         "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxObTN2RGdJQmtqbzJiWFp5b2ZDbExfZEp4WW5aR3htcFZrYXlGOTQ5OWhSV2pnMnQ3RDkyemoxRTl1aHc5cWIzQy1sSzJOdDhzd0pTNmxJQnhJaTFzd2lzT3BaSXI4b3NkcEhXY09MX19JeGJWZGRGeHJvb1VXc3dwYV9faGczYVBkTnFJd1p0VVAwYXpqZW9CeGJhMTVnaXJ2SnRhR0tmTmVOOFhMVzJXU3VuRTIxMTFmekFzaWFtaGd4dTlIVHJMYUlKRjZGMXFPcVlrclBNOHE5LWJEMnfSAd4BQVVfeXFMTm0zdkRnSUJram8yYlhaeW9mQ2xMX2RKeFluWkd4bXBWa2F5Rjk0OTloUldqZzJ0N0Q5MnpqMUU5dWh3OXFiM0MtbEsyTnQ4c3dKUzZsSUJ4SWkxc3dpc09wWklyOG9zZHBIV2NPTF9fSXhiVmRkRnhyb29VV3N3cGFfX2hnM2FQZE5xSXdadFVQMGF6amVvQnhiYTE1Z2lydkp0YUdLZk5lTjhYTFcyV1N1bkUyMTExZnpBc2lhbWhneHU5SFRyTGFJSkY2RjFxT3FZa3JQTThxOS1iRDJ3?oc=5",
         "source": "The Tribune",
         "date": "Sat, 24 Oct 2026 14:47:37 GMT"
       },
       {
-        "title": "Financial Focus: What’s next for your money? Business expert weighs in on the economy and stock market - FOX 2 Detroit",
-        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5XeWU1RjNfb3FueTlmOTF4SXV2UWstbVZ5bUpTQnQzd3kwdFFhX0ZCb21jbE1tUmhYQU53TjNLbFBBUk5NaXFlbkNyd0haQ0FCUTFVNkFBNC1fbDJaV2Naa2kxLXnSAWpBVV95cUxQdGFxNEJuUnFEalVQOTFGTk1qZWNGODc3VjlhZW13Mlg2YlZHeF9LSHJEMHRTTE5MenhKSEc2MWxWV0J0MGxlY2k5NGRTcVdwbnF2NE84UHdDbHh4ZW02aThzVi1RdWNQUERR?oc=5",
-        "source": "FOX 2 Detroit",
-        "date": "Thu, 22 Oct 2026 20:50:59 GMT"
+        "title": "Stocks slide as oil prices rise again ahead of midterms - The Hill",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxObjJNV2FPb085Y1pqMGxRSGdJdFY3QkdZR0dUVFZFZE04TjlZU29zRFI2RUlvakI4N0pMTnF3TXBIVzh4RF9JeUFHVUFOdjFlcExxVldJR3BDVjZfc1FtcG01enVyaE5GVE9Qdkt1eXpnS3FueW1YeHprTDZCcUk0X3UxNWw3Ym1PMWJXUkltTElUZ3R0cWN6RXVjZmxXQ1NPZ3k5UU5BNzU2WDAwSi1maHFiRdIBuAFBVV95cUxPNEMtYldOV2xDdXQ1UzQtTnlfWGtuMEpPUHhiSXQ3OGFNN3dpNlRtQWRtdXV6aTNHVF91N0pQQmRrbW5QMVdyNEJWbzBETklqWmVNZWJPT0JYMmhidkFnUThPd3k2NjUtVy1GZzFXN2J1Z0Z0QlRPYzMyUVl4WGd3ZGZPcTAteXFoZTdybnVCUllpcmF2LVB6ZERjbWwyWUlkckZEQ21TNkNpMl9VeUp2T0JYZE5DMWM4?oc=5",
+        "source": "The Hill",
+        "date": "Fri, 23 Oct 2026 22:21:00 GMT"
       },
       {
         "title": "Etihad Passenger Claims Being Downgraded From Business To Economy Despite Paying Full Fare: 'Not Sure How T - News18",
         "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOeTJCYmt5aGhvbEZ4b0tITWJLSTZVNW9rRzFwRmVTb1hnTEMwTXc5V19jSGV0dkFfR1lKQUFnWkRkV0FndVFYUGtnUDc4dkhaS2Y4bVFWUmlDOXh4WkJqUmtReVpIcVlmdUJGNnczQjBkcFg3VDJSSTZfVXZNQ3ZUMk5ZQjI4MzZpUzRydDFlQmlhdlJxOWRKZUQwbjBvZ1NfZ3JLRUp4UXhmYkxCVlR6MV91TnB4cllJeWNXd21Nb19QT3dvenJyY3dRemVHVFFPNUozckEwMURmZmlidzkzb2t5emxnNHpacU0yVlVMTmQwOGdzVnl4eXdpdl83MTJPOXfSAYICQVVfeXFMTnkyQmJreWhob2xGeG9LSE1iS0k2VTVva0cxcEZlU29YZ0xDME13OVdfY0hldHZBX0dZSkFBZ1pEZFdBZ3VRWFBrZ1A3OHZIWktmOG1RVlJpQzl4eFpCalJrUXlaSHFZZnVCRjZ3M0IwZHBYN1QyUkk2X1V2TUN2VDJOWUIyODM2aVM0cnQxZUJpYXZScTlkSmVEMG4wb2dTX2dyS0VKeFF4ZmJMQlZUejFfdU5weHJZSXljV3dtTW9fUE93b3pycmN3UXplR1RRTzVKM3JBMDFEZmZpYnc5M29reXpsZzR6WnFNMlZVTE5kMDhnc1Z5eHl3aXZfNzEyTzl3?oc=5",
         "source": "News18",
         "date": "Sat, 24 Oct 2026 08:38:00 GMT"
+      },
+      {
+        "title": "U.S. Government Takes a Cut of Chip Business in Japan-Funded Deal - The New York Times",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNM2NaR1hQVlJCOVpOLWNwb0FjS2hoeGR5VFF6aDczWnM1NTNWdHdpZ0NuQUZMTk1xQWlNbWhTcjM5bUNBQ2VHR09TZDhsWVp5R2l6U0NPNm91V0xQUVRCRUgxQmZGZXpZcnNRX0h6WXl0S281Smd0MDhSTmZ4dGV6MQ?oc=5",
+        "source": "The New York Times",
+        "date": "Fri, 23 Oct 2026 15:56:21 GMT"
       }
     ]
   }
