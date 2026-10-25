@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-25T18:39:18.295365+00:00",
+  "updated": "2026-10-25T20:34:56.512032+00:00",
   "topics": {
     "WORLD": [
       {
@@ -7,12 +7,6 @@
         "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQZW40VmxNUXg4dzZtTUU4SXVWV3dkZTR3U0VIRVlFeWRoMWZDR0xFTVh1Tm5FU3pmdE8yTTZzY3RBb0R1bHhIYlU4NkJKNmVjV3NzWHZYYzdYZ1RvYnFnSFUxMjRTNTNGVGlmRDZwNmVJb1IxVWJSYmpabDJKOFFGS085VE5lX2tYbWVPUVNNYVU?oc=5",
         "source": "International Weightlifting Federation |",
         "date": "Sun, 25 Oct 2026 10:21:21 GMT"
-      },
-      {
-        "title": "Chicago International Film Festival brings world cinema to the Windy City - NPR",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQQm51cXNIbi1NQ0JlVmxodXZpRWVyY1JGMG5IQWtJcE1xRkZOMmtKWjJoLVM1MFdDc0tNY2hfUE1GSEk1OEVha0xINkZsMzRIRTNUMkdqb0lYSU4wd0hMeWJCQWxhQ19BVHFTTWxkMk9SOWVubEJfYlJuUjhDVGp3Y2M0bnA1TTBVLU9neTNRVFpSLVNGWnRQRkIxbWpFVXI5VWNRdTZDMWRBbzREM2ltSlFYT19fX2hTN1E?oc=5",
-        "source": "NPR",
-        "date": "Sat, 24 Oct 2026 21:20:57 GMT"
       },
       {
         "title": "Global Investment Trends Monitor, No. 51 - UN Trade and Development (UNCTAD)",
@@ -27,22 +21,28 @@
         "date": "Sun, 25 Oct 2026 12:30:08 GMT"
       },
       {
+        "title": "Chicago International Film Festival brings world cinema to the Windy City - NPR",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQQm51cXNIbi1NQ0JlVmxodXZpRWVyY1JGMG5IQWtJcE1xRkZOMmtKWjJoLVM1MFdDc0tNY2hfUE1GSEk1OEVha0xINkZsMzRIRTNUMkdqb0lYSU4wd0hMeWJCQWxhQ19BVHFTTWxkMk9SOWVubEJfYlJuUjhDVGp3Y2M0bnA1TTBVLU9neTNRVFpSLVNGWnRQRkIxbWpFVXI5VWNRdTZDMWRBbzREM2ltSlFYT19fX2hTN1E?oc=5",
+        "source": "NPR",
+        "date": "Sat, 24 Oct 2026 21:20:57 GMT"
+      },
+      {
         "title": "[World Class] Dongguk looks to Buddhism, Hallyu and AI to shape global identity - The Korea Herald",
         "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5XdEJnQUxqOVk4N2tUYVlOT2FEQjNjeHRMb0xURi1UQlpsc3R4SWVleUJ4ZjNqRFR6Z1BWZGJtd2pFaENfQkYxZGZvNkE1RkNyMVZiMzBMcw?oc=5",
         "source": "The Korea Herald",
         "date": "Sun, 25 Oct 2026 03:57:52 GMT"
       },
       {
-        "title": "Intl. conference on Global Coalition against Scientific Apartheid set for November - Tehran Times",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQMk9naWx6WnNxY0tfbXZ4OEc3d3gyTXctZnVDd0diN0J4ZlBibmxKaXZfRUxraE42TXBZZF9Oa3U2OU5CNlhKZDhQa2MyWkFaS0RSbTYxS3J2U0dTbUZxTS0xNEZPQWZCSUFzZEdwUTZvQ0dYOG1iY3VRZnNOcmljLXk4bDBQa2NsdjZQU2pTNThwRExtUU05cGZ1MlZJaEx5X0tkajhzZw?oc=5",
-        "source": "Tehran Times",
-        "date": "Sun, 25 Oct 2026 11:48:42 GMT"
-      },
-      {
         "title": "Russia has been awarded the right to host the World Weightlifting Championships in 2030 - UkrMedia News",
         "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPZDRtWGhkNjZaTnVUMjZvVlVUS2hWZWEzakt2UUljNEMtUk01ckpCNVl0MzQ1R2JRQ0VoZXZ6aElPT0xvVHpKLUZIV0JfZlN5WGFaWlVlTFJjVUJRTFlMVHozaDJYTnRKZXYzVDdXUXpsOXN5ZFZoWUxvbE5HbU1LcUF3?oc=5",
         "source": "UkrMedia News",
         "date": "Sun, 25 Oct 2026 14:11:10 GMT"
+      },
+      {
+        "title": "Intl. conference on Global Coalition against Scientific Apartheid set for November - Tehran Times",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQMk9naWx6WnNxY0tfbXZ4OEc3d3gyTXctZnVDd0diN0J4ZlBibmxKaXZfRUxraE42TXBZZF9Oa3U2OU5CNlhKZDhQa2MyWkFaS0RSbTYxS3J2U0dTbUZxTS0xNEZPQWZCSUFzZEdwUTZvQ0dYOG1iY3VRZnNOcmljLXk4bDBQa2NsdjZQU2pTNThwRExtUU05cGZ1MlZJaEx5X0tkajhzZw?oc=5",
+        "source": "Tehran Times",
+        "date": "Sun, 25 Oct 2026 11:48:42 GMT"
       },
       {
         "title": "Former international star Petr Čech to manage Czechia at WBSC U-23 Baseball World Cup - World Baseball Softball Confederation (WBSC)",
@@ -63,16 +63,16 @@
         "date": "Sat, 24 Oct 2026 02:00:00 GMT"
       },
       {
-        "title": "Reclaiming a multilateralism that works: Global co-operation for a more equal, peaceful and sustainable world - UNU | United Nations University",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQTUgzNFRCTU5OQzdBSXNjVWFhQzcyOGhBU2FZb3hwcE9mRV9OOGhJUjVzRk80V2tHZ1ZKYWlFblpCcFFhY3pRV3Jramp5SlpWZEhjWm44LUFiZHFMR2V4SHBSeDdXc3lROVdXdHZYTEJBTDIzV3E1Y0dWdGRkX0N5UDV2T3poQWZJTXhhZTBZQUh4ajZHMVlMWkIxbmNfR01qc0s1dXRNNWFid2x5?oc=5",
-        "source": "UNU | United Nations University",
-        "date": "Sat, 24 Oct 2026 04:55:27 GMT"
+        "title": "In Photos: International Club Around the World festival - NMSU Round Up",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNWFU0UFFJTERoNGZLTVJoY1VtZzRFTEpxS2x0OE9OUzZ5VTNmMmpqZzlESnp0NGtxOEhyOGk3Tmh1Z1hQSXVLOE10Y0J0aTBqSHltWHhJei1uQUo4YTZzdEpnNWxuWXc1VTVxVTlHRmM3QjNtdkF6NnJjdlFobWZqclJyNHZLdkQyXzhBVjRSVFJUVEdVRkx5aUx6ZGpzOWQwaGJn?oc=5",
+        "source": "NMSU Round Up",
+        "date": "Fri, 23 Oct 2026 21:20:53 GMT"
       },
       {
-        "title": "Malaysian Technology Lawyer Elected to Lead Global Multilaw Network - LawFuel.com",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPWnhyUS1fODFjYVJCNktfdVJ2WDhNV1c2dWtsTjNBM2JfS1ZLQnhFMl9Ua1JxUTQwMng1UGk2WVlTUk5KZy1vWUxtRHZEd1VnV3hxU1QyNGZTUzhqbjlBcGxlangwNmNYU3d0Tk5IcXNqMDFablJia1ZwOTNtd2Z0LW5rSlNUOFZaRFpDUjNTaWJ0cWFlaFlB?oc=5",
-        "source": "LawFuel.com",
-        "date": "Sat, 24 Oct 2026 21:17:05 GMT"
+        "title": "Best World CEO Dora Hoan Elected Chair of Global Direct Selling Body - Retail News Asia",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNYk9RTThMS1NNSzhjRmpIOWlGZk5iMHlyTC1jWUd0Q1RLVlFUc1dIRVhpQmNoVFk4eE11SFNXOUs1TldoLTNzenVMYVlxX0dXbzFUYnVhWVJTT2d5dmhnd19nUDdjRHBNazVQMUJmT0NYU25kNElwQklQRXNKa0NOVXc0VEU3ei01UkN2cXZOc1hweWh5cHlEVHZ6ZlI?oc=5",
+        "source": "Retail News Asia",
+        "date": "Sun, 25 Oct 2026 18:37:59 GMT"
       }
     ],
     "TECH": [
@@ -83,16 +83,22 @@
         "date": "Sun, 25 Oct 2026 13:53:00 GMT"
       },
       {
+        "title": "Enigma Networks Expands Healthcare Cybersecurity Business - MyChesCo",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPYUM3ZnQwX1lwLUlHcTNaT2pleU9ncE1kaWtDb2V1Qm8weXczSVhTZUdmOXczM09NNWcza0FSeTkwdmd3UERpZkV0R3YyT1IteWMwRG1Fc2YzZzJoQWRfTmN5RU9jS3BpbklYRnpDMFZsaGMxWlRUZWpieFV4QUlINHhxY290X3M0MjlyZ0k2bHR6R0hoSnprRkk2RU9QRVp0?oc=5",
+        "source": "MyChesCo",
+        "date": "Sun, 25 Oct 2026 18:31:24 GMT"
+      },
+      {
         "title": "Cybersecurity Vulnerabilities and Security Updates: Why Hours Matter, What Defense Tech and Dual Use Companies Should Do Now - Wilson Sonsini",
         "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQT3hYcUdka3lMSnJLc24tcnFtVlZzM3o4T0ZhSVBja3YwSUpGalJ2dVVQekZDMjFsbVVCRUhfWWJJallpUWFaMXVVWVJ0alZfQkNBMXRRb001N2w3Rmd2enRORFptSnZ2V2lvUUhNUkNmaFMyN3E4cTRTckktMUVLQ2ctNmlDbmRFcEdIOWFUa05wa0JPbjI5SDBNaG5YOU9OSldUdkNvZV8?oc=5",
         "source": "Wilson Sonsini",
         "date": "Sat, 24 Oct 2026 08:48:41 GMT"
       },
       {
-        "title": "‘Black October’: cybersecurity experts sound the alarm over new era of AI-enabled hacking - The Guardian",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPTG5XNmRIZVQwZ0hvdmQydjE2elRuNlBscUNJRnhyTWpuUHh1SmlVeGxqRE1HQjJVT3RPTFpaUGZoWUQyOEhYS2JPdUdoeWt2d0pkeUVtbkpSRHpvOVJhMFdkQWdHTi12elp2aldCQTlYMUV4NHpNU0VtM3RoaG4xVkRPdW1YQjhNX2pXYXh0RzhzOWFZSkZPNA?oc=5",
-        "source": "The Guardian",
-        "date": "Fri, 23 Oct 2026 18:59:00 GMT"
+        "title": "Offboarding AI means accounting for its copies - Cybersecurity Insiders",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPVUlHRmkxS0hzSmRKQjNkVXRzS292VHNNTFRjbGg4S3VEeFlOWTJwUHJjMXlGY3p5eWc2VGgyX2ZOSHZQakh5MXJxVzZDdXRDNjQ0dFJYYXRsWFNMaG1OYXZwZjg2MERtVW80NlZCWGxtWEVJSHhnVE16MElXaHd3dE5UcFV0Q1RPN0dWVTZBQQ?oc=5",
+        "source": "Cybersecurity Insiders",
+        "date": "Sun, 25 Oct 2026 08:40:30 GMT"
       },
       {
         "title": "The Blogs: You Can’t Replace It. You Must Protect It. - The Times of Israel",
@@ -137,12 +143,6 @@
         "date": "Sat, 24 Oct 2026 02:41:50 GMT"
       },
       {
-        "title": "Empowering Small Businesses During Cybersecurity Awareness Month - Cybersecurity Insiders",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOMnlibEdlQS00Ym8wQnlSMzNIS1A3dUdDUU5WZ2tMMlhBZlBPdEtLYm93ZEdtY2hGSmRmbUpkcnlENHRaUjVNLWZTUnYwekZWczd6LXZub1cxWm1xbVNSRWZSUFVOWFVKQkFrSDdQaFFVNEpYNXctOEx0ZDlHWEt1T2Nlc2x2NGtYNFVwdWpNbnlZTWtwc1ZHS2FLaEhFaHFZT282d2U3bw?oc=5",
-        "source": "Cybersecurity Insiders",
-        "date": "Sat, 24 Oct 2026 18:36:27 GMT"
-      },
-      {
         "title": "AI-discovered bugs may soon trigger fresh disruptions, cyber experts say - The Indian Express",
         "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNeS1sYkJRYnQxRTd0clk4NjZXYmdsenpheFBDaEFWanY4Uks2TThxdVMtSUQ1TzNuTEZ1bDBRQWdDQ1VjNHFRcVpuZl9iWFJPOU5SbUJtSFhHeHJGaVk0RW5fV3cxNGZaLWJKUXRxRnR4ME5lQnJteE1fVmNsV0Juc1Z6dDR2dkNRWmY2VWJ4MDVmbHlGSTJqREJnX0VMYUZIZGdsOEZYaWZ1bGNLY3k2THRhalF3bW1VMXgyUm42TlBia0FVRTdoOXBlTkFCNGRBcXJwdi1ZT0FtV3BVV3RUdG5HU1TSAesBQVVfeXFMT255Z2FqYVk4Um83cldJTURRaXZrYTJ3bldNaFJlLXlsVzZSWWVtdnZxdEdsWFVncHdiUGt6MnVlTW9qRlhTSE5YazZJOFZvSEFGYnlCdUJiNk9VdWxvazRVbmV0NDZJc2QxUHdlUXhJSVZ4RFI4Qkc0VFhNMHNzblVYN0xoYmF6Z1BWZ0NveU45WWpTWHRvcEtiYk5DWmp1QjI0NHVubmd5ZGNLREJDUHpBSGU0ajRzR3lzQ3VXNUtEaXdVbzRZcHVQcUEwMDk1cTRYYXQyRGFEREx4bTk4NXZ1bnY0OGlWSUh6dw?oc=5",
         "source": "The Indian Express",
@@ -169,16 +169,28 @@
         "date": "Sun, 25 Oct 2026 12:00:56 GMT"
       },
       {
+        "title": "Bolivia Documents the Amazon River Dolphin for First Time - WCS Newsroom",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQazNXQmZOWGRaaURNRlkyT3djQllLeVFvZXZDOWtiR0NJOVo2SE5yY2FzQWRGaW94RDcwYlNVbXhpbUF3QjRSbWlBZXRta3JISlVtT2g1OVVXSExzSlB4allJSExhX3dCbHVtRng5WnNlRUdfdWlGR21jRGxWb3FZai0tTS0yN3BROGd3NUhlS2tPeWwzMnlTYUVfTENhVHE4cnhqdzdLUGtOY0I5cHBqakY3Vm1ORWptZnFmYmJtM0lYNU1mSzJPUU1vMElHZkp2NXh1dUp3RkQ?oc=5",
+        "source": "WCS Newsroom",
+        "date": "Sat, 24 Oct 2026 20:00:06 GMT"
+      },
+      {
+        "title": "A discovery two centuries in the making: Smith College lab finds tiny organism living inside amoeba shells, a scientific first - Athol Daily News",
+        "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQLWFIQlcwZ0hkOTV6V3gzeWNxeXRJXy1UQVJVZzQxa05VTTJJRTNzWjVGN29Oa2FCOVlxZEJLWEU0VlFYSlhCd2xhZ05hOGotNmdkbkJMY3dQOUtnanljZ2dNM3g1emdKQ3RfczI3dnpPVi1ocEozRUpINHJ0UmdKLThKczBFaG1RbmMxSDIwS1hfUDFNeDRndzdWbHpPS3lkblFVTmJ3dzJYclNYdFAyZGM3NldNaDNWcGxFYjhKRjM0amVscjkzMmYzeXJSdlpVVjJvYzljd0NldFFLSGw1N3R5dWx3aFVYTzlnTXdoWW1XX2duYkE?oc=5",
+        "source": "Athol Daily News",
+        "date": "Sun, 25 Oct 2026 14:00:00 GMT"
+      },
+      {
         "title": "Roanoke College dedicates new $60 million McConnon Discovery Center - WSLS",
         "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNdmFTREF5aUxSajRlbnBnR2RTbzVkN0JmdTZvazIwZjV4dFpzWkZMY0hnX0FteHhoQ3Z3RUY1eksxOGRkalNqb3Rha0ltZjFTV09HUGNlRk5DbzlRSDgwWF93RUxycUlsOVctbEkzNURSNUxSa3doTWJwY0NONGlWSjlNUTdYMzF3dnNUWTV4VENPR1I5ZnBEVWlLWGd5LVpBU3B0S1NDTmF2R25ITkRN?oc=5",
         "source": "WSLS",
         "date": "Sat, 24 Oct 2026 17:06:28 GMT"
       },
       {
-        "title": "Lab Of The Future: Discovery Park Event Brings Together 140 Life Science Leaders - UKSPA",
-        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPOTNack16b1FOTmZjZU9mWEpHN1lheDBvcGtfcFNpUXVIbmdOelZkNGoxdjE3Wko4ZHA5ZHZWODd6M2d3QzVRVUNBZVVYazZyZWhER05sYl9Mb21SZnpGU3NLdlBlNmhoaEMtaHRpOTJSM21jeG1seGVZTzREOE9UWGR3WENsbVB0U0FESHp3Q1dXN003UTRvajJobTRJTzZZVGFYZWhNOEU?oc=5",
-        "source": "UKSPA",
-        "date": "Sun, 25 Oct 2026 17:02:14 GMT"
+        "title": "How scientists used AI to create ultra-stable, freezer-free mRNA vaccines - Drug Discovery News",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNa2N0NU92anA5VXFhOFA4ZWx3WFNKd1NMSXZJcVJnNHpFS0xlckpKc0doaHlEdVFyUXI0ZHYxaVJQd2JUd2Z3TVRoS0xIdDFsSG44VEJOeUdXTWNOSWpBWXNaekVDOHNFOTFOWkVPN29RNGZod1M4UjFkdHRaemhpRXpRT1d5YUEwMFZRc3lYZXVDb213TUJILXJwUXZzZXhTUGM1ZzRpbmQxM0QzTDNTM2NR?oc=5",
+        "source": "Drug Discovery News",
+        "date": "Sat, 24 Oct 2026 09:41:17 GMT"
       },
       {
         "title": "Professor helps lead global effort to accelerate materials discovery - University of Colorado Boulder",
@@ -187,40 +199,28 @@
         "date": "Sat, 24 Oct 2026 00:21:52 GMT"
       },
       {
+        "title": "Lab Of The Future: Discovery Park Event Brings Together 140 Life Science Leaders - UKSPA",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPOTNack16b1FOTmZjZU9mWEpHN1lheDBvcGtfcFNpUXVIbmdOelZkNGoxdjE3Wko4ZHA5ZHZWODd6M2d3QzVRVUNBZVVYazZyZWhER05sYl9Mb21SZnpGU3NLdlBlNmhoaEMtaHRpOTJSM21jeG1seGVZTzREOE9UWGR3WENsbVB0U0FESHp3Q1dXN003UTRvajJobTRJTzZZVGFYZWhNOEU?oc=5",
+        "source": "UKSPA",
+        "date": "Sun, 25 Oct 2026 17:02:14 GMT"
+      },
+      {
         "title": "Beyond the Winding Road: UVI Opens Doors to a World of Marine Discovery During Homecoming - St. Thomas Source",
         "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQSnhrcWU2LXNnNU9jM2xiVllUR0gxT2Y4ZFJXc1I1WUk4OFNrbFlLb051WHlkQzlYdjRfb2dyNTZiY2RIOTI3ZHkxenJSZXRfbEIzVWJ1YWNnTFJ6NGxnZFg3OEw2SUlGM1hUSDl1VEdERDNrMEpCb0tFVllreC15aV9mNGJ6UTBjdk9MdFBGNVV3cnAwYmZ3R2pjRjI5OEc2NWhTUHVJbnRCOGpCSm1CdHhLa0pWM2xxb3c4VzNVdjlEY0gwMUNMdUw0MG1jbkVI?oc=5",
         "source": "St. Thomas Source",
         "date": "Sun, 25 Oct 2026 01:15:22 GMT"
       },
       {
+        "title": "Scientists Find Gene’s “Playbook” for Protecting Wheat from Top Insect Pest - USDA (.gov)",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQdVFMX3lPX0hDU2JWeUhMS2xYMWhQV1Vqcld2dUhnc2hsSDBJV1pRRkVrekF6XzNXNDItV24xVFNuRzZkalZlVHZ0TlF4ZWlQeDJrcFI4cmtiQjhSc0xsdHhjUVAyN19JNXdORjlQNW43VjN2MGFtR25BN0haMWlid3pJT01WSy1QZTZIQlJJS2k4RUdMaEFMR1N2T3F0d2YyMVJfd1FCb1lMSXlJUUVUeDhPeXRrTnZlYVZKVDFtTzVVODZYXzVvdzF3?oc=5",
+        "source": "USDA (.gov)",
+        "date": "Fri, 23 Oct 2026 22:15:19 GMT"
+      },
+      {
         "title": "Scientists in North Carolina are opening a 5,000-pound block of stone containing a 75-million-year-old di - The Times of India",
         "url": "https://news.google.com/rss/articles/CBMiggNBVV95cUxNOV9SVUFEcW0tU1NhSWRXeTRfcVBtTXRfVGEtT3dtdnhtQmFBOFpObUNSSGxqeTBfaHZ5R0pZemlWQkx4WWszbmQxN0NHY016UzNLb2M1TWNfYk4zVEhfOHh1dGZ5akFyTUNkTDZzcmluV2ZpcG9uZWl1aGhuZ0txOEx0MmhQN0hER2tiYkJVWFJmWV8yMVI1dmhvTFNmMmdSeTE2cDVkZHUtdktfNExaZW9kZE5xQWx6VXRDNDBBWmxScDJzQUxXRTZ3aU9lRi1WSGE5NEt6QzRHWmEtQ0M4TUttZ3N0cVJvSGdEZ1JpRl9rTTk5alNfVC1TTmYwN0kzVFdOY1BNaVI3OFJFVXJ6dHBWN0hqaGVOeTVQOG16TXZYejRLWG94QjB3QXV4VXBhcmRHdEhrRVI1bE1xc2RORVAwWl92cXlwSDVTQ3U1U05kS0drTTc2SGpfc2p1Rjc4NGRyQmJlektMbzVwMldTSmZfQWk1WENkWjhKcGxwSlhHQdIBhwNBVV95cUxPcGtSSHNfQlhvZEF5dUdMMS1fdFNCTGN3dldXWC14VlBjY3RYM3ZWanpjdV9WZ05RUWU1dnBTcnNBWkVfWGtjc2FJanI4b3ZIUXlXckdwdFlncmRzcG1tZjZvY0dFUFVqejUzWi10ZW1Qc3RUbTlndHlsQS1LU3dnRXFNd0ZHQnlhVzNaNDJpSVU3OWRocGxoZk43TUFPOGF6cmp1RW1YdTFXYVlBM2dVOFpqby14Q2VPYjc5c3BtSko4YmhLUXNWRlRYUzZ3VU5ONFNjblNlOG1rZUlIejNieU1iWTBVbDhGTDZ0U2FmeVY5czIyVDZrVF9ia1lXbmhPOE9OU29sdGlSdWZ0Z1BTRy1RMkhVTmoxb1pCSTVNblZKc0pfQTR4cVNfbG1POFZVNjBBMGc3Q0x3TERUUjVLcy13UE03YXgzNWFXVFVjekZTd1FUamc3ZnllX1M4alFoN0l3aEVpREZLZTBTNVJocGVXa2NLejhjeXplU2pvMjkyWUF1OUM0?oc=5",
         "source": "The Times of India",
         "date": "Sun, 25 Oct 2026 05:26:00 GMT"
-      },
-      {
-        "title": "🦖 Discovery of a half-dinosaur, half-bird creature - Techno-Science",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPRW1kS1FPdEhKWFhDQng5NmpfckpScjloZzhwWU5sQkRsRnVJX3NlSUhZOFpONHZqZjR3VDc2al8zbHBaNU12dVhtZFJTZDR0aGFSX08wZnJUOWNTUmNCbThCZkxNQmNUWC1qYjcycGl6T0hTSUJ2aERYa241cUlnX0gwUVNHRHNLVTlSZQ?oc=5",
-        "source": "Techno-Science",
-        "date": "Sun, 25 Oct 2026 06:48:39 GMT"
-      },
-      {
-        "title": "Miguel Bronchud: AI Can Guide Cancer Drug Discovery, but Clinical Validation Still Matters - Oncodaily",
-        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1NNXJfUW5oVjRpZmRHNVVKMFc3OW5MNEZXRTE2OUpMbnNRSGxGQmRBWnV0UHR2Y3hwZFVKYmdjckd5aVUyVk9DMzlGYm9HN2NlRUNwZ0otU3ljWFJkYk9mNkFR?oc=5",
-        "source": "Oncodaily",
-        "date": "Sat, 24 Oct 2026 10:55:28 GMT"
-      },
-      {
-        "title": "Sichuan Discovery Dream Science & Technology Co., Ltd. Class A Estimates – SZSE:301213 - TradingView",
-        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5SeVRsd0FGd0U2WVBWd0lBTmdEUVpMMmY4SHJvX2dtQ0wxNW1DRHBzX2xJOUlLajZoNzNtLXFGcjRQSUJOaE53T1pXMjJEQV9mRkczWEI1M1B5ZDhucndXZHRoaTdGc2szQXhpcVlxVDlQX3dRaUlScQ?oc=5",
-        "source": "TradingView",
-        "date": "Sat, 24 Oct 2026 17:10:11 GMT"
-      },
-      {
-        "title": "Scientists discover a hidden switch that burns fat and blocks new fat cells - Science Daily",
-        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE96Ql9QNng2UUR4VlB4ejB5S1B5enh4dVpTVHpzUFVjc3pPWUFkeWFRaG5jLUczOEdqdFZXd1lqMjVkWlBJaG9YcmxkQU5oSnV6VmdHUU42TTFxVUlycGg4UjRtVDdyLUs0VEIyV3JPYw?oc=5",
-        "source": "Science Daily",
-        "date": "Sat, 24 Oct 2026 11:18:09 GMT"
       }
     ],
     "SPACE": [
@@ -231,7 +231,7 @@
         "date": "Sun, 25 Oct 2026 13:17:54 GMT"
       },
       {
-        "title": "Cosmic 'seagull' locks eyes with the Vera C. Rubin Observatory in long-awaited test image — Space photo of the week - Live Science",
+        "title": "A cosmic 'seagull' is staring down Earth, Vera C. Rubin Observatory reveals in stunning test image - Live Science",
         "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQZUk1Wm5rdmFENzBCQy1aZTFlRGRLRU92SnRFcElLZnhLb2YtVE42TFFTdzJ3TzdsN2dTdzlYYVBPSS05UDlaX1NHVHRMUjJJSXRsb3hqdDQ4akFNdklZVGlwVFhYcWhxNEROZjJUNDZMcFpRZkRhcXA5NW0waUR5ZkQ2dTdhUVFSYXBhcmZydnBWYW9fWldsMjRKdWxyNjJuYkp6NmVGUWJyM09kSVdDNWZCYkFIRHdyQjM5QU14ZkNVNm44eVNPUEwzTmR1VlQ5Z1M2Z0xDbklLRDFPd2Znc0pRZjlDWUFUSlE?oc=5",
         "source": "Live Science",
         "date": "Sun, 25 Oct 2026 15:43:05 GMT"
@@ -243,34 +243,10 @@
         "date": "Sun, 25 Oct 2026 10:58:25 GMT"
       },
       {
-        "title": "Three giant black holes discovered in a galaxy from the dawn of time - Science Daily",
-        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE00SG1INW0yamhlSDlfSEcybGxnUWdMMUItRUNSWloycDFJWTNMaEExRjI1bjJqQ2ctc0U2bmhORGU5cnVvT2ZxMFZjeUp1Y1RLTWN1aDdlSXJuZGhqNG9GcUw0ZXV2bkxNR1hQN0FJSQ?oc=5",
+        "title": "Astronomers may have discovered the first moon beyond our Solar System - Science Daily",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9HZ2w2QXY4UHlVVnZWb2ZYd2FfWlJ5eGJjcDFwdEloV1R6RUVPWGJMUldocnZ2NDRjbENyV2NSaXliSk4tZDl0cnVJMk1vVUxTUjU1UDFFVWw3R3M1U3VNZFpQR2wyUTgwUGZ1aEhuYw?oc=5",
         "source": "Science Daily",
-        "date": "Sun, 25 Oct 2026 12:08:41 GMT"
-      },
-      {
-        "title": "NASA’s Swift space telescope ends mission - SpaceNews",
-        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9zYzRtVG1faTdDazhFWGpGSlNCRmxSUHU1TEN0ZUlwaDZKMVYxN1hpSDdILVQwcVB0WXd4RllDLXJrUXltZGZvSGdOX1JUME1mWHN2bkFTa2xid1BaeDduOHMzQlUyQnVKdlViUjdxZ2k?oc=5",
-        "source": "SpaceNews",
-        "date": "Sat, 24 Oct 2026 21:02:03 GMT"
-      },
-      {
-        "title": "Night Sky Tonight: What to See This Week - Star Walk",
-        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1yU0cxdEpqSmFpSElLek41Q2tILVZVaTBJUHJ1ZGNXSVJlYnk3VmZJbHhja29hN2ZsYlJHSWtzbzE3VFpjY3MtRWt5QkpZNTh1Y1FIeVNEME9sU1h5?oc=5",
-        "source": "Star Walk",
-        "date": "Sun, 25 Oct 2026 09:36:11 GMT"
-      },
-      {
-        "title": "27 Exoplanet Targets for the World's First Private Space Telescope - Universe Today",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNdmlCRkZpa2cwN3F6c2dYQk0wdGN5bkFJc1lOcm0yY1RtUTQyREVEVFJ4eTVrWklXWVJUZ2FTcmtRbmtOUjZNR25KQVlJMkZTN3ZKRUJLRHdzV3ctcnBfRXBpWDEySy11WUt6UldLRWhaMXZsU0hSRHlwdmszY0pSbFVTc3RCa1J1Yzk5LVNFMDh5Ynd4ajZhMTgwU2dDWDhYZDJreHlVTQ?oc=5",
-        "source": "Universe Today",
-        "date": "Fri, 23 Oct 2026 22:33:00 GMT"
-      },
-      {
-        "title": "CHAOTIC AND BEAUTIFUL 🌌✨ An image of M82, also known as Cigar Galaxy, showing its \"exhaust system\" in action, was recently shared by NASA. \"Because of a prior gravitational interaction with a neighboring galaxy, M82 undergoes super intense star for - Facebook",
-        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQNFdUYmpHTVp1bGh6OWgydWprNFJ3N3JMZERyV0ZJeGthZW9VUjFBVEFSUFNBQmFlNW50Y2Z3RmJfaC14WDNQU09waU03SU1ENGpTdW0wSXN1d1Rwc2U2b0VWZVZwT0hhdVg2ZGo5clZha0xkNWhTaFV3SHFkMC0zbFFaY3hoSHZtRXh2dlFUN09lRUJBQW9IZ3BDRnlXeE1fdm1uUVMwQlJnRU5VNHU1ZE95Y24wNV9hN2Z6dkY3d2hUTEFXQkpocFV2WlFlQ1Fmc2NR?oc=5",
-        "source": "Facebook",
-        "date": "Sat, 24 Oct 2026 23:50:17 GMT"
+        "date": "Sun, 25 Oct 2026 03:14:11 GMT"
       },
       {
         "title": "October's 'Hunter's Moon' stalks into the autumn sky tonight: Here's what you need to know - Space",
@@ -279,16 +255,40 @@
         "date": "Sun, 25 Oct 2026 10:00:00 GMT"
       },
       {
-        "title": "NGC 1827 - The Planetary Society",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1xZUNvRjhhUzhfWXYwR2gwckpWOWFvMVU3UDdhVU9oSWlDQ0Y0SUhCbkpjZmZ1LUVPVlhlT2R2Z3UtSllJb25acXhqaWZJZlNqbU90aDNKSV9fZW8?oc=5",
-        "source": "The Planetary Society",
-        "date": "Sat, 24 Oct 2026 06:27:15 GMT"
+        "title": "27 Exoplanet Targets for the World's First Private Space Telescope - Universe Today",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNdmlCRkZpa2cwN3F6c2dYQk0wdGN5bkFJc1lOcm0yY1RtUTQyREVEVFJ4eTVrWklXWVJUZ2FTcmtRbmtOUjZNR25KQVlJMkZTN3ZKRUJLRHdzV3ctcnBfRXBpWDEySy11WUt6UldLRWhaMXZsU0hSRHlwdmszY0pSbFVTc3RCa1J1Yzk5LVNFMDh5Ynd4ajZhMTgwU2dDWDhYZDJreHlVTQ?oc=5",
+        "source": "Universe Today",
+        "date": "Fri, 23 Oct 2026 22:33:00 GMT"
       },
       {
-        "title": "Astronomers may have discovered the first moon beyond our Solar System - Science Daily",
-        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9HZ2w2QXY4UHlVVnZWb2ZYd2FfWlJ5eGJjcDFwdEloV1R6RUVPWGJMUldocnZ2NDRjbENyV2NSaXliSk4tZDl0cnVJMk1vVUxTUjU1UDFFVWw3R3M1U3VNZFpQR2wyUTgwUGZ1aEhuYw?oc=5",
+        "title": "Artemis II's moon mission is the 1st in more than 50 years. Why did it take the US so long to return? - ABC News - Breaking News, Latest News and Videos",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNN20ybDNmeUlTRG1FZ3hNaGVQdzNjeFFKcU1OcTdtWDdhWVhIWklFemZDTGNRVFVmOEk3Qk5aTmZ5a2JESVdFRG1lUHJHb1lTU1dFOWhNYlB4ZjJKcU1FamNwV3RHV1R6SnJKRVdjUV9DMHA3Zkt4UUZEYnRuaXFpRGtKTU9SdWJZbGNzQlFySnJIREtZ0gGaAUFVX3lxTE9IcXhYcDNiSmVWeXpnVzVOWFJGXy1vbDh5WG5iT0lWc0JFNUNJdGdpMDBVQnU1Qjl0YkR0UThiMDNWZ042RVpROU8xRmJGQjAyaEQzNURGbzVjUUxrS1JOQTZxcWdkNWxXdWNzVUJsQzBJSWdUSjh0enRMaGpUNml0ZlgzNkdKazNmZVVWc1VERE5ONXE1ZFI3Nnc?oc=5",
+        "source": "ABC News - Breaking News, Latest News and Videos",
+        "date": "Sat, 24 Oct 2026 17:22:25 GMT"
+      },
+      {
+        "title": "NASA’s Swift space telescope ends mission - SpaceNews",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9zYzRtVG1faTdDazhFWGpGSlNCRmxSUHU1TEN0ZUlwaDZKMVYxN1hpSDdILVQwcVB0WXd4RllDLXJrUXltZGZvSGdOX1JUME1mWHN2bkFTa2xid1BaeDduOHMzQlUyQnVKdlViUjdxZ2k?oc=5",
+        "source": "SpaceNews",
+        "date": "Sat, 24 Oct 2026 21:02:03 GMT"
+      },
+      {
+        "title": "CHAOTIC AND BEAUTIFUL 🌌✨ An image of M82, also known as Cigar Galaxy, showing its \"exhaust system\" in action, was recently shared by NASA. \"Because of a prior gravitational interaction with a neighboring galaxy, M82 undergoes super intense star for - Facebook",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQNFdUYmpHTVp1bGh6OWgydWprNFJ3N3JMZERyV0ZJeGthZW9VUjFBVEFSUFNBQmFlNW50Y2Z3RmJfaC14WDNQU09waU03SU1ENGpTdW0wSXN1d1Rwc2U2b0VWZVZwT0hhdVg2ZGo5clZha0xkNWhTaFV3SHFkMC0zbFFaY3hoSHZtRXh2dlFUN09lRUJBQW9IZ3BDRnlXeE1fdm1uUVMwQlJnRU5VNHU1ZE95Y24wNV9hN2Z6dkY3d2hUTEFXQkpocFV2WlFlQ1Fmc2NR?oc=5",
+        "source": "Facebook",
+        "date": "Sat, 24 Oct 2026 23:50:17 GMT"
+      },
+      {
+        "title": "NASA’s Swift Mission Ends, Leaves Behind Scientific Bonanza - NASA Science (.gov)",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9rbHlVa3VMRHlGSVVuU2E2NHpkVTg3QWxNWVFoa25YcW1obExNLWRNQy1sMkVkWFBRb2s5RUJ4RXQ5dE5QRG4zRU9WaS1ERDZSN252aUEzWlNTTkRxRzE3Z2d6eUlLWEEwR1VvUmM4VTJjSUU?oc=5",
+        "source": "NASA Science (.gov)",
+        "date": "Fri, 23 Oct 2026 21:51:19 GMT"
+      },
+      {
+        "title": "Three giant black holes discovered in a galaxy from the dawn of time - Science Daily",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE00SG1INW0yamhlSDlfSEcybGxnUWdMMUItRUNSWloycDFJWTNMaEExRjI1bjJqQ2ctc0U2bmhORGU5cnVvT2ZxMFZjeUp1Y1RLTWN1aDdlSXJuZGhqNG9GcUw0ZXV2bkxNR1hQN0FJSQ?oc=5",
         "source": "Science Daily",
-        "date": "Sun, 25 Oct 2026 03:14:11 GMT"
+        "date": "Sun, 25 Oct 2026 12:08:41 GMT"
       },
       {
         "title": "NASA's Psyche races toward metal asteroid with ion thrust - Labroots",
@@ -311,22 +311,16 @@
         "date": "Sat, 24 Oct 2026 09:00:00 GMT"
       },
       {
-        "title": "Ibis Steel will boost economy, business leaders say - Trinidad Guardian",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQQThBNXJ3ZlNGSXl5bDVLV1BLcXNoczVYWDZqaVBjWEt3R1R3Szh2X2hVRU9NUUwzWWttSGowQUI3Qmo3UVJoTmhueVRFYkU1Q2NCWF9wMGM2XzZ1aFhGZVdRX1hBSjhBYk1UNlpsazhxZ2xiendQenpCODRCU3FZdDhYQnQ4RFZ1Z2x1WWlHMEx6eGRUNnRfQmttTVhuV0piZ3JrUXdiYUstOEJx?oc=5",
-        "source": "Trinidad Guardian",
-        "date": "Sun, 25 Oct 2026 11:10:44 GMT"
-      },
-      {
         "title": "Energy security and resiliency in an uncertain world - Al Majalla",
         "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQS1hrcWdXVHhFRDVqTDR6NWQwS2RGenU4V3FLVGVrSGZmU0pNN2p1LTl4MWhvYlZxSU5oZVJBNmg0aU02ZTd1N0s5S1Yzc240T2N0R1dvR2hFck5BX3l2aU1PTUJ2X3h4aVQweW1sc0o5WWNqaGYzUnBmeFpRQmQ1OGpfb3FROURab3Rmc0tiNC1HeGUzR1RmNXVsNEtGZzg?oc=5",
         "source": "Al Majalla",
         "date": "Sat, 24 Oct 2026 05:04:01 GMT"
       },
       {
-        "title": "30 years after entering Africa’s largest economy, UK banking giant HSBC loses its South African banking licence - Business Insider Africa",
-        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNUzBVV2ppRS1SanMyeTdTeWNtekV0ZEJuUUllMFBwUzB6TE1Lc3puSmlrb2kzX2NNczJpRGJxTFhMRHcxNDR1aTc3SzZDa29UWXh0T3BjaTQ4N2VkUkFHQlZuRFpfR2ctYlN6QmhjUU5UOGEtSkZnOXJYRndWMkV3Y042Q2I4THdwVEhaNHRUVHUtSHVDd0V5NFhKSHNpczFrZVhuQVdpOFAwY0pwNk9tajhBVUxJQ0xESkxSeG5uWnRTQzlXNFg5SWNsb3czc2Y1TlVVX2ptOVJhZw?oc=5",
-        "source": "Business Insider Africa",
-        "date": "Sun, 25 Oct 2026 07:50:32 GMT"
+        "title": "Ibis Steel will boost economy, business leaders say - Trinidad Guardian",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQQThBNXJ3ZlNGSXl5bDVLV1BLcXNoczVYWDZqaVBjWEt3R1R3Szh2X2hVRU9NUUwzWWttSGowQUI3Qmo3UVJoTmhueVRFYkU1Q2NCWF9wMGM2XzZ1aFhGZVdRX1hBSjhBYk1UNlpsazhxZ2xiendQenpCODRCU3FZdDhYQnQ4RFZ1Z2x1WWlHMEx6eGRUNnRfQmttTVhuV0piZ3JrUXdiYUstOEJx?oc=5",
+        "source": "Trinidad Guardian",
+        "date": "Sun, 25 Oct 2026 11:10:44 GMT"
       },
       {
         "title": "Omaha Tribe opens $8.5M water treatment plant, quadrupling capacity - Tribal Business News",
@@ -335,16 +329,22 @@
         "date": "Sat, 24 Oct 2026 00:31:45 GMT"
       },
       {
+        "title": "30 years after entering Africa’s largest economy, UK banking giant HSBC loses its South African banking licence - Business Insider Africa",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNUzBVV2ppRS1SanMyeTdTeWNtekV0ZEJuUUllMFBwUzB6TE1Lc3puSmlrb2kzX2NNczJpRGJxTFhMRHcxNDR1aTc3SzZDa29UWXh0T3BjaTQ4N2VkUkFHQlZuRFpfR2ctYlN6QmhjUU5UOGEtSkZnOXJYRndWMkV3Y042Q2I4THdwVEhaNHRUVHUtSHVDd0V5NFhKSHNpczFrZVhuQVdpOFAwY0pwNk9tajhBVUxJQ0xESkxSeG5uWnRTQzlXNFg5SWNsb3czc2Y1TlVVX2ptOVJhZw?oc=5",
+        "source": "Business Insider Africa",
+        "date": "Sun, 25 Oct 2026 07:50:32 GMT"
+      },
+      {
         "title": "Why Emirates is increasingly betting on premium economy seats in India flights - The Indian Express",
         "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOaEU3M3hjckstdDdlZHliU3lHVWhjU0pwX3NvWFJPN2NhOUE2UWdYaTB0VGxKTFFEanNzSXVocDVNU09rYUVyNE1NZXVxY092RXlTRDdLa05KTnlobEs1Vm5VdXJ1RjAxQThnWEUyNG53bDUzSGdlV3ZMMzR4N0RzSTdvZUd4bmxNTE9fekF3TXpOd0p4bGMwSFYyM0o0UUtYWWpTUGxycVZXbGZwREVleFZSZEFIck92bnfSAcABQVVfeXFMT1JGWFMxQVZ3cE1odTNKUXhEX2l2UDZXbG1SZHdLcTZSQ1JXbjJMNlB4UGVCNk54TTZnMU9EcVBhTjN5ZElfMlVJMzB1MXE2SzBFdkFpSEhwNVdZN0tmMjNkSXduVmR4Q3FlS29lY0tUMmFuMUVxWXk3WkZZbEdJT2lZSlhEcGc0NVhtZ2dsRExrS2ZNZU5aUS14MHI3NS1fR1FBd3Q2T2NZcmRlSmhwMmdnb1ZtTVFwc05WN3ZpNm1X?oc=5",
         "source": "The Indian Express",
         "date": "Sun, 25 Oct 2026 01:30:16 GMT"
       },
       {
-        "title": "Trump administration cancels some Canada tariffs amid close midterm races - NBC News",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOVElRUlRYNE1DeV9WMkYwaXlScS01OTI1MVotc2Rob1AtZW90Tk13eGJuWWFhOVpEQndDUzBZeFQ3ZFlQcWJJZ0ZZdDdtaFlnTHg2WjdTT25wVm1FUkNEMFQwakN0c2NidkVrUlRseEJCd0g3cW1haXJVS1dhVURvWm9iTldyQWZPOHFjS1dIdVBtZk5nTmk5a3NB?oc=5",
-        "source": "NBC News",
-        "date": "Fri, 23 Oct 2026 19:53:48 GMT"
+        "title": "Stocks slide as oil prices rise again ahead of midterms - The Hill",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxObjJNV2FPb085Y1pqMGxRSGdJdFY3QkdZR0dUVFZFZE04TjlZU29zRFI2RUlvakI4N0pMTnF3TXBIVzh4RF9JeUFHVUFOdjFlcExxVldJR3BDVjZfc1FtcG01enVyaE5GVE9Qdkt1eXpnS3FueW1YeHprTDZCcUk0X3UxNWw3Ym1PMWJXUkltTElUZ3R0cWN6RXVjZmxXQ1NPZ3k5UU5BNzU2WDAwSi1maHFiRdIBuAFBVV95cUxPNEMtYldOV2xDdXQ1UzQtTnlfWGtuMEpPUHhiSXQ3OGFNN3dpNlRtQWRtdXV6aTNHVF91N0pQQmRrbW5QMVdyNEJWbzBETklqWmVNZWJPT0JYMmhidkFnUThPd3k2NjUtVy1GZzFXN2J1Z0Z0QlRPYzMyUVl4WGd3ZGZPcTAteXFoZTdybnVCUllpcmF2LVB6ZERjbWwyWUlkckZEQ21TNkNpMl9VeUp2T0JYZE5DMWM4?oc=5",
+        "source": "The Hill",
+        "date": "Fri, 23 Oct 2026 22:21:00 GMT"
       },
       {
         "title": "Anutin calls for tech transfer on Oct 24 citing ASEAN market of over 700m people - Nation Thailand",
@@ -359,16 +359,16 @@
         "date": "Sun, 25 Oct 2026 11:33:34 GMT"
       },
       {
-        "title": "Stocks slide as oil prices rise again ahead of midterms - The Hill",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxObjJNV2FPb085Y1pqMGxRSGdJdFY3QkdZR0dUVFZFZE04TjlZU29zRFI2RUlvakI4N0pMTnF3TXBIVzh4RF9JeUFHVUFOdjFlcExxVldJR3BDVjZfc1FtcG01enVyaE5GVE9Qdkt1eXpnS3FueW1YeHprTDZCcUk0X3UxNWw3Ym1PMWJXUkltTElUZ3R0cWN6RXVjZmxXQ1NPZ3k5UU5BNzU2WDAwSi1maHFiRdIBuAFBVV95cUxPNEMtYldOV2xDdXQ1UzQtTnlfWGtuMEpPUHhiSXQ3OGFNN3dpNlRtQWRtdXV6aTNHVF91N0pQQmRrbW5QMVdyNEJWbzBETklqWmVNZWJPT0JYMmhidkFnUThPd3k2NjUtVy1GZzFXN2J1Z0Z0QlRPYzMyUVl4WGd3ZGZPcTAteXFoZTdybnVCUllpcmF2LVB6ZERjbWwyWUlkckZEQ21TNkNpMl9VeUp2T0JYZE5DMWM4?oc=5",
-        "source": "The Hill",
-        "date": "Fri, 23 Oct 2026 22:21:00 GMT"
-      },
-      {
         "title": "Bank of Greece Forecasts 2% Economic Growth in 2026 Despite Inflation Pressures - GreekReporter.com",
         "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOUzZGN0JSdFVjRzRDenFQcVplN0s5TVN3NG1keUdmU2JSX2dMRHp3WkxDT3haZTkyV2VCRmlXb1pOVUF3SUNteTNEMVZYc2dZTlE0RXNleFR5S3BVcnlNR0xhNGRrNmlqZFM2aFdIcC1vd0tSaFpldC1PdDJPNEFEREgwb0xTQ0JGRDJpMHAxdzVjQUFrN2c?oc=5",
         "source": "GreekReporter.com",
         "date": "Sat, 24 Oct 2026 04:01:12 GMT"
+      },
+      {
+        "title": "The flaw economy: How insecurity becomes big business - thecitizen.co.tz",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQMW1oak5nTTBGZlRXVUtqZGhNcXd5SGZTM2VBVkgyV21RM3ktNmZGUWg4RVZSY3kzUVNWWkR3MFJkREVOOUptcnlidlB6akY2bkxVYWZfbWxIRkxMN1l0QUdPb2JVZllhRXpFRUs0Q3RQdmFXLVY1cW5jVnNJZ0xNQ01ZOWRlVEhoV3QtVVdOOFB5dTFfSWF0VTUtb1lWUmVnWWdvNjhPMHlNbElsSGdhY3Q5Q2hJM1JuRzloRGRn?oc=5",
+        "source": "thecitizen.co.tz",
+        "date": "Sun, 25 Oct 2026 13:04:34 GMT"
       }
     ]
   }
