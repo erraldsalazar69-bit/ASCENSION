@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-13T09:03:52.171958+00:00",
+  "updated": "2026-11-13T11:05:25.208380+00:00",
   "topics": {
     "WORLD": [
       {
@@ -9,10 +9,10 @@
         "date": "Thu, 12 Nov 2026 20:41:23 GMT"
       },
       {
-        "title": "The Global Economy Looks Vulnerable to an AI Bust - WSJ",
-        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPMkVOS3F3Vmp4MDZYa3ZWSHhTUUFILXNnNVFsVjFDczF3ZVNrN3pOMXByM0I5U0htYTlsRnpjQnZlZk1wYnNCLTRHeTFPbWUyTUlJanRPZDFwRXR4elJFcjVZdHAzcTRmbmxWQXFkazNUdVhzNzY4NVJrb2djNXBSdVpFTV9hN2U5cnJQLTN0SQ?oc=5",
-        "source": "WSJ",
-        "date": "Fri, 13 Nov 2026 08:30:52 GMT"
+        "title": "Who gets to tell the world’s news? - Al Jazeera",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPcndzUHF3OVVoZzR3RnNPUXVjd19xZ1hOWlRwbEtpdGFHNlhibmtKdUdkUjRLS0ZwaGJURlFXdmVDNG1zejVqWGVubV9kZEJzeDd1bzhCdXZnajZBZ1B3THpQa2VSSTVhcTBCWS1GVWJkVWwtLTZ0S0xnOHNxblphSUNvNXl6RnN0SG9IZ21rSkHSAZYBQVVfeXFMTWJUT05rNFlxTk4xeXhrWjBGQ1c5R29mU3EtVWgtUndnTkdFdHllbWtsUE9xOGF1TC1pbHlTemIzejJBQjgwLTZNQ1NDM0dwR1IwVWtySE0yNEJaUUpqWkdreHBPNkF1RnExWnJ4QWxqVjNWNU5BMzFCSHR6akRfSk1ycmNzYU5FdnktaGdNWmdLTU02cjhB?oc=5",
+        "source": "Al Jazeera",
+        "date": "Fri, 13 Nov 2026 08:59:39 GMT"
       },
       {
         "title": "Institute for Global Engagement brought the world into focus in its first five years; even broader horizons in store - Saint Michael's College",
@@ -33,25 +33,31 @@
         "date": "Thu, 12 Nov 2026 23:38:23 GMT"
       },
       {
+        "title": "Global Microsoft outage affecting tens of thousands of users - BBC",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE96LUE5dHZZQnk2dFR3ZjRsLXpJT0NTS0gyaGM3NW9sVVJ3TG1Ld1BnVGNRNlRNa04xTnVIalJSYWFVQ2lkTUlVRlROQmFSRGhhUUdtbTY4U3lPMlE?oc=5",
+        "source": "BBC",
+        "date": "Fri, 13 Nov 2026 02:38:02 GMT"
+      },
+      {
+        "title": "Microsoft races to restore services after global outage - Financial Times",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNc1JOaEdsdTdDNG5MMWZtVW5rSWx1S2dKTXZ3ZmdOVUd2X2NFa1BmeS1kWkZpZ0diYmxZNGEtQ3R1MzNVN0RBM0txbHpfakxKR1MtblJZMFhsXzlacTlqUEpCZGZicmZLcm5yaHU3bGRDX1hBUHBPNEZ3TXJlZEwtTXRGeHg?oc=5",
+        "source": "Financial Times",
+        "date": "Fri, 13 Nov 2026 10:19:04 GMT"
+      },
+      {
         "title": "Disney Eats: Foodie Guide to EPCOT International Festival of the Holidays 2026 - Disney Parks Blog",
         "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPem5hTVVrdm10bjRaV01fNmtmRllJZDNETHoxWEdGZ1U4cnZpRVlmdVBzUlJkQXJpa3hoZHprWVYwUFhUVkdOdVY5dXhEMUttQkdoWlhmUmwxNkR5X2pvWGVEblc0dGtZNDBvMl9TY0VscVZNb25FTjhOY0M0WXc0S01IcDRkRkRGUmpjTEtabkY5d2VzaDdMUzdmSi1PczQyXzNzSlh5WmI?oc=5",
         "source": "Disney Parks Blog",
         "date": "Thu, 12 Nov 2026 20:46:29 GMT"
       },
       {
-        "title": "Microsoft races to restore services after global outage - Financial Times",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNc1JOaEdsdTdDNG5MMWZtVW5rSWx1S2dKTXZ3ZmdOVUd2X2NFa1BmeS1kWkZpZ0diYmxZNGEtQ3R1MzNVN0RBM0txbHpfakxKR1MtblJZMFhsXzlacTlqUEpCZGZicmZLcm5yaHU3bGRDX1hBUHBPNEZ3TXJlZEwtTXRGeHg?oc=5",
-        "source": "Financial Times",
-        "date": "Fri, 13 Nov 2026 06:03:26 GMT"
-      },
-      {
-        "title": "CD&R, GTCR drop pursuit of Global Payments, sources say - Reuters",
+        "title": "EXCLUSIVE: CD&R, GTCR drop pursuit of Global Payments, sources say - Reuters",
         "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPZ3dpSHM2Qk5GaUZoRm0xeVBTaXhUUnkwU3lTY21HYW55cDVVWnN0NVZ2ODJEM2xucl90UTI0Nmlab3lMbWVjWGF6WGZ2c2loNVlaUE85ZWVrWVVRNGxjQ1ZPdkVZUFlxa2JreW5GUEhYTnY2SnVhOHE1d1Bqdi03dGJHeW8zMDFwTDBMU1FfaGl4MDFWYXc?oc=5",
         "source": "Reuters",
         "date": "Thu, 12 Nov 2026 18:37:55 GMT"
       },
       {
-        "title": "Microsoft ‘seeing positive results’ from attempts to fix global outage affecting Teams and Outlook - The Guardian",
+        "title": "Microsoft scrambles to fix global outage affecting Teams and Outlook - The Guardian",
         "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNUUZWOUNtNWFCM2JscG9FNzZHc1JVYzVPSmtUd2pUM05DVUNxSEtyTDBtN3IyYVpLRUJXdVhFNkFzcE0yZ1VDdUxLeWFwU2xmTkVjSGRfcUREbWVldTFoX1RibnhjUkFzRmVNcU9HOS1pVnlzOXVtUHo4TlRtMHZIcWQzZ1h4bENjN25Sd3ZOMkFRb3VqSGZBYUNQdTdjd1FYMVE?oc=5",
         "source": "The Guardian",
         "date": "Thu, 12 Nov 2026 20:46:00 GMT"
@@ -61,12 +67,6 @@
         "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQRTl3Mzk0cHNtX05tSnV5ODMtMFpSQ0Vtc2k4c1dEcHBpRHJDUWlGM3cxUWhqRDR1R2M4UUltbThkdnZUOFk0R2NuSnlnRHk5WUFORHhKUXN2eHVmUVhlOHJTU0kzdVNGLVhVWUZIM3h2cE9oNnV1Si1Yd2pMQW1pYXg0MlpnT0hKaGxyQXlR?oc=5",
         "source": "Yahoo Finance Singapore",
         "date": "Fri, 13 Nov 2026 02:00:00 GMT"
-      },
-      {
-        "title": "Leaders at the U.N. climate summit urged to get tougher on global warming - NPR",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOOHZCV3dWc1F6MjRnN3pIbmptal9mMHRVT0xCS1U1azJWRGRjNGFvRDhFdjBVSzd0bjZfWkFtOER0ekZnUE1yRVQ2Q01RWFdsb052dm1oOE5DUGlIVGdJNmZLOFZ2SElJSngzeUVmUTNDME9WanE5LW1iclBIbEY4Z250X3pPbVVDd1RaQnJUOGNEd0Zmb3R0YzRTSU9sQjhldUhTV3lBS2tGSG51UkNlVDVrSlFNOHRL?oc=5",
-        "source": "NPR",
-        "date": "Thu, 12 Nov 2026 09:35:57 GMT"
       },
       {
         "title": "International Education Week Showcases Global Connections at Illinois - University of Illinois Urbana-Champaign",
@@ -87,6 +87,12 @@
         "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOVmJDaXAwZHNYNHpKMU55MW4xT1FCWFdrVDJhZ2tsbWZBQW5sdkQ3ZURreElhaXhjY3FOVHdOdzctQVkxOUZFWGlfdTZtMHpRbHBxMWZUa1Fva1NJZWlpSXVJNlFQWF85QmZEVkhjekNEY3BkVjI1emZJT05jRjhybU9sVDExSHYyZGZB?oc=5",
         "source": "Andreessen Horowitz",
         "date": "Fri, 13 Nov 2026 07:41:15 GMT"
+      },
+      {
+        "title": "Who Are Top Cybersecurity Expert Witnesses? Scott Steinberg - https://www.futuristsspeakers.com/",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQY2NOUnk3OG1pR3NuMkRJdmtwdUpCVUxSZ3psaFpIYVJfLXc2a3dMejBvQ1ZWSGJHbVZGbG1OX0xpdGJ1SVk3enBhS0k0WXRFYUtVS01PR1ExMVI4Wi0teTBmR0U5UUN2TFlfVVY0VndZUFlnWjI1NEQ5N296SEk4Y2pkbw?oc=5",
+        "source": "https://www.futuristsspeakers.com/",
+        "date": "Fri, 13 Nov 2026 10:31:54 GMT"
       },
       {
         "title": "Cybersecurity expert breaks down Microsoft 'health check' failure and cyberattack fears - Fox Business",
@@ -113,16 +119,16 @@
         "date": "Thu, 12 Nov 2026 20:30:36 GMT"
       },
       {
-        "title": "New Kickstand Research Reveals Cyber Translation Gap with 73% of Americans Unable to Grasp Cybersecurity Lingo - VMblog",
-        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQcFhxRElzQTNEeV9lYkw1MDktN0FLTDM3emdOcDRRTl9iMkU3TkFqOTVrdl9KTzNsdHdMWmRrQW9yQWFNYmc0STJTSlpEMk12V0h3Z2FVdi1wNURJTVhLaXNzakhRQV83elNSZEFqb3o2T09tcUNTMWZLU0FxbzU3S1ZDTDF0WDE1Q1dFcG5oNkk3NWF1cDlaZklUT2VDMFpzZzh5Q29XR1JhbjRROGhzUUVtbkdRUXBkLWgwN2Jlek9qTjZmRWZ3cm12RFZTS1E?oc=5",
-        "source": "VMblog",
-        "date": "Fri, 13 Nov 2026 04:34:30 GMT"
-      },
-      {
         "title": "Federal Guidance Allows Cybersecurity Grants To Cover MS-ISAC Membership - Conduit Street Blog",
         "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQX1J3OFhTd2JfNDVGYnhqMzBlWFhUbG5yVnVhX0tnRFJWS1JUbHRtT2ZoaEktQnZ0WWlkSFZ5YU16RnRxZ3VJeEN6eVVlWlJhM0E5cDV4QjdsWlpKeHcxLThpZzY0MlFfS3NSSG4tOGt1Y0Zwc1lMNkxhakhwWmNVVUpFT0Y2QmVHakxLUHZoSkU4V0huN0s5amt3UDhVa0QxenVITFhabmtVeVlJQXR0bWt2RmNYam1jWEI1QjB3?oc=5",
         "source": "Conduit Street Blog",
         "date": "Thu, 12 Nov 2026 15:02:47 GMT"
+      },
+      {
+        "title": "Quantum Systems says grounded German military drones flying again after cyberattack - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQc2Vkc3h1WU5hemtpajdWWFN4ZU1Eb3NMVS1aaUliem1Ja2lvem5ERDZMU0gtUU9adjUzRUxaZXJtNVlkTEpRcFQwamp2am9xRVc2UzFxQVNpWFdVY2c0RFZUX3diQTJ0c3E5X1FhZm5KYjUyVk8teFQxaU44LW5yVl9VUXl6YkRWd283RXd1N1huM3YxR3d0UkQ2ZzF1aWZWeEZJYTBwT0dmVWdKMGJaN2lOVU0wcDRDWFQ3ajNzZUx4RWZNalFYdWJBUS1SWkE?oc=5",
+        "source": "Reuters",
+        "date": "Fri, 13 Nov 2026 09:41:44 GMT"
       },
       {
         "title": "Cybersecurity checklists require continual updating - Putman Media",
@@ -131,22 +137,16 @@
         "date": "Thu, 12 Nov 2026 17:25:53 GMT"
       },
       {
+        "title": "US uses French supermarket cyberattacks to smear Chinese AI, fueling broader tech containment push: analyst - Global Times",
+        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBhckpycFUyRHNmdUNPTUc4VWYzc1hTemN3aUpKX2JwbFc1emlQSkxnVDlITDRLTGFvZmNwUzN0LVotYlJnODcxRHhsS2dWQ0FOOXl5MGlaaWg4SXc2U21RZTV3?oc=5",
+        "source": "Global Times",
+        "date": "Fri, 13 Nov 2026 10:17:00 GMT"
+      },
+      {
         "title": "Cyber Security Breach Causes Food to Ruin in EU - Southeast AgNET",
         "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQb3JyWU5mNXhYaGpYdHA4OGY5NW5ITGt4ZFlCRTdjd05oSXZkZXpZWHRmUzY2MkdmZjMzRWl2aDhGUWZnWGNmam5XN0FhVWhFdVphTXB4WUpKUkItMHlkVVJtX08tZ29yYXZNZDZ1c1BfOUhXS2dxNTJoZVNIVjFEcFhzN2VDTnM?oc=5",
         "source": "Southeast AgNET",
         "date": "Thu, 12 Nov 2026 15:05:57 GMT"
-      },
-      {
-        "title": "Managed IT and Cybersecurity for NYC Executive Search Firms: Protecting Confidential Information Without Slowing the Work - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPaFd2RDdRTTRaS0U3VWxGQ0lDMzNXVjRIWW5teUFqbXVJZUlFUDFHazVaazQyU2VGbkU0Nm5VdkhMT3pHNFBpLTNYaGVwU2J4Y04tTTU3eVh0Z3BOVENIODZCMGdIcmdZWkEwZDlwazlfa1pHeGZ4emtmMkJNblNKVjd5V0wwLTF0MkdIbE5Ray1QaVlKMEJycXNfR3p1YnVDU2tqbEVB?oc=5",
-        "source": "Yahoo Finance",
-        "date": "Thu, 12 Nov 2026 14:13:00 GMT"
-      },
-      {
-        "title": "CHCC IT chief: Cybersecurity is everyone's responsibility - Marianas Press",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPQlJUT2tNTFZCQnlZMnFaRnY0aXFXTkU2MnBhNVcyanNNekhENGxrQUV3b3JBVk9tODkyR3FPWV9zdDd6Z0k4ODEyelZ5ZXBvMEhIOTk3RHFEUkhSbWI4U0R3ZWc0T2diWnZVQW56ZEF2RVhCMDBSWXdQQUp2eDduTE9LQnBKZDQzV0tJVmdSU243VXpPaXUxQy1n?oc=5",
-        "source": "Marianas Press",
-        "date": "Thu, 12 Nov 2026 20:27:25 GMT"
       }
     ],
     "SCIENCE": [
@@ -193,12 +193,6 @@
         "date": "Wed, 11 Nov 2026 15:29:57 GMT"
       },
       {
-        "title": "Founders’ Day ceremony celebrates 65 years of discovery at Cox Science Center & Aquarium - WPEC",
-        "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxOY2pIeG5GQnRIQTV5aHc4V2ZwTTBDcEhRYnBhLVF3Rmk2cEduU1lVbnltME0wYXJIYlhoamFUa21fTEVsMHd6cEIxYTQ3RVU0eHVMdUVfM21xU1d0SllOZzlGbW9nbDY0b2VXWE40Q1cyeHpmd1NmRW14TjhGU3ozdXpKTm5ybnNWaDc1MVk2cjN6TXE0NzBDWHMyQlFHbVpnNzFBdGZiT1JKeks1OFBlcXFBN1B4SFZSeGRQSW8yUmFpZ3JNQW9zODh4RGJGZHVETlQwbkVmQzkxc0lndng3OVhqNVZHZkNwZWVoR01wYm1SRFBIS3BzcWJzTXlaSXNqcWVLMU1uQThKTFBBQVJrSm5NdGdzeFZaTFRZcw?oc=5",
-        "source": "WPEC",
-        "date": "Wed, 11 Nov 2026 10:01:55 GMT"
-      },
-      {
         "title": "Nextflow Frontier Develops Discovery System to Solve Science's Most Complex Problems with Breakthrough Results - PR Newswire",
         "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOWGVyOW5UYlYxLXRvWlJKODN6RXVwQlA4THl4UTdzdENNZU9vcFROVldCYVNXRFQwT2RiUXljQVVMZHUtTFRiSDl2ajRlYmxwMm5iX3B1VHJGTXpxSVF1T1I3eU5CUlY1ak0tT2wtTEtIeW5XVzlqZFpVVUttYjVGWGw2WTRpZndua0xQSUR3bXpqeGF1ek51NDdxcEFWYlV4aHVFRTFLUFhGQkRxRmFTaXB2TmJ3bUpQenFCMjY0aEJsNDFmOWVrNXg2NVlzX0JUNWIzUFJxbGwzYXdhNTVUdWVHMlZzN0FCWXFpSlpnTnQwZFdnbUNmQg?oc=5",
         "source": "PR Newswire",
@@ -209,6 +203,12 @@
         "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9sQWdfYTJXb19TeWF1bGtaMkdwQmVmWXlBVXJiUmNQTmVxV0FwQ1ZiWmxqbHlnYWsxVlNkRWRtTHRSU0ROZzA1Tg?oc=5",
         "source": "NEWS.am TECH",
         "date": "Thu, 12 Nov 2026 12:30:00 GMT"
+      },
+      {
+        "title": "Plastic can conduct electricity: Hideki Shirakawa, Nobel Prize winning chemist who did this innovation dies at 90; Know about his accidental discovery - Education Times",
+        "url": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxNekpzODV5SVBCM3lueWpjSnIyV1drVzZDR1B6YTVGUUw1M0ZPaDd0VTEzUkhfc3R2dlo0dTRQSU1sUnRTXzJPeld6M1hBRldCb3d4dm9zcFlXZGVrRzlLWC1DWjdTRFZrWS1KWUhhcGliWTZ1cFo2b3BDemZoeEJTOGs0UUE3RmNqWEZiYmRiQk9GMEZKSzU3UDdFMENFeC1SRnBNYTRDMXlPZ1N0M01icGVjY1ZTQ3FiSXAzRzBVR1J0UFlNLVFJMUlpeEtrR28xSGlTZnZXZmM0dnYwMVltU2d4R0pESmNSMjNKVE1uU2hfdEdPWjVBY2JITndQdm50RUQ2OHBqZnpkankwUWF4VDdDYWgyeTdtMGY1aWFvanhsZGhHYXpsbnFfYnM1VDRYUzlxZklOLXk?oc=5",
+        "source": "Education Times",
+        "date": "Thu, 12 Nov 2026 07:59:00 GMT"
       },
       {
         "title": "Teleshopping on Discovery Science +1: full details and when it's on - TVGuide.co.uk",
@@ -261,22 +261,10 @@
         "date": "Thu, 12 Nov 2026 18:05:48 GMT"
       },
       {
-        "title": "Deep space system emitting signals every 8 minutes discovered - Iosco County News Herald",
-        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNaUVjdkpLTVhOLVZScW5kemJXQ1FESDNkSlptck16a0xVcFZjUmwzVG12T29wWElNY3haMGtJZWFKcFNjeUtVel9NLS1DYldQVFlZaGZfYWt1a3hLWTl0VTlydlhCUVhQMXhwcnNST3lzbXZkd01aY1o3dzFCTUZKUnNtUDhpWkNsREt6dkN4aUk?oc=5",
-        "source": "Iosco County News Herald",
-        "date": "Thu, 12 Nov 2026 21:04:59 GMT"
-      },
-      {
         "title": "Rare Star Duo Flashes Radio Waves Every Eight Minutes, Shedding Light on Bright Space Phenomenon - Discover Magazine",
         "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQRDFubjBjSm40Qk8xZDRvM2FCak1FR1RVUVQ4VHRwY1ZPczFWYXhCaGY2ZXlEYzZOYk0zYU9SUWxBMGZuOXNUTndwTFl1bjk0dzBJWG9XeHFtekFoamRNNHBWZkZaTHJKdnJuZUtjZGdKMko3ekdGLXIzUktBdlYzblFnM0VLVkcxTHRfRk10YUJ3U21wS3EzRUZlV3hIWmgxZUhLZklPcDhocjJYZlFzelIwelVyY3JJR1JCUzhtTmh4RnpIanQ4OGxidDE2dTQ?oc=5",
         "source": "Discover Magazine",
         "date": "Thu, 12 Nov 2026 23:47:47 GMT"
-      },
-      {
-        "title": "Blast Off for a Milwaukee Space Adventure - TMJ4 News",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOdDVFcHdicDlvVnAzMVRob05ra2NxaVRlcEJkeWZQNHE1ZEFELV9NeEJMdTFmNjdTdXgxUVZrUGJpaHQ0MTBURUNlR21pWE9zVDY4S1lVMkY4V3h5WXFBVUVvclg1Rlg1amEyczVaZkxyZG16b3JkM3FibmZESnR6emZicGVhVFRlc0UyMFNlOW9yZDk3ZWZF?oc=5",
-        "source": "TMJ4 News",
-        "date": "Thu, 12 Nov 2026 21:30:02 GMT"
       },
       {
         "title": "New eyes on the Cosmos: Lecture on Space Telescope at NBPL - The Coos Bay World",
@@ -285,19 +273,49 @@
         "date": "Fri, 13 Nov 2026 08:00:00 GMT"
       },
       {
-        "title": "Scientists discover mysterious radio signals coming every eight minutes from deep space - New York Post",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOajAtNlVXc1lFYkFYbVZ6eU4zcjFWeUlBNWtLZ2VoNFBHbzlTVmhrRnpabE1vOUpZMWRkUHl0cWZHRXZ1TzFaX0NoSGJyQnFDWURvWENvRXp3OHNfcDk4NHVYWHlWMEQzenVkV095TmZQTmw4ZjFCVFdjUFNiWGY3ZC0zakxFbTJ5QWkyYlUzN1dFWFZTYnBMMllrMEJ3RjIzMkNMRGNwc1ZXRW5oQkFBak9hel8zd0ttMlh1aWxSNA?oc=5",
-        "source": "New York Post",
-        "date": "Thu, 12 Nov 2026 17:03:00 GMT"
+        "title": "Deep space system emitting signals every 8 minutes discovered - Iosco County News Herald",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNaUVjdkpLTVhOLVZScW5kemJXQ1FESDNkSlptck16a0xVcFZjUmwzVG12T29wWElNY3haMGtJZWFKcFNjeUtVel9NLS1DYldQVFlZaGZfYWt1a3hLWTl0VTlydlhCUVhQMXhwcnNST3lzbXZkd01aY1o3dzFCTUZKUnNtUDhpWkNsREt6dkN4aUk?oc=5",
+        "source": "Iosco County News Herald",
+        "date": "Thu, 12 Nov 2026 21:04:59 GMT"
       },
       {
-        "title": "Black Hole Jets Glow Brightest at Edges as Electrons Follow Magnetic Fields, Simulation Finds - Tech Times",
-        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOdm02YTQyYUJQZWpWeHcwX2gtdGVZb3dNLU95T2o5MG9iNVpkZTQ1U2pUcFpqbmNfYVJwSjJhU1ljUDlndzNucTVWR3NfNmNvcmZKeVE5VU0tNjg2Y2tjU2RWdkMwMnRYS19PTjJ6MERVOXNNYjJhUnk5ZjV6dUFuZzNfV3BHSlV1by0zTDF5SWxTOFo0bzdiN2NhRjlOcS04bFppS29QTTRwcWt5WF9zUXVYUXhEZjBscVg2WXlCclJIcE5BSWYwc00xano1TTJaMHJMVDdHNEo?oc=5",
-        "source": "Tech Times",
-        "date": "Fri, 13 Nov 2026 03:32:26 GMT"
+        "title": "Blast Off for a Milwaukee Space Adventure - TMJ4 News",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOdDVFcHdicDlvVnAzMVRob05ra2NxaVRlcEJkeWZQNHE1ZEFELV9NeEJMdTFmNjdTdXgxUVZrUGJpaHQ0MTBURUNlR21pWE9zVDY4S1lVMkY4V3h5WXFBVUVvclg1Rlg1amEyczVaZkxyZG16b3JkM3FibmZESnR6emZicGVhVFRlc0UyMFNlOW9yZDk3ZWZF?oc=5",
+        "source": "TMJ4 News",
+        "date": "Thu, 12 Nov 2026 21:30:02 GMT"
+      },
+      {
+        "title": "Mars and Jupiter nearly touch in the sky this weekend. Here's how to see the planet pair with your naked eye - BBC Sky at Night Magazine",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNNVNpRzIzRnpyRWJyRWJqX0xRNEg1MzhBb3ZEbWMtX3RXamdqOXFxX0o2ZWdOY0lydDJvQ3JQSkZJMjJ6ZXh1TUxWaERPMHJGekJOOWYxV05renMxZVlJd1BpMjE1bzAySVhqU0luSVNpakE2RWJoc3FrOGk0Wjh4TV91c2g1WWFfdWJYX3ZlRktqNkk3S1N3?oc=5",
+        "source": "BBC Sky at Night Magazine",
+        "date": "Fri, 13 Nov 2026 10:27:43 GMT"
+      },
+      {
+        "title": "What’s in the Night Sky Tonight? Astronomical Events for November 13–20 - Star Walk",
+        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1yU0cxdEpqSmFpSElLek41Q2tILVZVaTBJUHJ1ZGNXSVJlYnk3VmZJbHhja29hN2ZsYlJHSWtzbzE3VFpjY3MtRWt5QkpZNTh1Y1FIeVNEME9sU1h5?oc=5",
+        "source": "Star Walk",
+        "date": "Fri, 13 Nov 2026 09:44:05 GMT"
       }
     ],
     "ECONOMY": [
+      {
+        "title": "Trump’s tariffs face a new threat: Republicans - CNN",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBNbmJUVFdDTUN5ZXd6cm9BYnAwV0dyMzVVSTJucUQ2dW0wd3RBR1ExY3ZTSlVFaFlpaHdkeTlzaXp4ajFZNlBqMURSdWczZENmcFhva2ZoR0dxazRtbllOMFluOEtyRjlTeTViRG5jYlRmdw?oc=5",
+        "source": "CNN",
+        "date": "Fri, 13 Nov 2026 10:00:15 GMT"
+      },
+      {
+        "title": "The biggest problem facing America's economy: not enough people - Business Insider",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNMGpWQzF6TWpQdjJMelg1dkk5UjFKMkdZOWowQzZNel9tX2M2eGIxaDYwZHJ5eVFCUEdNR0NVSWNfOW9oeFg0X3ZnRkRBSXo0OTUyT19HdkhzcWhTNjl1eGZ0cmU0b0s0bU90MXNib1dkUUNuZ1lRek5pZE5WakFEUnZpNjZtWW9zMVJjdnVpV0tWVlJXU1VHRF9hdHBOTGQydDRTbGJiazZBYjk3SlE?oc=5",
+        "source": "Business Insider",
+        "date": "Fri, 13 Nov 2026 10:07:00 GMT"
+      },
+      {
+        "title": "SA visitor economy tops $23B as optimism swells - The Business Journals",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTU1weHZ3NldpMHllSndLQnlhNlRZcEhIc3YyS3FQUG9ERXlyTmc0Wjg1Mi1lYk9xeFlIREhxNUQzWVlSQ3hJdzV0NUtqdW94d1dwQTVBN0ltek1VSkJiS1BWcDZVVVB1RkN3U1M0M21GdFU1MlNSN2lpNy1pTTR1TGh5eW0xQ0xxYUs2SWpoWTRXQzJSWFVvOWQ0QzBrRkp3akphbHI2MEJldw?oc=5",
+        "source": "The Business Journals",
+        "date": "Fri, 13 Nov 2026 11:00:00 GMT"
+      },
       {
         "title": "Small Business Owners Are More Confident in Their Own Companies Than in the Economy, and Two-Thirds Use AI - CPA Practice Advisor",
         "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQM2pzbVVpaXAySDlkM1pyQkc2QU1mTTJXeXRPNWtKa0VFX29hZGpweUVCS0FRaXJHWkxKQ3k2UldMYmpZc3d5d0hzYmlIX2pvWmMwbExFR2ZBTHBLRVZIQTJwRUhtbkhyRWxKQ0VldVFIakVMQTdTOEZORlk4N2VxMDdKd2w1dS1yekZYRndTT3B2TEk2TnRib1czYmFaakFZT3dZOTNtX1haTkhuTTgtQVJzYjNKdDhQVmdSRmN0ejJOd1p4bXlMOHRzQkRIbkRTczVKZkl6cmR1OW1ZUjNwUXFMbFRpV1VzbHhyVVpKMnI?oc=5",
@@ -311,22 +329,28 @@
         "date": "Thu, 12 Nov 2026 20:27:08 GMT"
       },
       {
+        "title": "Sweden's Economy Nears Peak of High Conjuncture: SCB Business Cycle Clock September 2026 - News and Statistics - IndexBox",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNRmFTVXhuTURuWjlsQjF6VHpVSTFFanFMNVIyUUp1dU1samlCeHhqdWI1MnNHZm1mWUZYQ3I0dVVUVk5sREY5RDNhcDJPeUVsMHZwbXhaVC1aUTdjV3BtVUQ3dzVNOEtQSUVOSDNocHFDc1NocTZ1VUZ3dUZWZFUycTBxS3FFYnlHdjBsN0pLSTlmajcyTTRQcGYxaTM?oc=5",
+        "source": "IndexBox",
+        "date": "Fri, 13 Nov 2026 10:10:39 GMT"
+      },
+      {
         "title": "Arvada Resiliency Taskforce launches ‘Discover Arvada’ program to promote local businesses - Arvada Press",
         "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNLUxuR3RTSWd0c1J5MlM2QTNlNFJoY1VmRlk0aWt2YWlMR3BtWTEwOHA5WFNnQXp1emhjMUhabmZCV09qNDhJbEhTY2NvMGJZeUxrd1hSZS15bFdMcFluQWhoMXh3QVlmMjBkU3czLXA5dmVieFhhNDhmNG9zV3d5bjd2RGpVQmY1RU1vQUVvWExKOC1iN0s1UGx3?oc=5",
         "source": "Arvada Press",
         "date": "Thu, 12 Nov 2026 21:25:00 GMT"
       },
       {
+        "title": "Wall Street shakes with swings for Nvidia, oil prices but recovers most of its early losses - Anchorage Daily News",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOaUZvOVVRUkZUa0lYLXJYc2ppd1gyaWlXbkRWN2ZKajVpVVlUWjE3WmlkY01VUGVFQ3VxZnlPTVVEVTE1el85TkdXWlpWbFZVRGRSUDRYMnpnY1dDQW9hNzl6LXJWVlhwa0dIV3N1UlRsYXlFaVNVdGpaRC11c3Y2Z3djX3VvWEMwMV8zV3dGWi1iUnJnMW5rSkd1UHh1S3BiRHZHVU5SU0xza2pWUGYtbVppRQ?oc=5",
+        "source": "Anchorage Daily News",
+        "date": "Thu, 12 Nov 2026 20:10:35 GMT"
+      },
+      {
         "title": "Lawmakers react as Huang leaves Nvidia - The Hill",
         "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOTVNxQjcwUnl2ZzVqN0RXU2xiTUkxcm1uLXdnQ09CZ0dUUndRdHZRRXJzcEx0YlV4dWlQUFc5TzZxTGFIeUE3UFlMNUVzVzhDSVdZQ1BBWWhrWVVMMnFMQkV2X3R6blJkV3NWSGRDb1JpNjBudGJTeHJBd3lRS2VRWWZFRW9LQlJZeGxaYXdQMUcxU0dVTHppdnFCUk7SAaIBQVVfeXFMTU5DQ0drNXNYTzdkQzRDTDg5c2dyd0NMeEktY1AwTzYxMjJBbWZsNklWN0ZEMm03YXFsbDFsdGVTZGNnai1wODhKMHNPV3RUczlPallxVVhtUklxQ2lmVVhpUVlzSm5wVHcwR1lEWWc0clEySVI5XzV2TUpNRzVOcmU4RXlrajB5b3R3RXNjeFNrQ3JCVFV2STBqOFROd01FaHFn?oc=5",
         "source": "The Hill",
         "date": "Thu, 12 Nov 2026 22:27:00 GMT"
-      },
-      {
-        "title": "Is Outlook down? Widespread outage hits Microsoft apps. - Anchorage Daily News",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNQm1VZ0xWbFZrYVNuTVpOMmt6UFZqR0E1bkEyTUlzTWtQUlNfWGItc0MzYW9ILXBUaTNwdWVjRThoTk81UC1kWkRBS1dpVm9XZkkwOTc3ZlNfYTZVSmZ6a0x4TVJLemstNTVsMzl1Z2szeFFSdjlJRi0tOHdYbjlockxaM3hZR0NZQS01Ty1MQU5JVjlHdjBPTGEzeUh4ZWNxbUxvdg?oc=5",
-        "source": "Anchorage Daily News",
-        "date": "Fri, 13 Nov 2026 03:44:52 GMT"
       },
       {
         "title": "Mohegan Sun begins $30M arena renovation - Tribal Business News",
@@ -345,30 +369,6 @@
         "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1zRjJaT216MzZCelplQVFBMzZTRkl5cWZPYm9kaG9DU0xBUDZwUC13TWtaUmN1V2VBVTR5M0t2dWlXa3RKY0hPd2owZ01zQXdZOWFSU3kwcy1fdVd1YlF6S3hOcDZXalZCakpncUZrSkRKdkxya3IwTjd3V0ppem8?oc=5",
         "source": "The Guardian",
         "date": "Thu, 12 Nov 2026 12:37:00 GMT"
-      },
-      {
-        "title": "Kentucky space summit targets economic opportunities in growing $1.7T industry - The Business Journals",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQRzh4SFFjdUNQZU80SzU0cWp2SjNFem1WdkNEZDlrUXdZempWT3lfa210bUNHWHFGaDRJUHFKTVB4NUFUc2h4WGVFcUd2UmRVZzlsQUJUdXhJaGpnVXF2ZHhkM0NTbjNtWTlwVElMNTFnaUZBMzkzTkQtZEhPNEMzbmlSOVhqbk1yN1ZibVg3X2tBaVdjeXdJN2lBWUgwbWVCTHBCYw?oc=5",
-        "source": "The Business Journals",
-        "date": "Thu, 12 Nov 2026 12:08:00 GMT"
-      },
-      {
-        "title": "Column: America’s Innovation Economy Runs on Small Business - CPA Practice Advisor",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOZUVIdVpOS2VVU0xpcDhMQi1qakZ3NF9iVTN6Zkc4NXdOT1BHU0xTX0xmUW5DM0NPczdZUG9VdVMwSU9DOTZnTXU4aHpQaWl2YW1hdVdWM0FKZUtGaWM0X2hZd2pHSThjZ2haODA0a1ZBcUhiLWc2MmtrZnRMQUFraHhOY3BXU0FvLTNkWUNkSmkzTUJ0TXR0ZTNlc3pONWxWcGlIbkVPcWp4Vm1wZkNaVg?oc=5",
-        "source": "CPA Practice Advisor",
-        "date": "Thu, 12 Nov 2026 15:36:41 GMT"
-      },
-      {
-        "title": "How NRRI Can Rejuvenate Minnesota’s Natural-Resources Economy - Twin Cities Business",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNanpjaVdoT2tyMGNPUnJVUkYybng0QTVrSFBFZlJ4V2xHYl9JWS1TM255Qm93OEx3Q0FIeVhHeURMMkxxUjVaN3paSW9NclFMNkJyWURkNnRWU1BJRWxzSHFXWjM1ck42X3pMMjY2dExKNWVkRWpGdmR6dVVOdWJwWDBjNm9mS2c?oc=5",
-        "source": "Twin Cities Business",
-        "date": "Wed, 11 Nov 2026 20:09:05 GMT"
-      },
-      {
-        "title": "Andy Thomas-Emans: Circular economy is a business opportunity - Labels & Labeling",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOYzUzR0k3dUtlbFN4dlk5bWRIdlRKZ1gyUzhSaVVSajRiVGw1TjZqT1gydVFUTV9sQm9lc0tFQ19MSFJxUmV1OGhZMV9PcjZYUWxUUDVrT0RNUFhHbHJ5bjBmejhQR2FGd01pWm90Tl9lazFnWFhZN0NXU3RLTkd0d2tES002UnNNWm5maDZEd1ZVaGtTVzAySFdsRnkzWEhOUXNfWW9XWXhDR2pqM3RsV0UyenVySHE0RnIw?oc=5",
-        "source": "Labels & Labeling",
-        "date": "Thu, 12 Nov 2026 10:12:33 GMT"
       }
     ]
   }
