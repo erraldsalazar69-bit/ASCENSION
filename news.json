@@ -1,7 +1,19 @@
 {
-  "updated": "2026-11-15T14:49:52.261673+00:00",
+  "updated": "2026-11-15T16:48:22.560354+00:00",
   "topics": {
     "WORLD": [
+      {
+        "title": "Global Oil Market Set to Return to Surplus as Gulf Exports Recover, IEA Says - WSJ",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPQVljaDkwUzhILVlYVTR6aFdubUJxUV9xMURUOWpaVkpmejFYcXZCOGUyYUlKZDhMVzJkNF9idTIyOVI4OGtMdWJiMlhVN1VKUV9qX181SUs0azJ6S2wyR2hBY3Q0cU5NaXlXaUZodFJBTFlXRjdtRkVmVGFBWFBhTTlFNWRWaUxtSF9RREF2YUluNkZyVFlybW14RlBPRFFJcFFiN3R6em84MXdKT0w0amJpSDlRbnEyYmExQ3VDVGljdw?oc=5",
+        "source": "WSJ",
+        "date": "Sun, 15 Nov 2026 16:45:44 GMT"
+      },
+      {
+        "title": "Brazil’s fertilizer gap is a global food risk - Fortune",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQTHptX0Y2c0VaNnB6dEsyb0xYeW0xbWhiVU9uRzdZUGNaR2xvSzVMY2dXbjNJd0F0M3V0d0pYYXF0cmlyLUhzMlMtcFhaVkI5cV94LXk1bzFoVHd4M09FaDZ0SXI1MEJTQ3hURjRNdGRpeHJVMHpyWDNRdWktdVphWmZLekV3enFTdmd6QWk3TURrNnNvS1NBVGhJS1RMUjdxcDJj?oc=5",
+        "source": "Fortune",
+        "date": "Sun, 15 Nov 2026 10:00:00 GMT"
+      },
       {
         "title": "Global poverty recovery at risk as foreign aid shrinks, new Fordham report warns - National Catholic Reporter",
         "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNNzZhN040ejNxdGJCQUV1VVBfWWtkbmFIYkk4TVM2UjZCLWdaS2d2M25PV1R6Y1MyYkdhTlNwMDNYVEdJdl9wdXlJbVAzUWE1bjJ6ekZRaHNwWWtwTG05aktSbVZ0bWFsOVAtdllmMlZueG5vZW43anpjcFRZN1NUTUxGWTdweXp2V29CWGxHWXRTX05xblZMMENrMkhER2pSN0plWURudw?oc=5",
@@ -15,16 +27,16 @@
         "date": "Sun, 15 Nov 2026 04:26:10 GMT"
       },
       {
-        "title": "Star World Championship 2026 presented by Schoonmaker - Overall - Sail-World.com",
-        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQRERiSVFWTDZERmVXU182V3d0Y1hNYS1MWmJ0YzlER2dHdjlJNi11ZnRLYWFTS1MzbXVjeWRRN29aeFV5WXZqaExGcHVYMXRKcE00RDZwYjRWYWphclVIOG05VGtpMnJPTFljQ3RiV0tnZE5Rdnh4TFk0cmtITDFYSA?oc=5",
-        "source": "Sail-World.com",
-        "date": "Sat, 14 Nov 2026 23:12:00 GMT"
-      },
-      {
         "title": "World’s top court to rule if Myanmar committed genocide against Rohingya - The Guardian",
         "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQaDBRRS1KbTJxMzRiTlFFQnFlNW1uVk9jVWp0b2wtZ1VGNlJLTlFwaFo0SjFkbEM0djZyQW91M3lsN1lYTk00Qkw2VTJraGxZQWlHclF2YjhiVWJLUHlrMjFjdVB2M3M2SW9WMERERXR6NktITmNUNVpWdUZzVmlHWQ?oc=5",
         "source": "The Guardian",
         "date": "Sun, 15 Nov 2026 06:00:00 GMT"
+      },
+      {
+        "title": "Star World Championship 2026 presented by Schoonmaker - Overall - Sail-World.com",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQRERiSVFWTDZERmVXU182V3d0Y1hNYS1MWmJ0YzlER2dHdjlJNi11ZnRLYWFTS1MzbXVjeWRRN29aeFV5WXZqaExGcHVYMXRKcE00RDZwYjRWYWphclVIOG05VGtpMnJPTFljQ3RiV0tnZE5Rdnh4TFk0cmtITDFYSA?oc=5",
+        "source": "Sail-World.com",
+        "date": "Sat, 14 Nov 2026 23:12:00 GMT"
       },
       {
         "title": "Darren Haywood: Australian Researcher Receives International Recognition at IPOS World Congress - Oncodaily",
@@ -45,34 +57,22 @@
         "date": "Sun, 15 Nov 2026 07:17:35 GMT"
       },
       {
-        "title": "Microsoft says services fully restored after global outage - PBS",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOLURheS0xd1lKal9CLWU2VEFBaUlBWVNzdS1BamZnY1NFSEczaFU4aUNVYzBCUy01eS1DM1YzTF9nLXQ0UUpPQnR6OHY3Sy1QNFFxb1p6d05qZ0RVclZ6OWxNLU12VVREa1dITDB4UnNsUlAwMFhrYzNLb3IxQlpJT1JMZ2tFN2NBb2xWem0xVDVkNWpzN1VCadIBngFBVV95cUxPZmFKUWNOMEhIU0tDeU1MY2FTNFhTZGl5NlhQdGRDZTJQRVNGd1AwNWl6MDBwRG9nYURaUi1tWm9hbGluX1RtSGhlamVoNXp4R0xON0FyV0JWZWNSMTJ5VFZTWkl5UmZuYmhMZVBTa0RYeXBIV0czTGFycjVvNkRqZ3lIN1VOeVp4Wkp0UmxpR3ZDSTlRWjRlZ0d5bUFMZw?oc=5",
-        "source": "PBS",
-        "date": "Sat, 14 Nov 2026 16:23:56 GMT"
-      },
-      {
         "title": "World Senior Chess Champions 2026 crowned in Vrnjačka Banja, Serbia – International Chess Federation - FIDE",
         "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQNUN2c0VGYlhBSmdLTUQ3MEkzZmxOUUxfRHo5TjZMYzlfZlNhSHRoX0hNQkZjV0VWRTZQMDhxazVLMnJYeElpb1JvZ3RyTnlXanc2dFl6RnJ6akRDY2lOcEtxTDdVSWF5QzJlNllOUER3cEVNc2JVUDZ6TmhIOTZldlZOem5ETzJ4Y0Fsd0dZbUI4Zw?oc=5",
         "source": "FIDE",
         "date": "Sun, 15 Nov 2026 00:20:49 GMT"
       },
       {
-        "title": "The World’s Best Japanese Whisky—According To The 2026 International Spirits Challenge - Forbes",
-        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOc1hJVnc1d29hcXFTaEdsRThNLWFyY2hZVFRfZXR4Z1ljczJ3blp4ZmItMmZ2MGJ2YXRFd2xBQkRib05FTnM5bWJ2blFoZ2JxT0NTengtZGt3N3drR3FBcDJ1YVdFb2xKVUp3ejBIWjJnM0dsc1h4OU0ybUdTRWhMQmxUcHV1NkxOdkU4bXlTa1Jvc0oxYWZQdVZUbzdFMFlHMEl4UkxKVEhyQkIzNUN1Tktrb0k4STk5ejFFcnYybEg5QWFHSmFnZzZYa3VCNHNRWlE?oc=5",
-        "source": "Forbes",
-        "date": "Sat, 14 Nov 2026 08:30:00 GMT"
+        "title": "Microsoft says services fully restored after global outage - PBS",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOLURheS0xd1lKal9CLWU2VEFBaUlBWVNzdS1BamZnY1NFSEczaFU4aUNVYzBCUy01eS1DM1YzTF9nLXQ0UUpPQnR6OHY3Sy1QNFFxb1p6d05qZ0RVclZ6OWxNLU12VVREa1dITDB4UnNsUlAwMFhrYzNLb3IxQlpJT1JMZ2tFN2NBb2xWem0xVDVkNWpzN1VCadIBngFBVV95cUxPZmFKUWNOMEhIU0tDeU1MY2FTNFhTZGl5NlhQdGRDZTJQRVNGd1AwNWl6MDBwRG9nYURaUi1tWm9hbGluX1RtSGhlamVoNXp4R0xON0FyV0JWZWNSMTJ5VFZTWkl5UmZuYmhMZVBTa0RYeXBIV0czTGFycjVvNkRqZ3lIN1VOeVp4Wkp0UmxpR3ZDSTlRWjRlZ0d5bUFMZw?oc=5",
+        "source": "PBS",
+        "date": "Sat, 14 Nov 2026 16:23:56 GMT"
       },
       {
-        "title": "Daily life around the world, in photos - WINK News - Southwest Florida",
-        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQTl9IRzVUX0ZObW5EZWRmSWVseGUtUzlxVk8zTlc3bmh5dkZ4YkdXRHFVcHdtazF3Y1RNa1FPLVhrMWhJRlc5ck1qUU9nUlRXb3Fidm9hbG1LdkhXY3pVM0JDN0t5U1ozYmhpbWdjNWNzNGFqUDJ0ZlJWNVBxLXhNanhucFlVT0xwV0xjVGYxajA3elZUdEQ3SFgzODdwQmh4N2k2eGZGa1N4QkhJSnBDSUhJWDRzNkxQZ1lYMHF5RjVSNDBpR0szZzBZVQ?oc=5",
-        "source": "WINK News - Southwest Florida",
-        "date": "Sat, 14 Nov 2026 18:28:37 GMT"
-      },
-      {
-        "title": "America’s Cup Stars Dominate International Moth World Championships in Perth - Live Sail Die",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPUnVycVhpVktiRWxvUDFzZlNucXduWTdxc1JsTl9GRmdzaE90cW1kdkRuczdoeHZ4ZzYyZVo4RFFQd2NyeEl0M3JybGtuTi1zOXFhSnRJZi1yaW5mamRXMzhzOGVidW5sQXNsTnVYN0tWWEFudG5zd2s2WVpSZlVBcW90UmpudU1pSmhRQS1MT2F2OTh6WW5CNlpLS1hhRHpMOUVwMlJB?oc=5",
-        "source": "Live Sail Die",
-        "date": "Sun, 15 Nov 2026 04:31:23 GMT"
+        "title": "ICC UNVEILS GLOBAL EVENTS ROADMAP AND QUALIFICATION PATHWAYS - ICC",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQRW1hbzVsMHl5QjY4c3Z0a1ZCbnpUOFBmUDJ3a2tLUmlhdXptR3JTS3RqX1M5akdYZWRIRnU0MHA3Ql9oS3otaFdMZmRZbk14ejR4VzF2ZWcyY3ozYnBLdFE4bDNfNnZoTW5VNXRsc2lSVGZuNFNCckFnUEl3akF6QmZULWRtaXBjZDlOcmJXZGJIWWZHQy1rWFhxTWJPYndKSmZ5bF9R?oc=5",
+        "source": "ICC",
+        "date": "Sun, 15 Nov 2026 13:28:57 GMT"
       }
     ],
     "TECH": [
@@ -83,10 +83,16 @@
         "date": "Sun, 15 Nov 2026 07:04:31 GMT"
       },
       {
-        "title": "Earnings Week Ahead: NVDA, WMT, TGT, DIS, BABA, BIDU, HD, and more - TradingView",
-        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNQllKYUN2RnJnblZTcjhsdnFTSEdfakJ1STE2dld1T1hQdEFmVmdleVVxUG45X0E0ZEdCSW5FWE5na1Z4M09ERmxCWl9adnpIRjE4djNIWG1zUzkzYVBfaUZ3UTNUSWZCVXozSnh0Mm1wWUdpWVZRTWxEMF9OU2Q5eVVnNGlrOGx6YUcyWThKaTE0UXppR3daMnBfR3V6bFd4UkhoaGkyOXlKWEVDVXJpb0s3YjY1QTBydFFCcy1B?oc=5",
+        "title": "When Tech ‘Upgrades’ Go Awry - The New York Times",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPdlRxel9hZWtiTmd6OWV3OHRCZjhpUS1Obm1adXlGcWVnaDlRMi1mcmpuT2xlNUNxbXhJVnMxdXdFMmxnLUZIdFNkZk5uOU5NamEtSGxsMUktaGFlWXZ1Mk9BdmZveDZHcnk3LWVwdDNHeF9XcnUwZGFrelJCTlIwYjFYU1c5TGdTbmJmQ0RVXzNHdWM?oc=5",
+        "source": "The New York Times",
+        "date": "Sun, 15 Nov 2026 10:02:06 GMT"
+      },
+      {
+        "title": "What To Expect In Markets This Week: NVDA, PANW, DIS, HD, TGT, WMT, GRRR Earnings, Kevin Warsh Speech And More - TradingView",
+        "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQSnlTeFJBYkFCYldROG1DSnRHMWdIVHlOVjVVLUp4RVdJSE1jaFpKTzhBU0drWlQ4OElLLXgtcFBUTGp4S1p4UGZwODNPUzd1cDNvVVZuUUpTM2tVaU1wd2R1Q1ZaZW5sMEVJbXhZdTJlanhPRjlBY3VOcmZJVHBvNVd6TktDOFNNNW05cVJnWjc1b0N5WTBTZmZPSzVFR0lzVE04WGtzU2stQWYzS1BQVjNWTHFiQnRUQVFkWkVJWG9OUldGSjNXOFl4RjhuTDBjSmpfWjNUalliZGRGZVpDdU8zOWhnelBYdDF5WE1xUEx4WmJqd0E?oc=5",
         "source": "TradingView",
-        "date": "Sun, 15 Nov 2026 13:07:48 GMT"
+        "date": "Sun, 15 Nov 2026 10:24:28 GMT"
       },
       {
         "title": "Outlook went down, then air traffic systems. It’s been a bad week of outages. - The Washington Post",
@@ -125,22 +131,16 @@
         "date": "Sat, 14 Nov 2026 02:31:44 GMT"
       },
       {
-        "title": "The Phishing Blind Spot Between Work Email and Personal Phones - Cybersecurity Insiders",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQN203NmtiUFlVRE9JX0J5V2lWUDh0VWZqZndzTkVQNTlRcUJoYVpQRjlVT3hGVWxnOUFuT0VrNURWQ2NJNFczbnJwa0pUcVRDVlgxQVl2Ml9OLUZ3VzlubGY1YUZvYzVENFJqd3hpTUJUSEdRdVhrM3hhbllSY1Z0VkREN0ZmeDRqNDlzcWRlQVhmVTI2VTJkMkNKOE15a01qQ204WA?oc=5",
+        "title": "NIS2 Requires MFA on privileged accounts, including systems built before it existed - Cybersecurity Insiders",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQLS1OQWZETDVPRlVUZWZfQmJkYmhYaTlwQm9rcEZEeWRFbDVQWHZHVWVtdERyN1pzQ1VGNmhPbHRrSXZjSk50VnFkb0NLRkJ4TXJpc1E0dEhRendJWWJMeHdibXRtM3FRUXozWmZuU2Y5UHk0WWdycUdGYkNYMUVsVEFwdy13SThqbmwwR1Z2X281WllJUmdRd19PU2NnMUhDanYtNllZZFRtcDNBaFNBdTlTUWRDS25vTmdQa3ZYOA?oc=5",
         "source": "Cybersecurity Insiders",
-        "date": "Sat, 14 Nov 2026 18:58:26 GMT"
+        "date": "Sat, 14 Nov 2026 13:51:54 GMT"
       },
       {
         "title": "North Carolina Chatbot Offers Cybersecurity Help to Businesses - GovTech",
         "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQTk05MlpMdW5ZQThiUjg5aHZrT2d2dHR2V2FRZzkyazJ1N1h5YW5lTk1BTEdjTXl0bGFRM0t0endwdjlIeGVkaU1INnBNNF8tQXlWZkFNaTB3M0lXMUFZVHFYMDZIT0s3Q3VMRGp1TlZmQ3FoeWtoSGRjaEIwZEZJUnFhdmlWV3djbjlXOGx6ejQ2YVlxS1YwZ3QyYw?oc=5",
         "source": "GovTech",
         "date": "Fri, 13 Nov 2026 17:34:40 GMT"
-      },
-      {
-        "title": "NECA Awards Video Series: Seceon Founder Chandra S. Pandey on Building an AI-Driven Cybersecurity Company and Navigating the Evolving Threat Landscape - INDIA New England News",
-        "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNMFhwdVlsOHFzNC1adXEwZmNTRUJVTVFwVGNPeDZ1UmNXQ1hUeFB5TmlpN2pqelBkNnNqYTB5enJVQ0VKZHdfSG4ta1U5T2JuUUQ1ZUFVTERjXzN1a2ZjUmpSM2hrenh3MVhDTzJXaFlUakxLbmVpdmYwTk53Tmdlekw2MTVSWEY2UkxEWWJ4N1hVZnBWM1A2TmhIQXJDb08tWndQTUxLSnE2bWNBV2NMdFFTZzZkZllEWWJrOGpEY1VXVEJvc0tVUF95dTNlcGR2OUM2UldfVTJwMkhWdU54SjFvNElYTDFZcGp5ZnRDRmE1cFpCTll4SFI2a1BTR29KOWVUNUF6YjA?oc=5",
-        "source": "INDIA New England News",
-        "date": "Sat, 14 Nov 2026 17:47:14 GMT"
       },
       {
         "title": "This Week's Top Five Stories in Cyber - Cyber Magazine",
@@ -155,6 +155,12 @@
         "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1SbnNiN01hMm1qU2xJMXhKby16TU9NUVQxSmFsaDVVaWZVZjhTeUNHeGU5ckZDOWVFS2pLWFVsNUNVYjhSckVYTTNRMV8weXJ4VDdNX29wWnFtWENhODd6TQ?oc=5",
         "source": "Oncodaily",
         "date": "Sat, 14 Nov 2026 19:28:31 GMT"
+      },
+      {
+        "title": "Miller School of Medicine Drug Discovery Symposium Charts a Path From Discovery to Development - University of Miami",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1vSWR6bllnY29vY1Z6a25IUk4wSU9ENnNQR3E2SXVQbmFYclctSWladHdta2NUWFctUWFoREp3Z1V1amxHYm8zZkdkTUc0Zl9RZDJKaTNuSjlBaDdoYXpHSHZMSmtqai1BTlV3bEpsWkpXTXhk?oc=5",
+        "source": "University of Miami",
+        "date": "Fri, 13 Nov 2026 18:23:22 GMT"
       },
       {
         "title": "Rutgers Lipid Research Symposium Connects Scientists Across Disciplines to Advance Discovery - Rutgers University",
@@ -181,22 +187,16 @@
         "date": "Sat, 14 Nov 2026 05:53:51 GMT"
       },
       {
-        "title": "A ‘yellow brick road’ was discovered 1,029 metres beneath the Pacific Ocean; scientists explain how volca - The Times of India",
-        "url": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxPN3dWN0lieURmd296aTVGQlNuTnR0MjlxNThaR3VHRkdvYXJXUWNleElyMjV2V3Y0U193SUU0MHBPemRIdW8yWmMySjNmU1AwOTIteUdUbkxiY0xqenM4RGhqaXltNkVtNV9tRUI2NUJ3UWd6QnJWa3JkbzRIak5leG0zNUt4cFlOWG4zbHVxWldNYmtlRHJCQnZQbUhMRThXSjNKV2lHcTRLdFFMRktIeEdHMWQ3UERCR2JGZVJaNUt2c2xQLVdkbUxWWktZT3otVGFhOVk3UzdJc2lhb0hjNWhOeGxoZFdfaWYyZEE2WG1xWnNid3NsZ2JERjBhU3hjYWNWek1zUlpPS0JKeWNIcTlPVDYwYmFuM3Y3NFZIcWx3cDdRd3Z0LURyZ1hvM0RRSG1IY2tPb1B1VGVyUnllSTVqY3NjNl8xblo1OXRSZEhsWG9faGlqWk85eTRxRFc00gHmAkFVX3lxTE5lRzF4bmhEdk9Tc2RCZUlucWRsUEpKa1hKcDh2MzZYT1JsMFNtZzY5RHVSX3IyMUp6S3U5VS15LUF1UU05ZjZ6T0tIdUJGYzRSb0NoWUFzTV9UZTJrN0RQV0hCaUNSYmtaeTh6ZWRpbHY5MHczd0gwZ3gzZW1sRjNDOG5XOENMYzZEOHJfNXY1OThMQ1JqWlpvRHA1enJfQzRmRVYtbzdTS1FwWU5jUnI1cjR2S1Nva1IzVk9jbzZRSGYxeFk1cUFmVWZEekpCMmpsNkdsWXVtU2lQa01ZX1RKMFFreGFZUG83UjVJeHd6c0R6ZmJ6MVpfMThfbDFsUU1HV2tHbUEyOU93bVFYbmhzeklqaEllMkFfS3R6MXpDVU4tbUg0NWRISF9iSUtiWk9jNzJuNnBCOU03c1R1clpQeFFpSG9lOWNxelRjQUNFVlBiUWdyczdWVmJTV1kzWU9yUThmWmc?oc=5",
-        "source": "The Times of India",
-        "date": "Sat, 14 Nov 2026 17:23:00 GMT"
-      },
-      {
         "title": "Research in action: Celebrating Dalhousie science and tech trailblazers at the Discovery Awards - Dalhousie University",
         "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9kSjRlMWVleWNuWHAzOUNnTjVrTnV3NE45bVh5TkI2WTJTb2ExZms3bmVaeVlJWXhBSFYydGFIRlgtV3V6X0ptdm9ZQnc2Q0psQWRnVWxiX2cxMGpFOFcwZWk3TkRyeE5yVGVEZzdWOHg1VkN0UU13Z0ZrdDV4d0U?oc=5",
         "source": "Dalhousie University",
         "date": "Fri, 13 Nov 2026 19:04:28 GMT"
       },
       {
-        "title": "SCCC Invites Prospective Students to Explore STEM Careers at Discovery Day - TAPinto",
-        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNUGxXbzdvdUVHa0dTVnhwZ3lLZ3ZxbXhMcGE2WWthY0dIOEJWLXdUNjFvVHRyUldfTzRpbC1oby1lZlNNdzhObGQ3R1B3TmpkNkFhYVBKNURNdERmYVowZzJ3Si1laHJmRkt1R3dsTS1WUWV5N1RnM1RyclZXV3kxSGRURDU4T2w1bmVyODBlQnZMamJrZGZNOWwyT0JmYzcyUlR1cXAwZWgzZWJzOTNaSTRBZVdPelotV1BCdHV1aXI4c1FuUjV4ZTNHbnNGMXpKeDdmM1B3?oc=5",
-        "source": "TAPinto",
-        "date": "Fri, 13 Nov 2026 15:47:00 GMT"
+        "title": "A ‘yellow brick road’ was discovered 1,029 metres beneath the Pacific Ocean; scientists explain how volca - The Times of India",
+        "url": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxPN3dWN0lieURmd296aTVGQlNuTnR0MjlxNThaR3VHRkdvYXJXUWNleElyMjV2V3Y0U193SUU0MHBPemRIdW8yWmMySjNmU1AwOTIteUdUbkxiY0xqenM4RGhqaXltNkVtNV9tRUI2NUJ3UWd6QnJWa3JkbzRIak5leG0zNUt4cFlOWG4zbHVxWldNYmtlRHJCQnZQbUhMRThXSjNKV2lHcTRLdFFMRktIeEdHMWQ3UERCR2JGZVJaNUt2c2xQLVdkbUxWWktZT3otVGFhOVk3UzdJc2lhb0hjNWhOeGxoZFdfaWYyZEE2WG1xWnNid3NsZ2JERjBhU3hjYWNWek1zUlpPS0JKeWNIcTlPVDYwYmFuM3Y3NFZIcWx3cDdRd3Z0LURyZ1hvM0RRSG1IY2tPb1B1VGVyUnllSTVqY3NjNl8xblo1OXRSZEhsWG9faGlqWk85eTRxRFc00gHmAkFVX3lxTE5lRzF4bmhEdk9Tc2RCZUlucWRsUEpKa1hKcDh2MzZYT1JsMFNtZzY5RHVSX3IyMUp6S3U5VS15LUF1UU05ZjZ6T0tIdUJGYzRSb0NoWUFzTV9UZTJrN0RQV0hCaUNSYmtaeTh6ZWRpbHY5MHczd0gwZ3gzZW1sRjNDOG5XOENMYzZEOHJfNXY1OThMQ1JqWlpvRHA1enJfQzRmRVYtbzdTS1FwWU5jUnI1cjR2S1Nva1IzVk9jbzZRSGYxeFk1cUFmVWZEekpCMmpsNkdsWXVtU2lQa01ZX1RKMFFreGFZUG83UjVJeHd6c0R6ZmJ6MVpfMThfbDFsUU1HV2tHbUEyOU93bVFYbmhzeklqaEllMkFfS3R6MXpDVU4tbUg0NWRISF9iSUtiWk9jNzJuNnBCOU03c1R1clpQeFFpSG9lOWNxelRjQUNFVlBiUWdyczdWVmJTV1kzWU9yUThmWmc?oc=5",
+        "source": "The Times of India",
+        "date": "Sat, 14 Nov 2026 17:23:00 GMT"
       },
       {
         "title": "World Diabetes Day | The science behind insulin: Five things you should know - Deccan Herald",
@@ -217,18 +217,18 @@
         "date": "Sat, 14 Nov 2026 12:37:00 GMT"
       },
       {
-        "title": "Discovery of two supermassive black holes have left scientists absolutely baffled - Metro.co.uk",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNQ21yT3F0MkRZWUxSRHFRV2F4V0tKcDFPal9jN0w1SXMtdFF0NGVUa2luc09TQ1E2d2lBZTEyS2NkenNoZlBBWXpIa2gtN0dXT3ZNTEpNa0haV2tyd1RmQ2lzOW5tc3BhQUluTFFQMFlXZWpQUVdYWkRIVmxlNjZNcjJxOGU2Y3hwUm1FZG90bjBxcG4yT0RQbnJOVWJqbXJrQnpjbWRrdWxRb1dHSzNLTktMX3fSAboBQVVfeXFMUGxzUXBIRUFyQnpWRnVfZWFQWmVCRmY1cDVWa09iT096OUxxLXVDRWpSLTRuWmJVa0lINzZ0eVhvQ2s0Sm9jTGo4M2l0RDd5LTl2S1RmOFB2dXBHc1c3T3d3Z1Q5RE95MnVPVklUVFU5bHNJeURBMzczV245d2dROS1Kb0Z4ZDM3d096NVprYU5KZi0zREJGQXJ5MDhZaDNPSGt5TFJoQm1sQ2JYT05JSUcwdlliS0dmRGt3?oc=5",
-        "source": "Metro.co.uk",
-        "date": "Fri, 13 Nov 2026 15:26:00 GMT"
+        "title": "Belturbet set for a day of discovery with two free science week events - Agriland",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNY0h3d2RJbnlyRTc1Y0k1QmItRFRRSG9rbVRFYWxSZ0s1THJVcjExbVpKcTFlTjZlaHp3ZmRuRnExY2Z2VHhTRHRUc2ViVHNDZzUtWmxheGlRT2diOWdJOFFMWWhYYXZGd3BhWUZ6RnE0OVBKQ0lTZUhkOTc4R09EOElOYjd2V2RlQUlnLWFsMEpsX0ROLUVRTmk0WmpVVU1NOTVPV0F6R3FyMWJi?oc=5",
+        "source": "Agriland",
+        "date": "Sat, 14 Nov 2026 07:00:00 GMT"
       }
     ],
     "SPACE": [
       {
-        "title": "How escaping gases ripped apart a comet and caused it to become thousands of times brighter - Space",
-        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNOFY3cWJ6VUlJcE9VNmN4c0tDWXJRT0ZubXZNSU95UUkwdE1jb3VDNHVRQVNPcDN6LVBwbmQ3ZDkyZ19pRlFuVE9PMjNSeVBGMld0NUdQaTNtWlBLYW92aXZnTDFYV1VNNXdweFh3VndBRzBVSVI1UEpWVFloVm5RY01kMHZoaEdkeWM3RjNCSGNJN190V2UwbG04TVJRRERDZE5rc0hFY3lJc1dJWTNyWWdhMWctd051QnJxNGJ1dms0YzBsbUJZN1dn?oc=5",
+        "title": "Why hasn't the 'Blaze Star' exploded yet? Astronomers weigh in on what to expect - Space",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPcWF6eHBMQ3EtQWdyTTVHYzJDb09nZENYM2sxdFN5eGlQOVhQc1NQMjNNU0JWMUF5Qk85d3BHM1RHYmJqLTFNWnVURVh3dVR4OE55M2ZwRTA2QW1EV1ZNZzI3d2FUSzNkMzZfd0FGUFAzR05heGlZSDYwSjVyb1FZU1ItRHlTekJtZk9GVjFoYXZuY1ptRnRGb1NfR19wVTZ3eF83YWt1cDM0cHdkTEE?oc=5",
         "source": "Space",
-        "date": "Sun, 15 Nov 2026 13:00:00 GMT"
+        "date": "Sun, 15 Nov 2026 15:00:00 GMT"
       },
       {
         "title": "Astronomers discover a dead star spinning every 8 minutes and sending mysterious radio pulses - Science Daily",
@@ -249,28 +249,34 @@
         "date": "Sun, 15 Nov 2026 11:00:00 GMT"
       },
       {
-        "title": "SpaceX Catches Starship After Early Setback - WSJ",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPc0h5Z2ZOZ3hGRDU2d0RaMk5ocV84cmVmTXhBOWl2dFgzVWhQN3hTNTVuNGhfcFJJbDJhZnZ3aVJFT1I1SnFSdUZGUW9tNFZrZ1ZkQlpXVXlaNDBqQUh0eWxZVU1jM3hSZ01hNEYwV1R1a3p2N2NJOThfTk9TbUNmUmFkZ2RkeTJMRVB6ZVdqeEhVQ0o1ZVozRmRHYVMydlZCWjBKVS1vTDNpZEtIWHpoVGxlUWc?oc=5",
-        "source": "WSJ",
-        "date": "Sat, 14 Nov 2026 23:34:44 GMT"
-      },
-      {
         "title": "SpaceX pulls off first-ever spaceship 'catch' - Le Monde.fr",
         "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQcWRNN1B1VS1uODRmMTA4TFZNQ2pkTWZDNFM3bDJUd2NUMUd2QTBqTnk2S01GbU5nTWdtS0ZQMG1wS1RkTXZ0eW1Yb0U1MF8yNW1NOE9KMnZtRnRjeGN1ZW56S3g3ZzYxM0phVm10b3kyNnMtdDYyVlB6bUxycnZ2MXBpOXBjcHVEZVJCTlVHTUZEQ3dTazdUa24zRUJqaUNIRGhqMm05ZThtZ0FwcVVKVld3?oc=5",
         "source": "Le Monde.fr",
-        "date": "Sat, 14 Nov 2026 23:25:35 GMT"
+        "date": "Sat, 14 Nov 2026 23:25:33 GMT"
       },
       {
-        "title": "A Mysterious Space Object Accelerates Towards Earth as Scientists Debate Its Origin - Avi Loeb – Medium",
-        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQUndHazZUZ0d0WnliYVY0Y1V3eTNQUEhLZjh6bkg4cUR0NEJBR05GQkw0bGpyVU1TQ3hDZXpsaV9RTERkZ2tvRDh4UWxHZ29UcnNCYWNnV19HS3hHelJfblFucFg0YVJEU2RqUFpsbmpYSFpHZU5xeWp2ZVoyWHRuUGxOSkh4MldUZWN1RFFiSm9ONklQX2lyTW9vblhaYWVRRk15XzU0cDFOUGpYYUFMX0xYZkRRX1NyekpZREJNUDM1dw?oc=5",
-        "source": "Avi Loeb – Medium",
-        "date": "Sat, 14 Nov 2026 21:53:21 GMT"
+        "title": "How escaping gases ripped apart a comet and caused it to become thousands of times brighter - Space",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNOFY3cWJ6VUlJcE9VNmN4c0tDWXJRT0ZubXZNSU95UUkwdE1jb3VDNHVRQVNPcDN6LVBwbmQ3ZDkyZ19pRlFuVE9PMjNSeVBGMld0NUdQaTNtWlBLYW92aXZnTDFYV1VNNXdweFh3VndBRzBVSVI1UEpWVFloVm5RY01kMHZoaEdkeWM3RjNCSGNJN190V2UwbG04TVJRRERDZE5rc0hFY3lJc1dJWTNyWWdhMWctd051QnJxNGJ1dms0YzBsbUJZN1dn?oc=5",
+        "source": "Space",
+        "date": "Sun, 15 Nov 2026 13:00:00 GMT"
+      },
+      {
+        "title": "SpaceX Catches Starship After Early Setback - WSJ",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPc0h5Z2ZOZ3hGRDU2d0RaMk5ocV84cmVmTXhBOWl2dFgzVWhQN3hTNTVuNGhfcFJJbDJhZnZ3aVJFT1I1SnFSdUZGUW9tNFZrZ1ZkQlpXVXlaNDBqQUh0eWxZVU1jM3hSZ01hNEYwV1R1a3p2N2NJOThfTk9TbUNmUmFkZ2RkeTJMRVB6ZVdqeEhVQ0o1ZVozRmRHYVMydlZCWjBKVS1vTDNpZEtIWHpoVGxlUWc?oc=5",
+        "source": "WSJ",
+        "date": "Sat, 14 Nov 2026 22:58:00 GMT"
       },
       {
         "title": "Astronomers Object To This New Sunlight-As-A-Service Program — Here's Why - BGR",
         "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5QaHdEdjcxTzM4V3hRQmNWa0RMbVRFZjVBYm5WY1g0cloyeEV6T2tTTWhZQ1Z2V1hNTVhfTmY1VkNkXzZKQWFLQlJDSUNvTnUxNDZBbF9Ja0NzNURmU3VCQXVLT25Samc1M2MxSEZtT3hOUWhPTFNUbmRnRHc?oc=5",
         "source": "BGR",
         "date": "Sun, 15 Nov 2026 13:47:00 GMT"
+      },
+      {
+        "title": "A Mysterious Space Object Accelerates Towards Earth as Scientists Debate Its Origin - Avi Loeb – Medium",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQUndHazZUZ0d0WnliYVY0Y1V3eTNQUEhLZjh6bkg4cUR0NEJBR05GQkw0bGpyVU1TQ3hDZXpsaV9RTERkZ2tvRDh4UWxHZ29UcnNCYWNnV19HS3hHelJfblFucFg0YVJEU2RqUFpsbmpYSFpHZU5xeWp2ZVoyWHRuUGxOSkh4MldUZWN1RFFiSm9ONklQX2lyTW9vblhaYWVRRk15XzU0cDFOUGpYYUFMX0xYZkRRX1NyekpZREJNUDM1dw?oc=5",
+        "source": "Avi Loeb – Medium",
+        "date": "Sat, 14 Nov 2026 21:53:21 GMT"
       },
       {
         "title": "Space data center investment surge raises risks for astronomy and orbital security - Traders Union",
@@ -289,12 +295,6 @@
         "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxPSGg3TlVxMFRKZG05cGFjRTlDVlgzN1huYkRzNjhReEtiYW14ZXZxWEhNX2FpTWhlQmt4bW02QW9VTDkzb3dmRjZMaGdxMnNpQnp6Ml9kTDBRdkprbXNQZ0p2VkJBN0JRdV9JbnRleENYd2RkMWo2YmREdGZGNUs0dVNiRTB4cGJCZVBDbWJQUHlVV2pUdmZZMER5SmRhSHVLNWtYWmtWTmwtSlpPNWFqdmh6WVpBTmtONjdBbEw3WmNlR2JKQi1VZ2ZXTnBNcDB6X3BKMlBxeTdVanZSZW0xX0xVS2k4ZXdLeW1NOGM1OVhxd3NOeDdKRmQ0VDE2TFFZOUszbEhjX1dBV3EtaG5ueG16LURQbFk?oc=5",
         "source": "Haaretz",
         "date": "Sat, 14 Nov 2026 06:42:00 GMT"
-      },
-      {
-        "title": "Astronomers Built a Digital Twin of the Webb Telescope. It Found a Planet Hiding in Plain Sight - ZME Science",
-        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1wekV0OTdVX1hqcHRxaFRWYWJ0OFl4WGJhME9mWnlyUmFBTG91Y2pPOVI5aGNtaEp3NGNMMXg5LWRINTJIaktTVUxXNWJOLTJtQjdsd0tza05fU1JZVFJGWHRFcjZJZXJVLXYwM0E3QUk4YU5sczlBd2NObFo?oc=5",
-        "source": "ZME Science",
-        "date": "Fri, 13 Nov 2026 16:18:32 GMT"
       }
     ],
     "ECONOMY": [
@@ -311,10 +311,10 @@
         "date": "Sat, 14 Nov 2026 23:03:32 GMT"
       },
       {
-        "title": "Energy efficiency: the Moroccan automotive industry’s unfinished business - Atalayar",
-        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNRm1hMHFWSGZvWUFvN0hBN2wtWjNHQTk5Q25KX3ZqWEVvQmQ5ZXBhZk1zdTltNVFJRTlJSy1CQnFxbjVCd1pzZ0YwcWhvRUs1Rll3aFFtNC13M05WalVJYmNkUEFQaXRPYTlXRk04b2RTVGlGd2NwSnE5WHlWdlZXRzNPNmtkYWtlLUNaV3VBNFlkR3hhb29LajN2bTU2RG5QVW9tczlMWm81eXNqTlFyaG9MQW9TQXMtTHZrZC1tenlTb0RveHJvYm5Kb21IQlJNVFdrdnIzUVg2c2FCYzJ6TQ?oc=5",
-        "source": "Atalayar",
-        "date": "Sun, 15 Nov 2026 08:30:00 GMT"
+        "title": "Haiti - Economy : The DGI engages in dialogue with the private business sector regarding the new Tax Code - HaitiLibre.com",
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQYmFKZzZhYkVFTkIyS2IxSHRmNVdtc3hRQURMbkxTSHhHSFlEZzlmcEktZEZYRm50c0kwV2hyMDVVVFJwaWdISW1SQTBBRjdENDNSVnV6QjZZUDZZU0FxMGJFZ3VpTi11YS05cGtkVWZWeWtPU3p5X0stckphMmlnRTBFeWxHaGVBWV9XemRTMGRpbUt5dHU1d05ITXpTaWh1ZEZmb0JtT3NmX3pEbnQ5REhQRGdWdi1DSXpkYW84WW4zWE1uZDN1WFNFVTlLMklXUS1kcjltYkVxamtFU3BjZA?oc=5",
+        "source": "HaitiLibre.com",
+        "date": "Sun, 15 Nov 2026 13:42:44 GMT"
       },
       {
         "title": "James Riady urges ‘confidence’ in Indonesia’s business potential - The Jakarta Post",
@@ -323,10 +323,10 @@
         "date": "Sun, 15 Nov 2026 10:07:46 GMT"
       },
       {
-        "title": "Haiti - Economy : The DGI engages in dialogue with the private business sector regarding the new Tax Code - HaitiLibre.com",
-        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQYmFKZzZhYkVFTkIyS2IxSHRmNVdtc3hRQURMbkxTSHhHSFlEZzlmcEktZEZYRm50c0kwV2hyMDVVVFJwaWdISW1SQTBBRjdENDNSVnV6QjZZUDZZU0FxMGJFZ3VpTi11YS05cGtkVWZWeWtPU3p5X0stckphMmlnRTBFeWxHaGVBWV9XemRTMGRpbUt5dHU1d05ITXpTaWh1ZEZmb0JtT3NmX3pEbnQ5REhQRGdWdi1DSXpkYW84WW4zWE1uZDN1WFNFVTlLMklXUS1kcjltYkVxamtFU3BjZA?oc=5",
-        "source": "HaitiLibre.com",
-        "date": "Sun, 15 Nov 2026 13:42:44 GMT"
+        "title": "Energy efficiency: the Moroccan automotive industry’s unfinished business - Atalayar",
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNRm1hMHFWSGZvWUFvN0hBN2wtWjNHQTk5Q25KX3ZqWEVvQmQ5ZXBhZk1zdTltNVFJRTlJSy1CQnFxbjVCd1pzZ0YwcWhvRUs1Rll3aFFtNC13M05WalVJYmNkUEFQaXRPYTlXRk04b2RTVGlGd2NwSnE5WHlWdlZXRzNPNmtkYWtlLUNaV3VBNFlkR3hhb29LajN2bTU2RG5QVW9tczlMWm81eXNqTlFyaG9MQW9TQXMtTHZrZC1tenlTb0RveHJvYm5Kb21IQlJNVFdrdnIzUVg2c2FCYzJ6TQ?oc=5",
+        "source": "Atalayar",
+        "date": "Sun, 15 Nov 2026 08:30:00 GMT"
       },
       {
         "title": "Wholesale inflation rises again - The Hill",
@@ -341,6 +341,12 @@
         "date": "Fri, 13 Nov 2026 17:45:00 GMT"
       },
       {
+        "title": "Business leaders warn Cabinet collapse would be \"disastrous\" for the Dutch economy - NL Times",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPTlN0QzBYTnBxT3NhYmxwMHlEMzl5ZDZlY2VfYWJyRnBWR0dBeUVyVzFGQ25zbXFsUEc1Y2loVHlXZ1pFVFJSSUZkRXVSTUV2d3p6V2ZDSTY4MHp1WDlpcWZMbjFYUFA5NTZUTkhrbE9rZk1PZFpNNWZSclFjZDFmVzZoMmFodkJRSy1tNEtGTVl0MHlWNjdIaA?oc=5",
+        "source": "NL Times",
+        "date": "Sun, 15 Nov 2026 13:45:00 GMT"
+      },
+      {
         "title": "Asia-Pacific firms bullish on regional economy: US business leader - 巴士的報",
         "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPWC1MTTA0Z09McmZ4eWNjRlM3aGF5NzFFQ2tPUW85a1FMd1BZUGhvTE8wN01pMFNLa1pzd0UwU3Ztdy1WbmZiRkVNdVFMdTBCY3JzNjNDV0VBb1JNZmFpcDVOM0VnZ2lqQW95VFZkWVdOM2w2cnhtMk4xaEhIN0VFUkRQMWlSVms5TTh1NVR3clNFOWpMYkFZMFB4eElUMW9ZdkJUaDJoVEFOdVRGYUFzblhZbGhGUUFv?oc=5",
         "source": "巴士的報",
@@ -353,22 +359,16 @@
         "date": "Sat, 14 Nov 2026 20:44:32 GMT"
       },
       {
-        "title": "Thai Chamber of Commerce presents six proposals for economic reform - Nation Thailand",
-        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBwWEk3N1BNaFZlU0lkUks5M25tTGFBZ1NjUDR2WHkyWnRpVU5EcjljUUxRWnp1WlBUdmkybHc1VFg3VHlOTk5FQ01SWjItalFjdEFNMks4RWV1RGp4cXVyblM0ak8zSlk?oc=5",
-        "source": "Nation Thailand",
-        "date": "Sun, 15 Nov 2026 01:57:00 GMT"
-      },
-      {
         "title": "Indigenized Energy, Global Citizen target 50,000 homes in $2.5B solar campaign - Tribal Business News",
         "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQa3Z3eVkwazQta0hmcVNXUmRtS1BHVjlQMFpqd05ETElaQV82T2Z0QWxHNG1kbmlmUzdFbzdwQzdXbENsczlkY3I5OXdjY1cxN3d0dU5kT21xR1M4ZlE3MnhGcTNaZFlURVFDaERYcm93bHViOWpldFhrdFBWbF9HTUZXU3Zqc1dYSW1BVlBucjc4VnFHTU1LamdsVUFwSmZfOEtBdnpNc3VJTkE2d2FtZXkxQ3o?oc=5",
         "source": "Tribal Business News",
         "date": "Sat, 14 Nov 2026 13:37:14 GMT"
       },
       {
-        "title": "From fashion to fintech: FG names businesses that can access ₦1bn - Legit News",
-        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOdkRmM3RzRlRjRU1lNFVfcG8tOGg3VW9xSl9wSjJYSmZmbUIxTkRocm9UY0hBWmpQTXdZUERRdEQzWTIyNHE1aEZqUzFpVkxzNG9rcnRCZzJYWVIxc2FsdDRXVW0zWGc1c3A1a3VtZVROY0hhNHd0V01jeERLY2ZwQ1JBRGNXbFJzM3MybUpWQnRPY1dnOWIyM1F2VFBfS3lFVFZEWHRBQXlaUk9rOUdGZkdWTm5zUU9UUzlMZlRWMDNUanFH?oc=5",
-        "source": "Legit News",
-        "date": "Sun, 15 Nov 2026 12:44:34 GMT"
+        "title": "Thai Chamber of Commerce presents six proposals for economic reform - Nation Thailand",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBwWEk3N1BNaFZlU0lkUks5M25tTGFBZ1NjUDR2WHkyWnRpVU5EcjljUUxRWnp1WlBUdmkybHc1VFg3VHlOTk5FQ01SWjItalFjdEFNMks4RWV1RGp4cXVyblM0ak8zSlk?oc=5",
+        "source": "Nation Thailand",
+        "date": "Sun, 15 Nov 2026 01:57:00 GMT"
       }
     ]
   }
