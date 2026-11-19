@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-18T22:57:42.822607+00:00",
+  "updated": "2026-11-19T01:18:32.629398+00:00",
   "topics": {
     "WORLD": [
       {
@@ -25,6 +25,12 @@
         "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQS19KRHRlMS1FU1p5NDFvQV8tTmo1Ui1xNHhwdmlNUXpYTmtSYWtvWEVHLTkzUTdPTlhRcnJhRWdWdjhnLVptVHZPS0pZQ3FacW1pTVF3OExBN01WMmNxRVFIUjctbmRSNnRnVmdLbWp6QVJlWGx2X1hOdGFuRnUzQnlZTGVyRzhhZjdfVjFhc1FoT2pRRm9temdR?oc=5",
         "source": "Pew Research Center",
         "date": "Wed, 18 Nov 2026 14:19:32 GMT"
+      },
+      {
+        "title": "Salt Lake City International Airport named 'World's Best Large Airport' by Time magazine - FOX 13 News Utah",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOT2dkNWtZVEFsX1dvY0tmX1kxZHlwQVhPbzRuaXhYUGVjTi1YcUVXQUtnTnpHaFpkYU1ORDlPYjJqb1NDTG9PbHNyOVctQ3Ric3BNRFNkd0xtbW5GSDFTSDUzSzU4cjRncVJ1WEdRdkZLSHBIUENwTzAxY1F5V21pNFFCVUVZY1NTRkFxcjVBeTRSeTVCRHNDR0NLRllVZlN0SUpmMU1HemExSVhyZU9TaE5jbkZGcHF3QkJIamd0c0x6R0lTZWw3VW5CWmJ2Wmgwcm85V181SVY?oc=5",
+        "source": "FOX 13 News Utah",
+        "date": "Wed, 18 Nov 2026 22:12:59 GMT"
       },
       {
         "title": "The World's Best Airports of 2027 - Time Magazine",
@@ -67,12 +73,6 @@
         "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPRHowZUpCY1FReEdJd21udEFTR2t6M2ZQQWlFaUNCYnJsQURGaWhoUC03Rl9Ra01uZW40R0o0VndGRGlwSHNtekZYamx4c2VSSXBHSDV4NDRObl9hazNRbnZZeC00alBaQTY3ODkyNGp5MDZya2VQZE5GWjhIdFk5YkxQV2Z0Z1gtbk5rdHNNdng5eTJGM0tRaVZucw?oc=5",
         "source": "The Guardian",
         "date": "Wed, 18 Nov 2026 12:19:00 GMT"
-      },
-      {
-        "title": "'Days for Girls International' Participates in 'Light the World Giving Machine Initiative' - KPVI",
-        "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQQVZXNkFUNjliUWVNSEVHRkdnVjFka1d1NXh2eFlzaWNqMzREeWRZT1BBYTYwR0NlejAwOE5wdm1YaGI1LUxuelVBZHh1V3NXcEdKZktjMjJMbjV5cWJ4RTdLTzl0TkVlYVRuSzlEYzBTd1Z3S3EwaTlnVUFRUDFKRDctYXNjbHN4MHh4aTl6SW0xLUtKbXVMbTRORGdHTC1uUU1VWXV5MXNkVUdIMHg4UXQ0NGFoZWxtNlNzc1NraGxEbk5uWnRlNTNmVmFVNUVSdmhHUk9ZdF8xMEpvZ3JwVWhPb1I4S1JxZEkyaDRVVnRzWEhUWHVHMF9vRS1FMFFGcWNZ?oc=5",
-        "source": "KPVI",
-        "date": "Wed, 18 Nov 2026 14:47:00 GMT"
       }
     ],
     "TECH": [
@@ -83,10 +83,28 @@
         "date": "Wed, 18 Nov 2026 21:35:42 GMT"
       },
       {
-        "title": "Cybersecurity expert: ‘There will be a significant ramp up in incidents’ - The Hill",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQSTF3bzEzYjJvZzhqOGdzUUpOQ0tFNk5BTzVkWXBYd3ZMMWdZcmhOb29vSC1CVncwYUxlSVlNXzBiZ3lKUElLMnlNZG4yV2JuWk9jY0lla3hVbVZZUmlRTGFic1BIUG0yWlY2R1hDeVc4S1pkSFlyRm1Iem5tR1BVWk5B0gGHAUFVX3lxTE4xc090SjJWQ2RVMlU0cDlTNXFmTFMtckU2US1HWlJvLTlJc2RDNk9FbW1tb25ORFVSakFUR2Y0RDQ3Q3RQbHlLQjZleDBMajMxaU1RSVZvVTJNRGU4NHBoNGZfSXRkZUtzMTFIQjNlSks1QjF1SnpWei16RjQ1TFBhdkpxNlNOQQ?oc=5",
+        "title": "Former cybersecurity director: Tech outages ‘ultimately a good news story’ - The Hill",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOd1BUQ01tVGNhLXRSYUItNlM2YjRtR0pPNW9BUFhFUUVObmpUQ3JXbkhteldRbnlDdktvT0xzQmZVYTRWbG9fckpyem1xWnNJWW42a1BHejVBRl83MGFyQndnT2plNkRHQmxCUUFmNTIxcGhBVGpOY3RGNVdmY3gxZdIBhgFBVV95cUxQeDNZWVlQc2UtNkpxMVNDSXJQN1lsYlR3SWxKMk5tdHlfOUoxajVIM3ZvTHRoWGlLNEx3MmI5YS1BaFp5bzUwQ3MwUzlJWTBlUkd1TlE1QlpuUklodmx6NlJJelp2UVRFWjRRbUQzMURUSS1rcGU4c0lBMkVWaHZnWGlNU1FNQQ?oc=5",
         "source": "The Hill",
-        "date": "Wed, 18 Nov 2026 20:59:00 GMT"
+        "date": "Wed, 18 Nov 2026 23:08:00 GMT"
+      },
+      {
+        "title": "Technology outages highlight need for backup plans, cybersecurity adviser says - WJLA",
+        "url": "https://news.google.com/rss/articles/CBMi2wJBVV95cUxOem9JS1hWYmdqYk9RYUxuLXlPNDlCUnJrUVJZZW95OUtReWNtbXpuV3J5eE1oYVVuTnY2MFBSd0c0eGVRd0MwRl9UZHRucFF0T29wUnROR3BxTVV0QnFURlZmSG8tWWRmeHdTTDJaTXdrVGI1TDZHanV4d28tLTRmaUVLN042UFNlMGZzRVhlWkQ5aS1malZGMHYwU1VBZE4tdHFqUVAxUlhIOXNjYjJYYUp6NTR4RE1VVldrSzdJZWQ3am9ISGFBZi1uY3RETU5iSFdqR0s5eFY0dnk2c3gteHNpQTM0WU40dndNSjk5dWJDV0FmZmdENnlhaExRZHRIR3VTcDRBZUZTcHBxTm1tVnpjVGEwbGZLM2pyUTZPN181dG5wM29QMGpGRFpTbnJCQ093YVc4TVVHZkxEQ2k1M3pod3hRdlU5ZmFEZzVwWWplazF3QUdGbVI1cw?oc=5",
+        "source": "WJLA",
+        "date": "Thu, 19 Nov 2026 01:09:37 GMT"
+      },
+      {
+        "title": "Recent tech outages spark cybersecurity concerns - WREG.com",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1oQXBpVU44VnBYdUtlUjVpdDF2TlJ0Zk5PeVBMeEdYUjFBd2V3enFoVzhCdGloWHVKTnZtQ2JFM0U0cm02RlNERGVwMTZkalZRLUUxUGR0NmFZbnA0N1NET2xPVnYwd1cyNjVxVk04V1JKQk42NDlodzluTdIBgAFBVV95cUxOdnlrcHAtRVM0MWswbGo5Z21OdXd1TWMxekpVWkJWZHRlM28wOThEVjRNM0x1Q04xeDRKM0JheWt2M01Gc0JnNm44RGE3eVBNMms4bFNvamt0MTRpT0NwQ2toRENyVzdWU19vd1kyU1VLT0FVLWVMZ3l3VjdzRzFBaw?oc=5",
+        "source": "WREG.com",
+        "date": "Wed, 18 Nov 2026 23:14:04 GMT"
+      },
+      {
+        "title": "Tech outages shine spotlight on infrastructure vulnerabilities - Federal News Network",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPOHJFdUE5TjJ2OHJvcXhXNktFRVJVSFVRRTZQX0dJTDloYUw3LUlXRzQwZ3N3anU2TmZEOGM2SjgzMmw0R2xtdHl4SmFXSEd1bjVqNEY4MWdhTmdQbEZleG1OVnhpSmMtS1Rpdm8tc2I1X1B0ZnpXZ0RfaU92ci1FZHhHbV9OMzN2UnotRjdYOTJ5d1BneWt1T0FUM2x6VC1Vbm5PdUpsZWRtcndDRWNsaG5nZXpVWGdVU1E?oc=5",
+        "source": "Federal News Network",
+        "date": "Wed, 18 Nov 2026 22:54:16 GMT"
       },
       {
         "title": "UC Davis announces phased IT restructuring to unify cybersecurity as a campus technology strategy - The California Aggie",
@@ -95,61 +113,49 @@
         "date": "Wed, 18 Nov 2026 21:58:59 GMT"
       },
       {
+        "title": "Mark Warner: Recent System Outages May Stem From AI-Driven Cybersecurity Efforts - ExecutiveGov",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQMXgyTmZPUDFBM3hVVVlSc2g1OWlNUXBBTlpaYUoyTlNOTVl1RXBDX0NFaU9hdFlZN05lalNVczNMSHBvRHBzVVFua1o3OGxPRzlxb1pkajRhaWJhWUhQT3hrZGhtMHJJWG9uM2tyZW95Q2I0OHZUQ2kzRzhhbTBQUlVNcEgzUjha?oc=5",
+        "source": "ExecutiveGov",
+        "date": "Wed, 18 Nov 2026 21:43:04 GMT"
+      },
+      {
+        "title": "What’s behind recent technology outages? UAB cybersecurity expert explains - wvtm",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxONVdpb1l6clNGLThDTkdub25SaUZFWG9Qbkc5d0RkMTJfcmctNFN6M3d5WWxBc0RDdVFTYzdpalJpQTNOeVcyNnVOcEJYMW8xZDFHVE5fcnpTejRwWTFrbHYwOXlld1J5djBILUpjMFB6STlJVGtZR3RFRFhONUlXUGpTWnY?oc=5",
+        "source": "wvtm",
+        "date": "Thu, 19 Nov 2026 00:33:00 GMT"
+      },
+      {
+        "title": "Cybersecurity threat shuts down online court case access across 20 California counties - Sacramento Bee",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5hcVNEaGxzNDVnMVFXU0xtR0ZCdlM5Z2VabXUzeER0T3Y0UXBMcnZuVVVyMWpkczlsaXdHZlcxU0dZVEZ5c2wtN1oyVjRHZlVCNTVPdVFXeTBDOFBtdldFWW1HcVdqSkXSAWdBVV95cUxQOWo2OE1OXzg2N1hkR2xKZzJIQjhvM0JMd2ZTbk9NQzg4MXpTXzdCc3pOM3ZMQmlURTNKNko2ZUUybzdrVUlaNWlVWk0yM241aE1GSnoxYzh6N2hpdVpXc3VfVllSaVJn?oc=5",
+        "source": "Sacramento Bee",
+        "date": "Wed, 18 Nov 2026 23:22:18 GMT"
+      },
+      {
+        "title": "Bentonville cybersecurity expert explains tech outages and cyberattacks - KHBS - khbs",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOdmJ0azNpODVZQTRObzR2NldZUEc2N2s4MjA4Z051OWlTSUR6djFTZ0FrdVRvR3k0cUJLRUZDSHlPNi1pbnJzQUxnSmdyc2FfUXRBSzZWUlF6bTJMcGhTYWJ5M0phT2JVdDRNU0FqY2V1YUdlczIyNmFmQjFhV3NfcmN6Qjg5VGJ4QnRvWEtmUHhFRnJyLVh1c0xRVHo2QmVTeEVWdV9YaG5Gd2ZrbEFDZA?oc=5",
+        "source": "khbs",
+        "date": "Thu, 19 Nov 2026 00:39:59 GMT"
+      },
+      {
         "title": "Cybersecurity experts share why people should have a 'digital disaster plan' - ABC News - Breaking News, Latest News and Videos",
         "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNRFhLS3J0MjMyYkxaTnVMTThNaDliY3VxQ0xGRXFFZWF2T2I0N2JqcUNNWURhUlJET1pnNWlCME13ZkE3cFB1akNwOGh3TE43cjN5dFo4TUdGM2pyNW92MF84MUoxbUdOcXYtYktXZXZzbzF6NHFuNmZRV3VqNE1xUTFVRmFMYnFYUWRSX2RmSzVzQ2h5NlliQW1QbzZhZzUxLS15cmJaTdIBrAFBVV95cUxQWXM3bTNrR0ZFMW9TOEJnT3JWb2FMQWUzYkl0ZU91ZVBIamE4WXVZcFhtNGZmamdMbjh0TnRhMWlmUFQwbkgyZ2poN3N4dVNoN3BocHpmUGhrRkdlLVJJeHdBRDZyYm4ySDgzRzQ2UEdoM1V3NjlEdEhCUWwwd3N4VEpBWmJEUG5hMTBjTE1DZkZTVTZjS1pUYlE3dDNwVnVHNjRwSC1RMFJLbFBJ?oc=5",
         "source": "ABC News - Breaking News, Latest News and Videos",
         "date": "Wed, 18 Nov 2026 14:48:58 GMT"
       },
       {
-        "title": "Tech Stocks Boosted by Cybersecurity Rally - WSJ",
-        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNLTRtOGhqWkZmcVhtaUlHYW1INGxOOE1zOC14aU9ja2lUajZ4c2lnNXRybk5Vb0NjSzNHM2drMjk5WVJfWnVpRUVsS24yNE90RUpZY09BalZZZG1hOXBiUURQNGY2eFlwR0tCdy1hRGRVVXRVMXAyeXN3ZDFlVHhfd29FYkJZMHI5eHI3bDNWTQ?oc=5",
-        "source": "WSJ",
-        "date": "Wed, 18 Nov 2026 21:40:00 GMT"
-      },
-      {
-        "title": "Warner Links System Outages to AI Cybersecurity Challenges - ExecutiveGov",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQMXgyTmZPUDFBM3hVVVlSc2g1OWlNUXBBTlpaYUoyTlNOTVl1RXBDX0NFaU9hdFlZN05lalNVczNMSHBvRHBzVVFua1o3OGxPRzlxb1pkajRhaWJhWUhQT3hrZGhtMHJJWG9uM2tyZW95Q2I0OHZUQ2kzRzhhbTBQUlVNcEgzUjha?oc=5",
-        "source": "ExecutiveGov",
-        "date": "Wed, 18 Nov 2026 21:43:04 GMT"
-      },
-      {
-        "title": "Cybersecurity expert shares why people should have a 'digital disaster plan' - ABC7 Bay Area",
-        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNYlJKWEZoS0xiTjk2RndYUVJ2b0ZoTVRscEJYUDd2YkpMbTh6bWYxU1R3UnNXNXNoR29zZXB5VkxmZ1o5Yk04d2M0R0ZZY0RoZHpHY1BTblViUTlXdE1OV2NoaWdUYVdHNTY4RzJoOGw3RXlxVXdnR0xIVmMyS3lZTkZ0Z0xpa2htblBJRHVPRW1rZUdrVmh2U184Y0VEZml3T05WNlBjYWI?oc=5",
-        "source": "ABC7 Bay Area",
-        "date": "Wed, 18 Nov 2026 13:04:59 GMT"
-      },
-      {
-        "title": "Tech outages shine spotlight on infrastructure vulnerabilities - Federal News Network",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPOHJFdUE5TjJ2OHJvcXhXNktFRVJVSFVRRTZQX0dJTDloYUw3LUlXRzQwZ3N3anU2TmZEOGM2SjgzMmw0R2xtdHl4SmFXSEd1bjVqNEY4MWdhTmdQbEZleG1OVnhpSmMtS1Rpdm8tc2I1X1B0ZnpXZ0RfaU92ci1FZHhHbV9OMzN2UnotRjdYOTJ5d1BneWt1T0FUM2x6VC1Vbm5PdUpsZWRtcndDRWNsaG5nZXpVWGdVU1E?oc=5",
-        "source": "Federal News Network",
-        "date": "Wed, 18 Nov 2026 22:52:58 GMT"
-      },
-      {
-        "title": "Cybersecurity expert warns of phishing scams following widespread tech outages - KGAN",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQWHl2c2NVc0dQVGlWVzFxTU90c2NKMWl2a0lqbDRpc3BBVlIxUnVyak80dWZVTWNxMUpmWU53b0ttbERoMDJuS2xUVzY1bkFYUm1EQ2ZrMkFfaFhzaTFQQkJiMEFFcGlDOWhGb001UE5NUmttLU9ocnMycWJoeFFaVUkzcFBBbE5VaG9rQXNDSm0tZ0ZINk1lb0RwRGNEZFVWZWZ2RC1va2o2amJodmhj?oc=5",
-        "source": "KGAN",
-        "date": "Wed, 18 Nov 2026 20:23:25 GMT"
-      },
-      {
-        "title": "Top 10: Telecom Cybersecurity Companies - Cyber Magazine",
-        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE4xU05wN2I0SU0ybzBJMXZKS3dadUprODZZaG9RQnB1b2VfWjBpNEZYOGZ4amlSU0RIMzZXQ3FfYXV6QVg5TDAwVFpZRXd3MHFTbjZfTWk5LTlENHhEX2IycGoyeC1Wa2Zmcml5SzhzZWhGWkZOeXFXNHNn?oc=5",
-        "source": "Cyber Magazine",
-        "date": "Wed, 18 Nov 2026 14:00:45 GMT"
-      },
-      {
-        "title": "AHA: Why Hospital Operational Technology Is a Possible Cyberattack Target - Florida Hospital News and Healthcare Report",
-        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPOVI5UlU0VGZaZXllYzRJSVU0VFdwWVlCYVh2X2hsVDUycFJZYTY5OWRCVElrQ0RLWnppZVdoQXJ2Zy14VkhTS1FsVWtkSmVNOXItbEVJaWk0eUJLOGpaRXE1dU8zbXZ0am9fZmlmUUdQSUFKRzNBN3RiZkFKMm1EWV9zSXJGVE05bV9oWnF2aUNnb2NZVzVjT0dYb3lsUENqb0s1WTZxeVJyekhoYV9zZ24taW9rM193N2xXNmZB?oc=5",
-        "source": "Florida Hospital News and Healthcare Report",
-        "date": "Wed, 18 Nov 2026 14:24:37 GMT"
-      },
-      {
-        "title": "The Real Reason Why Everything Seems to Be Crashing - Council on Foreign Relations",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE0tcDdYSWhfWFgwNnNwSHBndUxiYVMxc2h0ODBGdzZ2NXMybTJyZnJjUDJCaE5NV0F2dXJmUGlHTm1MczVmQUI0WXJEWS1mWUxnRF9jM0ZUQTFnMkhTZEdCQ1R3YXBoaWx0MXhQS2NXSi1uX1RLaGx6cGk0VQ?oc=5",
-        "source": "Council on Foreign Relations",
-        "date": "Wed, 18 Nov 2026 21:25:12 GMT"
+        "title": "Surge in software patches likely behind recent tech outages, experts say - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNbG5MRktqdzhYemc3QU9Yd0xudG9uN1lSbkd4YTd3dG44VUlfcTRzcW5WQ19qb2JTX0o0QVV6VHNuV0oxRFNzYUZSX2wySm9WRmk1S2swN2djcWNJc3I0S0FqbzBrV09oZlAzbVFGQUI5bWktb2ZYU3ExYWdCd2hNOHZIei16QU9UZXJDQ0FNRkk0S0FjRG85UUlXX09KTmFtYzQ4SVZQOXBXcHY1VVlzcV9wdGxTR1Mw?oc=5",
+        "source": "Reuters",
+        "date": "Wed, 18 Nov 2026 22:43:02 GMT"
       }
     ],
     "SCIENCE": [
+      {
+        "title": "Modular Autonomous Discovery for Science - Argonne National Laboratory (.gov)",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5VZ1A3RFFGNFh5M21INWFNMUNrSXZ2V2RSWE9mTmNPRmlLOUZtVG14WGlBRDlfUXE0MkMtWnV4eHFmRWhwTlJRZlhldFF2S29NZ2NVMmVFSk9oekQ2emZidnpsdnNJMFU2a3NCc1F6dGVBQQ?oc=5",
+        "source": "Argonne National Laboratory (.gov)",
+        "date": "Wed, 18 Nov 2026 23:24:03 GMT"
+      },
       {
         "title": "Lifesaving science at Yale: How Farren Isaacs is turning discovery into treatment - YaleNews",
         "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNeXhkUjluMllQbDNaOFJsbU44V2Q5ZXZaYXhxdkNQRlkwRGRrMzRhRi1OSFVWTnBwN0wwYmRkcnFhYkpJMEsxbTNmNkN4bVhheEhRNzJ5c2tvZi1JNndGWlNlRmNXa2w2X2E3bUVHb0g2ZWZiMXVac09abUZ0bHVRZXhfVGxYdDdfMU9qbmstUEZMdlpMTGtIdnBaOE1ZOHNoQTg1Rg?oc=5",
@@ -175,22 +181,16 @@
         "date": "Tue, 17 Nov 2026 18:57:21 GMT"
       },
       {
-        "title": "Asheville Museum of Science celebrates 10 years of discovery and looks toward ambitious future - The Beacon Tribune",
-        "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQQ0M0UVVKTTdrOGxLS0FLUTdHVDB5aVZEaVdMaUVQVWllSThSclJPUjF2dWFoTzdWOXhtRTczZUlzS05hUXl4UzBoVjNCWGFKdjFLQjJ3RUlGX1c1LW9tdnJLVjA2SmpFTkdqRTJkLTc4VWJZeVVRWGpHcHVQYkxUVzh6M3lLaWhxLVR4akJiSjRMbVVNS2dUUjFGdFFwSWVuazllMl9SVnBvbEI1MHJHZVN0ZExqd1ItR3gxQjdUSU96a1VVVmwwZHlFUDFhSnM1TUE0TmE2bUdnUHhwQ1FaVVZPYzNKS0lnVHQzWnZqbEliOUFxa0hsQkFubWdvcGJHeEpjZGtoNFRLcWdh?oc=5",
-        "source": "The Beacon Tribune",
-        "date": "Wed, 18 Nov 2026 05:00:00 GMT"
-      },
-      {
-        "title": "Schmidt Science Computing Network Partnership Will Power Research - Berkeley Lab News Center (.gov)",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQQlpGV3h2MHo4XzVZcWFScm9PZkFTMTQxMzd2bzlVZnhuVWJ3XzVKdmU4RzczX2NZUjM1QmxhWk9seFVCT2k3YjRtZVRPNFo1MVg3U0syQlAyd1luREhqbmYxZlBjTlN3RWtyYmgwRE1UR1M4ZnlMNmZzWnh3QURPMnZrNi1BajFEWnRCYUt5RGtrekJCRFlaM1VuMWVmVk9sQ3czclM4OA?oc=5",
-        "source": "Berkeley Lab News Center (.gov)",
-        "date": "Tue, 17 Nov 2026 00:07:10 GMT"
-      },
-      {
         "title": "NVIDIA Introduces Nemotron for Science to Accelerate Discoveries With Agents - NVIDIA Investor Relations",
         "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPV3c3UXM3ZVdpZnBvZW5ncUNSVUpZSXdOX1gwMW1OaEpGZ0wyNFV5dFc5TW9jQmgyc1FadG1lVjItNnljclFuN2tfZ0t1ZEpsZ243NExiR3dyRGtldzVCYk9yQldDTXhuSGJuUnFRdTljUElkLUpuQ3Z2akYxV0h3ejA1a1lZY01qTGNtQXNtS2pqWE5abmJFbGdMeV9Ld1M3a0hnakM1cy1aSW1tWE5zLTBRSVEtUEJIdEk5MGNWNU1vUUswcHgybWg5WXNnR0licER4eTVIX2VzQTRnN3JpZGpLNA?oc=5",
         "source": "NVIDIA Investor Relations",
         "date": "Tue, 17 Nov 2026 05:08:49 GMT"
+      },
+      {
+        "title": "Asheville Museum of Science celebrates 10 years of discovery and looks toward ambitious future - The Beacon Tribune",
+        "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQQ0M0UVVKTTdrOGxLS0FLUTdHVDB5aVZEaVdMaUVQVWllSThSclJPUjF2dWFoTzdWOXhtRTczZUlzS05hUXl4UzBoVjNCWGFKdjFLQjJ3RUlGX1c1LW9tdnJLVjA2SmpFTkdqRTJkLTc4VWJZeVVRWGpHcHVQYkxUVzh6M3lLaWhxLVR4akJiSjRMbVVNS2dUUjFGdFFwSWVuazllMl9SVnBvbEI1MHJHZVN0ZExqd1ItR3gxQjdUSU96a1VVVmwwZHlFUDFhSnM1TUE0TmE2bUdnUHhwQ1FaVVZPYzNKS0lnVHQzWnZqbEliOUFxa0hsQkFubWdvcGJHeEpjZGtoNFRLcWdh?oc=5",
+        "source": "The Beacon Tribune",
+        "date": "Wed, 18 Nov 2026 05:00:00 GMT"
       },
       {
         "title": "Discovery before delivery: how we build - Frontiers",
@@ -199,42 +199,48 @@
         "date": "Tue, 17 Nov 2026 14:56:44 GMT"
       },
       {
-        "title": "Raleigh Museum scientists are opening a 5,000-pound rare ostrich-like dinosaur fossil from Utah in a publ - The Times of India",
-        "url": "https://news.google.com/rss/articles/CBMinANBVV95cUxNQVlLVlpWVzNkd0lUN2ZWVmFNZ1RjNjFfbGVSMmhCcUpqb2lmd2ZIcEUwUnREVF9zYnVlUnE5UHZmTzB5SUJfVXZERGxDMTFJRVNMc0tUT2lZNWVGX2hQcy1hTm93WUVYNGZsMW9JaDFnNUNKeGdfdFdQZDNDN3lmclBfUFRwN3BQbm91dktpNkZsdUFiZW5jZXJfRmUwT0RuY19TN0xyeXBZUTBFSUl1Vl85RUp0Q2NNcl81VWppdjdJa2N1MWc3ZXpwSVVGYWg0cF92RnM2SUxPaTBucDdjc3RCZGQ3MUVveHZsZjgwM3J3QThiUW93blZWSG50TlhVRFowbnFrYU9hbXlVX2xpVW52aDJwdzhXZG5HMjdSRkZ3UUVoM1lCdGgyOERFbEllTWRwNHNuazY4WHBDYTB5VTBzLWJkYU1LTXdUTjExOVQtY001dy1hZjNBbnJiaDlFM2F3dG16OHRpNWJBQlVJUGZKSndzdGdjR0JGZThxdUJ0OWk4SWQ2azItdVhXR3UxMTlRV3dlUFoxWWs40gGiA0FVX3lxTE9ZcXpyTEFqZXp1Mkt6VWhMZUVISWRJTlVtMm95TlJZc2VJWkdvNmwzRE1Xa0FmVGdYRDJuV1pncFRsOWx6a05EcEk3WHBiUEhnNk9Xd1B6UXVBNXVpQWJZWW1Cb29PM05aZmxqbmZUWF9QS0VjNkI4Unc2cmNYR0ZRSlBFUTBrMTllWjMyblBMdkpsc1lZSWxjUHJxaV9URnlXT3BmdVpDdllFREJZTUxQcmJWX2N0YVF3OEN2NDFlV1RLQXVMMjNCc3laaElDSUJxbzdGZGV2c09peVNFUW5rVnZfRVFtMnBnQ2pFM0RURC1lekJTblNIeEltZk9SR2Q0aFhoYXU5TXZkaWdjNXRaMFFTMkdwdlJKV3RqR0xKeXo2RVF0RXNidjEyclpjekJUNjhfcWZLQkM0SUhuc1ZxN0tzblFJYy1SNWl5RmU1SkRlRjBRMWNxR0hfcEE1XzYyWVlyMzhkdy1NcjlNMklwY0hNUC1KSzhaLU41VkN1UFowOWZFS090MF9NcHNtN2Nrc3JZOTgxbXZGdndYTzJMZ2c?oc=5",
-        "source": "The Times of India",
-        "date": "Wed, 18 Nov 2026 06:35:00 GMT"
-      },
-      {
         "title": "A Forecast for Learning: How a Winston-Salem/Forsyth County Schools Teacher Brings Science to Life - Discovery Education",
         "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxONmIyMG41Z3ZNWE9jd1B1Nmlrd0Z6WmpWQy0tS2ZiR0FYc3hfQ1VianpLZWx4WEFha09HY2pFdnNCamNBY3d6U2huZktENGJzNGZsRnhtbU5mSW9pdEhtWUlZV20wWDh6N3BxelZvSlduWlBMeVZYSE5JYWNZc1N2Q1REQzNObTJkamluTXQtOFR6Vi01NTZnalBCV1ljcWthb3RyMUxuNA?oc=5",
         "source": "Discovery Education",
         "date": "Tue, 17 Nov 2026 21:52:54 GMT"
       },
       {
+        "title": "Scientists discover new dinosaur species deep in the Sahara Desert - ABC News - Breaking News, Latest News and Videos",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOTmJsWk01Sko4WjhxWGN5U0pOQUdCZ0xPWDU3dHFDaVhNdE5kQWxDQVJrS3pRbDFSSHFfZ1ZUN0tJNmtJeFMwaUpRUWZSa2JteWZ2bGhrVzBRZGhkdWFPSkFWTWM1TFJkelk1LTN4NFNsM24tV251aW5aYlRJMGxqSjgzSU9veU00X2RhQ1VjMUJkNmc0ZTFRWERETWRGRlh6eWlqSlI2dXpzV3V1aGtia1JB0gG3AUFVX3lxTE9xRnFuT19MRHA0RlZCc0otc21sN3NLUEJ0bTFhUnYxQzRnYjlsZjFnUG5sSEcyQ0dvcU1BY3dCS3B2LWEtSzM2eV9CQVdRVXR3Rk9ZSm9USG4yQktlOTdncmVmS2VEajJYOGpwN2k2dFhyVXd2RTY5Wm5RdEtYYjFZdGlJOEtvelpLS2dHSFU5OE56RGJMdmFIQXA4anZKcmxacGY5bHFNNjNTU3lKM2Q4aEVkSzBhUQ?oc=5",
+        "source": "ABC News - Breaking News, Latest News and Videos",
+        "date": "Tue, 17 Nov 2026 21:54:09 GMT"
+      },
+      {
+        "title": "Raleigh Museum scientists are opening a 5,000-pound rare ostrich-like dinosaur fossil from Utah in a publ - The Times of India",
+        "url": "https://news.google.com/rss/articles/CBMinANBVV95cUxNQVlLVlpWVzNkd0lUN2ZWVmFNZ1RjNjFfbGVSMmhCcUpqb2lmd2ZIcEUwUnREVF9zYnVlUnE5UHZmTzB5SUJfVXZERGxDMTFJRVNMc0tUT2lZNWVGX2hQcy1hTm93WUVYNGZsMW9JaDFnNUNKeGdfdFdQZDNDN3lmclBfUFRwN3BQbm91dktpNkZsdUFiZW5jZXJfRmUwT0RuY19TN0xyeXBZUTBFSUl1Vl85RUp0Q2NNcl81VWppdjdJa2N1MWc3ZXpwSVVGYWg0cF92RnM2SUxPaTBucDdjc3RCZGQ3MUVveHZsZjgwM3J3QThiUW93blZWSG50TlhVRFowbnFrYU9hbXlVX2xpVW52aDJwdzhXZG5HMjdSRkZ3UUVoM1lCdGgyOERFbEllTWRwNHNuazY4WHBDYTB5VTBzLWJkYU1LTXdUTjExOVQtY001dy1hZjNBbnJiaDlFM2F3dG16OHRpNWJBQlVJUGZKSndzdGdjR0JGZThxdUJ0OWk4SWQ2azItdVhXR3UxMTlRV3dlUFoxWWs40gGiA0FVX3lxTE9ZcXpyTEFqZXp1Mkt6VWhMZUVISWRJTlVtMm95TlJZc2VJWkdvNmwzRE1Xa0FmVGdYRDJuV1pncFRsOWx6a05EcEk3WHBiUEhnNk9Xd1B6UXVBNXVpQWJZWW1Cb29PM05aZmxqbmZUWF9QS0VjNkI4Unc2cmNYR0ZRSlBFUTBrMTllWjMyblBMdkpsc1lZSWxjUHJxaV9URnlXT3BmdVpDdllFREJZTUxQcmJWX2N0YVF3OEN2NDFlV1RLQXVMMjNCc3laaElDSUJxbzdGZGV2c09peVNFUW5rVnZfRVFtMnBnQ2pFM0RURC1lekJTblNIeEltZk9SR2Q0aFhoYXU5TXZkaWdjNXRaMFFTMkdwdlJKV3RqR0xKeXo2RVF0RXNidjEyclpjekJUNjhfcWZLQkM0SUhuc1ZxN0tzblFJYy1SNWl5RmU1SkRlRjBRMWNxR0hfcEE1XzYyWVlyMzhkdy1NcjlNMklwY0hNUC1KSzhaLU41VkN1UFowOWZFS090MF9NcHNtN2Nrc3JZOTgxbXZGdndYTzJMZ2c?oc=5",
+        "source": "The Times of India",
+        "date": "Wed, 18 Nov 2026 06:35:00 GMT"
+      },
+      {
         "title": "Cradle's Antibody Discovery Platform for Autoimmune Diseases Supports Scientific Mission of argenx - Yahoo! Finance Canada",
         "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNejMxV202VVU1eUtzWEVLdHN5NjhQQzQ4RVVFNnJLVlFqbWZtOUdyRkw0SFFUMUNPdGt0c3BTSV9JeE9OZmw1YzNSNFFsWU5qZ0NxTnZCZzZ0Qm45TVRIcTM3TlQ0Q2pTUUJxcXh4Zk1OYXh2VktuRjVXb2NScUF0QkxNWWdGY3JyR2JpY3VhdUgtUnVLUzQ3LV9YZw?oc=5",
         "source": "Yahoo! Finance Canada",
         "date": "Tue, 17 Nov 2026 13:00:00 GMT"
-      },
-      {
-        "title": "Scientists May Finally Know How Pure Sulfur Formed on Mars - Newsweek",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNWXVSN2J2OVVMMFVVcW5ORUs0eEVqQUptVWI2STRwdng4RUNRLWtUR1h5WGpXb3FyQWJFdndGUHY4Z1B4WlpNZkFONUt1SUV1a3VfMXRtMGVJOHYwdllLTFRXcEFZTjNHV3ROcFJfUzc5U001dHBnMmFfYjktM3lXZGVuRVVJVXB2TjNkZg?oc=5",
-        "source": "Newsweek",
-        "date": "Tue, 17 Nov 2026 16:43:00 GMT"
       }
     ],
     "SPACE": [
       {
-        "title": "Supernova explodes before astronomers' eyes photo of the day for Nov. 18, 2026 - Space",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQcUE4cGNUaTJfbkp5S1lnd3dZU29zODQzVUtrQWVmQVUwWGNDaDlZbDR0aFhfRFVRSmVKN1ZqMXJzNEhYNGd1YWhPVnlzdFBGM0daVDlKWnlZMmtSNUVwODVyX09zNkNib3ZKdUN3M2RlTFNiODlHdmxnLWlTU0pLR2tvRy1ZLW1RdVFEejdrNmF1aWZHbzJRbklpbnoxS3g3bUFnWGM0MG0zTVJqZUpvSGE1V2gyYUV4VnVCVGVXSGowOTVid09R?oc=5",
+        "title": "Astronomers witness a star eating its companion in 1st-of-its-kind observation - Space",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxON2NqUGNSN0hpWFFpX1ZQVGpwV2hXT1l5d1I3VEN0Tk5lcEhCekhJWDJVekNhRE5WcWNCeE8zWTVZNDFNWmNkMTlQVndZeUxmYTVWaGpaUGV5Y3RfTGRVQTRRSGRjQjVwcEMteVJyYWZTYUEwc0tjNnJFVHdSVFltUnVQSVhhazVpX1lvbWdNWWZSX1ZfZmJOQ3I3c2pfYXNYdktiZzB1by1pdjc5bW1EQlFrbEE2U3M?oc=5",
         "source": "Space",
-        "date": "Wed, 18 Nov 2026 15:00:00 GMT"
+        "date": "Wed, 18 Nov 2026 22:00:00 GMT"
       },
       {
         "title": "Astronomers watch a giant planet disappear for the first time - Mashable",
         "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5kRGFWY2xiNnd0dGVSb1J6WHhMUGRQY0ROUjJYVkduVXVlWkdFcDMza1F4TkkyWWRUZE9xMXY5R3NveU9Nc3dNeVZuUDhBY1BsaWc1cUJpbXBCMktydXNzb1dHclYwRWR3NGIyMWRTUGh1Q2NxeXlseG4tQ2d0dw?oc=5",
         "source": "Mashable",
-        "date": "Wed, 18 Nov 2026 20:05:21 GMT"
+        "date": "Wed, 18 Nov 2026 23:05:21 GMT"
+      },
+      {
+        "title": "Is 1998 KY26 a Dark Comet or the Phobos 1 Spacecraft? - Medium",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQVmRrQVhhUVl5dHdxeEZ3eldCZTdBeWZheUc5VnFIUWFEYUlmWXdLaGZSNFhGRkVMYllWYVJJUjlTbkp5NUNUM1NFX3gxME16YTg3UGFRc2JyRXktekR2RE1jLVdsaVRNXzVuVmVkT3VETEV1M0c5c3RnR0N0QmNwUUF1S2YtSk1UbHYwMEgxUFExX25mNGwycQ?oc=5",
+        "source": "Medium",
+        "date": "Wed, 18 Nov 2026 19:42:20 GMT"
       },
       {
         "title": "Fermi’s 14-Year All-Sky Map Bridges Astronomy’s Elusive \"MeV Gap\" - Universe Today",
@@ -243,10 +249,10 @@
         "date": "Wed, 18 Nov 2026 17:23:00 GMT"
       },
       {
-        "title": "Strange radio signals from space could come from a dead star - Phys.org",
-        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBfU0tOOUcxR29hdXB1bWFhVVVxSGRUUmNsRUgzWi1xeUJPZU1nbWM2Wk1Ub3A3d1pONTVoOXpUeU1CdHNjdVFGbkJuRy0zRGEwZ0dDZl81c2ZzUlFPUnczUkl0N091b05BNGtwQnc0WEFrZw?oc=5",
-        "source": "Phys.org",
-        "date": "Wed, 18 Nov 2026 18:24:12 GMT"
+        "title": "SEE THAT SINGLE, BRIGHT BLUE DOT IN THE WHITE SUN RAY? 👀 That's Earth, captured by Voyager 1 in 1990. On November 18, 2026, the spacecraft reached a distance of one light-day from Earth, equivalent to approximately 16 billion miles—making it t - Facebook",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPQ2xmcGxBSXhnY2E4dDhfRllhVUIzZ3NkQnRRWGlXVW1Xc2c0OFZYRHN6Wm96VHVsNlFXM1NNQktmbHJTd1BrNERKSHR4bV9lRk5YV0NSTktyT0U0RURzZVN2Vm5naTZCYW5ZWUloR0RVeGVYZE0wS0xEb2tybjN6Wnhza25FZ3R4bmpHRFlpZzhKZUt6QUZYY1RjOF9YQl91ZGVBVFBBa0x3d3AyNklEQlowbTAwNF9RYXh2ZHo5Y2IyR1RXMW9WTUQyTldVSzVEaU00SS1hVQ?oc=5",
+        "source": "Facebook",
+        "date": "Thu, 19 Nov 2026 00:47:03 GMT"
       },
       {
         "title": "Voyager 1 reaches a light-day from Earth - AccuWeather",
@@ -255,16 +261,28 @@
         "date": "Wed, 18 Nov 2026 20:49:08 GMT"
       },
       {
-        "title": "Lowcountry Stargazers are bringing outer space closer to Charleston residents - Post and Courier",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPcGZrNDRHVUNGWlR5T3VCUE9ZeVlRT0NsdVh1MWVvczZWdUFCTXh6SE84QWw5cEFLQ0tOakRDUEdQY3gxbjN0aUFRcXJzNlE4OGFKOXNoclR1YlYySmpHWm40aFFTdkZMd2VheFRUa0lZSFc5RU1oX1JPM29xWWEzY3UzbU1tS1BJdDdCaUJqMldPNXdJUWpPZlhmNTgxZDl1Rk5nNmtWb2ltQ0ZtOEVGQ0FQa3dTc2U0a2h6eWNxckhacUdrdGg0?oc=5",
-        "source": "Post and Courier",
-        "date": "Wed, 18 Nov 2026 10:00:00 GMT"
+        "title": "Strange radio signals from space could come from a dead star - Phys.org",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBfU0tOOUcxR29hdXB1bWFhVVVxSGRUUmNsRUgzWi1xeUJPZU1nbWM2Wk1Ub3A3d1pONTVoOXpUeU1CdHNjdVFGbkJuRy0zRGEwZ0dDZl81c2ZzUlFPUnczUkl0N091b05BNGtwQnc0WEFrZw?oc=5",
+        "source": "Phys.org",
+        "date": "Wed, 18 Nov 2026 18:24:12 GMT"
       },
       {
         "title": "Voyager's light-day milestone: Relive 50 years of the legendary NASA spacecraft's discoveries in photos - Live Science",
         "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOWkRWbmdTVGpVUGVaZUE3aWd4aTFUZVRyazMzaThycFRvZjYzdjhXclFET19BVEd2cjlreUdMWHdsSEE4VFkxQWJFV3J5X1RiZFBhUzdPLWdqX1BIblgzdEM0UVBtbnlWMzl1cTd0ekhYbi1FYmh4ejJtZ0liSDNaOTdPVmhHbGxYTWVJaTBFNUIzZ2VtYkUwdFB2Nm1heTBXMXN3S3VKU0xsb1ZUbjlnd2ZMbWpZaXBaWGJZNTFSUFFXX1ljTWg3QWktTU5lREZ4Zzdn?oc=5",
         "source": "Live Science",
         "date": "Wed, 18 Nov 2026 21:31:24 GMT"
+      },
+      {
+        "title": "Lowcountry Stargazers are bringing outer space closer to Charleston residents - Post and Courier",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPcGZrNDRHVUNGWlR5T3VCUE9ZeVlRT0NsdVh1MWVvczZWdUFCTXh6SE84QWw5cEFLQ0tOakRDUEdQY3gxbjN0aUFRcXJzNlE4OGFKOXNoclR1YlYySmpHWm40aFFTdkZMd2VheFRUa0lZSFc5RU1oX1JPM29xWWEzY3UzbU1tS1BJdDdCaUJqMldPNXdJUWpPZlhmNTgxZDl1Rk5nNmtWb2ltQ0ZtOEVGQ0FQa3dTc2U0a2h6eWNxckhacUdrdGg0?oc=5",
+        "source": "Post and Courier",
+        "date": "Wed, 18 Nov 2026 10:00:00 GMT"
+      },
+      {
+        "title": "New Dwarf Planet Candidate 2026 ED138 Found Past Neptune - Labroots",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPWFVDT0h0clJpZFZQVGY2RjB1SjRqY2k2VVctSW5mZHJkV1BuWUd6RThwVGdVLXBHM3MzRmRwS2g1OEYwNmFUWml6SmNEdHRIOUZ3aHU4ZFZ1VXAycHpMeEUzM1ZsMlN0LUR2WmV1Vm01azZRRzdSWldmU0pPMFIxaHBIOG1sVm5iMFFoaHdITkM4VmRTalZtbVVFY01oOWPSAaQBQVVfeXFMTWI2T2pmTS1keUZ4T1JXUFYwa1JsQTZfeUZRY3VmQWxaemVvekRKaG5wNFJpY0xPRVhLM0lfN29aQnd2U2ZuZVZUTGpwd3dqS0tvSElOV21BRHp4NVd0b1c3SWM3eEFVUlJYOEhOQzlaeXF5cGUzRWhrVUx5TVMyaUlLMG1samlvQkVhaFdsQWtHRFYwZGswOFVmbFJySHdOYW5xeXY?oc=5",
+        "source": "Labroots",
+        "date": "Wed, 18 Nov 2026 18:25:00 GMT"
       },
       {
         "title": "Cannibal giant star caught devouring its companion in super-rare event - New Scientist",
@@ -277,24 +295,6 @@
         "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1YTFRiQ2ZUekx3dHBKSEI2TWg4M3d1bTRiazF3bW9lTUNBY09OOGpVR2RWdC1ESVl4WlEzdDZoSkUxWlFLQ1d5eGdBVkZScG5jeklzRjVjc2MzaWF3Ni13Sm4xeXZDX3BUQklJMi1QMWk4QQ?oc=5",
         "source": "HowStuffWorks",
         "date": "Wed, 18 Nov 2026 15:42:01 GMT"
-      },
-      {
-        "title": "Astronomers witness a star eating its companion in 1st-of-its-kind observation - Space",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxON2NqUGNSN0hpWFFpX1ZQVGpwV2hXT1l5d1I3VEN0Tk5lcEhCekhJWDJVekNhRE5WcWNCeE8zWTVZNDFNWmNkMTlQVndZeUxmYTVWaGpaUGV5Y3RfTGRVQTRRSGRjQjVwcEMteVJyYWZTYUEwc0tjNnJFVHdSVFltUnVQSVhhazVpX1lvbWdNWWZSX1ZfZmJOQ3I3c2pfYXNYdktiZzB1by1pdjc5bW1EQlFrbEE2U3M?oc=5",
-        "source": "Space",
-        "date": "Wed, 18 Nov 2026 22:00:00 GMT"
-      },
-      {
-        "title": "NASA's Voyager 1 Has Reached One Light‑Day From Earth. It Is the First Human‑Made Object in Space to Reach that Distance - Smithsonian Magazine",
-        "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQS3JKSWc5SnVXbkF6dlJKTFFoMEZsUWlCd2owWC1IMFFVbHNvYW1yN3FHU3M5Yko1N1JfX21ZQVJ4UDRLVEJVQklLNmt0MWFmNWo1eDl2SXVIbU1saFpSbGkydkl2VzkyT01XaHAwM21heW5JUmpSMHZSQVJBUHdmUUhPdEpaNVVhQUpib3JFRk1hb2ktMHdwM0ZuLUs5c01KOHQ4Z1FWdUQ0aUtLN240ZVN3SGw3U0NWZXlJMVNmakFRVFBuT1B5c2dpV0JFSGhDeWJKbVRxSHZqc3dORmNmbnpWYlhiMU5aenRhSnowVDJTckhPT0wzWVVwaHFfRk93MkFNNXRMV1E1ak5M?oc=5",
-        "source": "Smithsonian Magazine",
-        "date": "Wed, 18 Nov 2026 16:42:35 GMT"
-      },
-      {
-        "title": "Mysterious radio signals traced to rare binary star system - EarthSky",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQcG9vaFlILU45T3NtZHlwSXFFX1J2WUdXUHE0MDBvbWlBYTg1dUJHWldqR3FRTDhWWElFLVVFNHRVcWd2Vy1UWEFxZy1hdHJIcDU1ZXNJLUw5ajE5SFFTQk8tZnNJOG9CNFhPTi03ZXQxZVp0QnFwOWdqWk9ldDR0SUVaaHZNcWNfdTJIbThmdFVWSGxUdWk2Y2pZR09DbGoyaHpQYw?oc=5",
-        "source": "EarthSky",
-        "date": "Wed, 18 Nov 2026 11:53:53 GMT"
       }
     ],
     "ECONOMY": [
@@ -305,10 +305,22 @@
         "date": "Wed, 18 Nov 2026 21:08:36 GMT"
       },
       {
+        "title": "Venezuelan business leaders hope US investments can bolster economy - Latin America Reports",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbnloRzFXRnlHSjV5bUhsZk9yQ0VIR3BxOWZpM3lrZ1RjZE1mR05Uak9DQmIxczNUbjN5d3dJU1dDdXJqMzVja1ZFaG5ncUZDd3dnT0hhQnlTZElKb3kzcVFQX0t5cGlpTURPSlJMTHJPaTRZYk5JNGJWRVlrWjVGYzRSYXJjTUFVUUJ5dWRlaUZyd0k1MHM5SkFGUFExQ2pVRHIzOW1yRFNhdw?oc=5",
+        "source": "Latin America Reports",
+        "date": "Wed, 18 Nov 2026 23:04:48 GMT"
+      },
+      {
         "title": "Fed minutes: Higher interest rates needed in December as inflation worries mount - Anchorage Daily News",
         "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQd2dnZTRDYlZlRl8zekxjTFBIRVVkZDJuQ2xVUDlYWFlVQThjcVBmQ2VuRm5iV0JDWGtIY3RJc0JpYWpVYnVSdHhiaFBua1NhUTVuek5JVnh3QWVoNzR0WUxDdExIZWt5aGViVG9LOXlJY1k2dmVTZko4ZGtOblFxMXpmUWtXdGE4SjhJeVBsWVVOOTB0UUlCVTRVdGt4bm1ESWVUUGdEbFVuekR3c0IzYkZXU2lfTXBfTHMwTXVxSEFWT2dIM1JV?oc=5",
         "source": "Anchorage Daily News",
-        "date": "Wed, 18 Nov 2026 20:35:04 GMT"
+        "date": "Wed, 18 Nov 2026 21:08:26 GMT"
+      },
+      {
+        "title": "Noon Business Lunch 11/18/26 – Terry Savage: The consumer is carrying the economy - WGN Radio 720",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPT1R4UkVRM1c5WkJBbEVnTmNtdTh4VmlRNjlhQ2NGQTUtN2lFVE8xblB6RFc3RmpQdXZZVTVJNUQ4ZEkzeE1NN3FBRFJ0QXZUeWpsNGZXdXRGX05UclpKajlERWJxVGNqa1JlbWpIUDVIQW5JbTlQMkRQbmw3bGlTSmZfZFRQa29iZDZVUUdQZF9nMVJBM1RSRDc5bERveE5ORTVQaERrQW9CQmUxNVdNR250S2Y1d9IBuwFBVV95cUxOYlRQOVVybC1tSVZwUDNvSmdXQmJtNWRZZ0tKYVl0bFFfdU5uTDhnVnhHVVNKU3doZEU0UmNMb1FFZWc2OFdUYTdKMXhqODZRWlV4dmxiSzBod2Q3aEEzc2ZtcjVYcDE1cUVtTWZ3ak5lZzlzSUxSdTRFWTQybTlhSzNDeHY3S0t2TU80dXEyT015MGdWYjFvMWRzUk5ESkRGRVo1OTVxNDhWZGowWmE2VWY5bjZsZ0dUc25J?oc=5",
+        "source": "WGN Radio 720",
+        "date": "Wed, 18 Nov 2026 22:02:18 GMT"
       },
       {
         "title": "Cook rebuffs hearing on alleged mortgage fraud - The Hill",
@@ -335,16 +347,10 @@
         "date": "Wed, 18 Nov 2026 06:32:45 GMT"
       },
       {
-        "title": "Aer Lingus to add Premium Economy on long-haul flights - The Business Travel Magazine",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPWGJLaXppMkNZdzRXd01VZU8zR1lwLUZrMEJMSkRoVEhZZG04ZThLazV1Q05KZVBtUVg1ZzBPTW40emV3UmJmcm1EVGd1X0F2b2JoOXNTWXVoV2N2Y0hyWnFOeldkc2FmZXRxcTFMeWlOMDNidUMzOWIzSVAwX2VrNWRYb0pNOV95YjJfVnVucWVaUQ?oc=5",
-        "source": "The Business Travel Magazine",
-        "date": "Wed, 18 Nov 2026 12:18:09 GMT"
-      },
-      {
-        "title": "Aer Lingus to launch first premium economy cabin in 2027 - Business Travel News Europe",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQbzNQdTViOXFjTjRPeDFZRUtRSG50VUZuZ0lvMWh2TkdMTHhKc2xMc3VBSmYxSnhjZVFWVXRkRGYxa3pkUjFQYmFxSEtuOHRmREk0YzBzenBmcElHYTExejVGdWFkS1paUG9hcUY2enUwVktxRkpCUmVyd05rLV91YlVmRDVubXBYN3ZHUlNGVmRMb0hJd0haRkViOVdRV2VaLXdzeERCd0dzbXJm?oc=5",
-        "source": "Business Travel News Europe",
-        "date": "Wed, 18 Nov 2026 14:33:26 GMT"
+        "title": "Putin Tells APEC Business Leaders Shenzhen’s Asia-Pacific Is Global Economy Center: how 8 outlets framed it - NewsCord",
+        "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOQTVjRVBlb3R4SzlrMDJMNUctaFRha2NseVJrNkhaS0Z0akVVbDJsdUNGOElLMFgzaVZhd0JMRW03RHJiVkpvMXhzTlhPS3pmYm5jQUFiSGY4NldwWFpTVGhEd2tqalZMMUx2VG5VcXpERDRGWHNfcVRPemlSclUzWTRXSS1ocUR1Ym84Ry1yR0VpQ0tSYklBMmNlY09DWk9oWENBa2lMXzF6N0FCejRYQ1Z6ZXJFRUlPMnlLbGlObjZvd0VYclRQUUJxaGR0MXJycUdPLWpydXVZY09YWXUyRTVWS3liRnZqcHc?oc=5",
+        "source": "NewsCord",
+        "date": "Wed, 18 Nov 2026 11:28:01 GMT"
       },
       {
         "title": "Putin Hails Russia’s Economic Resilience and Touts Closer Ties With China at APEC - The Moscow Times",
@@ -353,22 +359,16 @@
         "date": "Wed, 18 Nov 2026 10:57:37 GMT"
       },
       {
-        "title": "Putin Tells APEC Business Leaders Shenzhen’s Asia-Pacific Is Global Economy Center: how 8 outlets framed it - NewsCord",
-        "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOQTVjRVBlb3R4SzlrMDJMNUctaFRha2NseVJrNkhaS0Z0akVVbDJsdUNGOElLMFgzaVZhd0JMRW03RHJiVkpvMXhzTlhPS3pmYm5jQUFiSGY4NldwWFpTVGhEd2tqalZMMUx2VG5VcXpERDRGWHNfcVRPemlSclUzWTRXSS1ocUR1Ym84Ry1yR0VpQ0tSYklBMmNlY09DWk9oWENBa2lMXzF6N0FCejRYQ1Z6ZXJFRUlPMnlLbGlObjZvd0VYclRQUUJxaGR0MXJycUdPLWpydXVZY09YWXUyRTVWS3liRnZqcHc?oc=5",
-        "source": "NewsCord",
-        "date": "Wed, 18 Nov 2026 11:28:01 GMT"
+        "title": "Aer Lingus to launch first premium economy cabin in 2027 - Business Travel News Europe",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQbzNQdTViOXFjTjRPeDFZRUtRSG50VUZuZ0lvMWh2TkdMTHhKc2xMc3VBSmYxSnhjZVFWVXRkRGYxa3pkUjFQYmFxSEtuOHRmREk0YzBzenBmcElHYTExejVGdWFkS1paUG9hcUY2enUwVktxRkpCUmVyd05rLV91YlVmRDVubXBYN3ZHUlNGVmRMb0hJd0haRkViOVdRV2VaLXdzeERCd0dzbXJm?oc=5",
+        "source": "Business Travel News Europe",
+        "date": "Wed, 18 Nov 2026 14:33:26 GMT"
       },
       {
-        "title": "Ministry of Economy and Commerce to Hold Training for Entrepreneurs on Business Ethics and Anti-Corruption - EGOV.KG",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5OdjhMSHhOc2VGZkQ0VF9YSmN6dEJ0VnptODR1T2FPZnlCTU8yVThaWFJlXzB6UHZFUVpiT3NIOFkyVWx6M29uWkJuNTJOVUh6b2dOZlB0OW5aUQ?oc=5",
-        "source": "EGOV.KG",
-        "date": "Wed, 18 Nov 2026 08:48:43 GMT"
-      },
-      {
-        "title": "LA, OC Businesses Face Uneven 2027 Business Economy - MyNewsLA.com",
-        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOSFk4Si1RQmFWRmpLcDROU0pQNndQUU8tMkhiZHB4NmdUeEdVd3QyYWhvcE5LdEU0Nlp4MktONnVyLXM4dU5rTEpKY25YN3Q2RkQ1TnJvY1hfZUZWYmRmV0t3ZUZ3ZXRTMF90a2xvbHNuMk4tSWFKNGduV2hEYnYzWjVTUWxXRUZ5a1hJ?oc=5",
-        "source": "MyNewsLA.com",
-        "date": "Tue, 17 Nov 2026 14:30:00 GMT"
+        "title": "Aer Lingus to add Premium Economy on long-haul flights - The Business Travel Magazine",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPWGJLaXppMkNZdzRXd01VZU8zR1lwLUZrMEJMSkRoVEhZZG04ZThLazV1Q05KZVBtUVg1ZzBPTW40emV3UmJmcm1EVGd1X0F2b2JoOXNTWXVoV2N2Y0hyWnFOeldkc2FmZXRxcTFMeWlOMDNidUMzOWIzSVAwX2VrNWRYb0pNOV95YjJfVnVucWVaUQ?oc=5",
+        "source": "The Business Travel Magazine",
+        "date": "Wed, 18 Nov 2026 12:18:09 GMT"
       }
     ]
   }
